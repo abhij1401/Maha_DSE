@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>{% block title %}MAHA-DSE College Predictor{% endblock %}</title>
+  <meta name="description" content="Predict your Maharashtra Direct Second Year Engineering admission based on official CAP cutoff data." />
+
+  <!-- Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300;400;500;600;700&family=Inter:wght@300;400;500;600&display=swap" rel="stylesheet" />
+
+  <!-- Icons -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" />
+
+  <!-- Main CSS -->
+  <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}" />
+
+  {% block head %}{% endblock %}
+</head>
+<body>
+
+  <!-- ─── Navbar ─────────────────────────────────────────────── -->
+  <nav class="navbar" id="navbar">
+    <div class="nav-container">
+      <a href="/" class="nav-brand">
+        <span class="brand-icon"><i class="fas fa-graduation-cap"></i></span>
+        <span class="brand-text">MAHA<span class="brand-accent">DSE</span></span>
+      </a>
+
+      <ul class="nav-links" id="navLinks">
+        <li><a href="/#about" class="nav-link">About</a></li>
+        <li><a href="/#features" class="nav-link">Features</a></li>
+        <li><a href="/#how-it-works" class="nav-link">How It Works</a></li>
+        <li><a href="/#predict" class="nav-link">Predict</a></li>
+        <li><a href="/#history" class="nav-link">History</a></li>
+        <li><a href="/#faq" class="nav-link">FAQ</a></li>
+        <li><a href="/#contact" class="nav-link nav-cta">Get Started</a></li>
+      </ul>
+
+      <button class="nav-toggle" id="navToggle" aria-label="Toggle menu">
+        <span></span><span></span><span></span>
+      </button>
+    </div>
+  </nav>
+
+  <!-- ─── Page Content ───────────────────────────────────────── -->
+  <main>
+    {% block content %}{% endblock %}
+  </main>
+
+  <!-- ─── Footer ────────────────────────────────────────────── -->
+  <footer class="footer">
+    <div class="footer-inner">
+      <div class="footer-brand">
+        <span class="brand-icon"><i class="fas fa-graduation-cap"></i></span>
+        <span class="brand-text">MAHA<span class="brand-accent">DSE</span></span>
+        <p>Helping Maharashtra students find their right engineering college through data-driven predictions.</p>
+      </div>
+      <div class="footer-links">
+        <h4>Quick Links</h4>
+        <ul>
+          <li><a href="/#about">About</a></li>
+          <li><a href="/#features">Features</a></li>
+          <li><a href="/#predict">Predict Now</a></li>
+          <li><a href="/#faq">FAQ</a></li>
+        </ul>
+      </div>
+      <div class="footer-links">
+        <h4>Resources</h4>
+        <ul>
+          <li><a href="https://cetcell.mahacet.org/" target="_blank">CET Cell Maharashtra</a></li>
+          <li><a href="https://mahahereg.nic.in/" target="_blank">MHT-CET Portal</a></li>
+          <li><a href="/#contact">Contact Us</a></li>
+        </ul>
+      </div>
+      <div class="footer-contact">
+        <h4>Built By</h4>
+        <p><i class="fas fa-user"></i> Abhishek Jadhav</p>
+        <a href="https://github.com/abhij1401" target="_blank"><i class="fab fa-github"></i> github.com/abhij1401</a>
+        <a href="https://linkedin.com/in/abhishek-jadhav-a1085a2bb" target="_blank"><i class="fab fa-linkedin"></i> LinkedIn</a>
+      </div>
+    </div>
+    <div class="footer-bottom">
+      <p>© 2025 MAHA-DSE College Predictor · Built using official CAP Round cutoff data · For guidance only</p>
+    </div>
+  </footer>
+
+  <!-- ─── Global JS ──────────────────────────────────────────── -->
+  <script src="{{ url_for('static', filename='js/script.js') }}"></script>
+  {% block scripts %}{% endblock %}
+</body>
+</html>

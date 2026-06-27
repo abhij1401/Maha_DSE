@@ -1,0 +1,699 @@
+college_code,college_name,institute_type,choice_code,branch,stage,category,rank,percentile,round,academic_year
+1002,"Government College of Engineering, Amravati (Government Autonomous)",,100237210,,Stage-I,GST LSEBC,2124,90.22,2,2024
+1012,"Government College of Engineering,Yavatmal (Government)",,101261210,,Stage-I,GOPEN GSC GST GNTB GOBC GSEBC LOPEN LSC LNTC LNTD LOBC DEF-O EWS,29218,,2,2024
+1012,"Government College of Engineering,Yavatmal (Government)",,101261210,,Stage-II,GOPEN GSC GST GNTB GOBC GSEBC LOPEN LSC LNTC LNTD LOBC DEF-O EWS,22440,76.26,2,2024
+1114,"Sipna Shikshan Prasarak Mandal College of Engineering & Technology, Amravati (Un-Aided)",,111424610,,Stage-I,GSC GNTD LOPEN LST LOBC,10858,82.75,2,2024
+1116,"Shri Shivaji Education Societys College of Engineering and Technology, Akola (Un-Aided)",,111619110,,Stage-I,GOPEN GOBC LOPEN,34280,,2,2024
+1116,"Shri Shivaji Education Societys College of Engineering and Technology, Akola (Un-Aided)",,111650710,,Stage-I,GOPEN GSC,45532,63.07,2,2024
+1117,Janata Shikshan Prasarak Mandal (Un-Aided),,111799510,,Stage-I,GOPEN GSC GNTA LOPEN,39973,,2,2024
+1117,Janata Shikshan Prasarak Mandal (Un-Aided),,111799510,,Stage-II,GOPEN GSC GNTA LOPEN,43178,65.31,2,2024
+1120,"Jawaharlal Darda Institute of Engineering and Technology, Yavatmal (Un-Aided Linguistic Minority - Hindi)",,112024210,,Stage-I,LOPEN MI-MH,20782,77.09,2,2024
+1120,"Jawaharlal Darda Institute of Engineering and Technology, Yavatmal (Un-Aided Linguistic Minority - Hindi)",,112029310,,Stage-I,GOPEN MI-MH,33939,70.67,2,2024
+1120,"Jawaharlal Darda Institute of Engineering and Technology, Yavatmal (Un-Aided Linguistic Minority - Hindi)",,112089310,,Stage-I,LOPEN MI MI-MH,36695,69.29,2,2024
+1121,"Shri Hanuman Vyayam Prasarak Mandals College of Engineering & Technology, Amravati (Un-Aided)",,112124210,,Stage-I,GOPEN GSC LST LSEBC EWS,44365,,2,2024
+1121,"Shri Hanuman Vyayam Prasarak Mandals College of Engineering & Technology, Amravati (Un-Aided)",,112124210,,Stage-II,GOPEN GSC LST LSEBC EWS,13982,80.84,2,2024
+1125,"Dwarka Bahu Uddeshiya Gramin Vikas Foundation, Rajarshri Shahu College of Engineering, Buldhana (Un-Aided)",,112519110,,Stage-I,GOPEN GSC GST GNTB GNTC GOBC LOPEN LSC LST LOBC PWD-O DEF-O EWS,30929,,2,2024
+1125,"Dwarka Bahu Uddeshiya Gramin Vikas Foundation, Rajarshri Shahu College of Engineering, Buldhana (Un-Aided)",,112529310,,Stage-I,GOPEN GOBC LOPEN LSC LST LSEBC,41452,,2,2024
+1126,"Shri. Dadasaheb Gawai Charitable Trusts Dr. Smt. Kamaltai Gawai Institute of Engineering & Technology, Darapur, Amravati (Un-Aided)",,112619110,,Stage-I,GOPEN GSC GST GNTA GNTB GNTC GOBC LOPEN LST LOBC PWD-O DEF-O,45673,,2,2024
+1126,"Shri. Dadasaheb Gawai Charitable Trusts Dr. Smt. Kamaltai Gawai Institute of Engineering & Technology, Darapur, Amravati (Un-Aided)",,112661210,,Stage-I,GST GSEBC LNTA LOBC EWS,47197,,2,2024
+1127,"Jagadambha Bahuuddeshiya Gramin Vikas Sansthas Jagdambha College of Engineering and Technology, Yavatmal (Un-Aided)",,112729310,,Stage-I,LOPEN LSEBC,35234,70.0,2,2024
+1128,"Prof Ram Meghe College of Engineering and Management, Badnera (Un-Aided)",,112824210,,Stage-I,GOPEN GSC GST GOBC GSEBC LOPEN LOBC,12716,81.6,2,2024
+1128,"Prof Ram Meghe College of Engineering and Management, Badnera (Un-Aided)",,112824610,,Stage-I,GOPEN GSC GST GNTA GOBC LOPEN LOBC LSEBC,16704,79.31,2,2024
+1130,"Vision Buldhana Educational & Welfare Societys Pankaj Laddhad Institute of Technology & Management Studies, Yelgaon (Un-Aided)",,113019110,,Stage-II,GSC LOPEN,47685,60.0,2,2024
+1130,"Vision Buldhana Educational & Welfare Societys Pankaj Laddhad Institute of Technology & Management Studies, Yelgaon (Un-Aided)",,113061210,,Stage-I,GOPEN GSC GST GNTB GNTD GOBC LSC LNTA LNTC LOBC,46156,,2,2024
+1182,"Padmashri Dr. V.B. Kolte College of Engineering, Malkapur, Buldhana (Un-Aided)",,118224210,,Stage-I,GOPEN GST GOBC GSEBC,26522,74.23,2,2024
+1265,"Mauli Group of Institutions, College of Engineering and Technology, Shegaon. (Un-Aided)",,126561210,,Stage-I,GOPEN GSC GOBC LOPEN LOBC EWS,42807,,2,2024
+1265,"Mauli Group of Institutions, College of Engineering and Technology, Shegaon. (Un-Aided)",,126561210,,Stage-II,GOPEN GSC GOBC LOPEN LOBC EWS,47026,60.92,2,2024
+2008,"Government College of Engineering, Chhatrapati Sambhajinagar (Government Autonomous)",,200824210,,Stage-I,GOPEN LST,24213,,2,2024
+2008,"Government College of Engineering, Chhatrapati Sambhajinagar (Government Autonomous)",,200837210,,Stage-I,LST LOBC,33828,,2,2024
+2020,"Shri Guru Gobind Singhji Institute of Engineering and Technology, Nanded (Government-Aided Autonomous)",,202060610,,Stage-I,GOPEN GST GOBC,17991,78.57,2,2024
+2111,"Everest Education Society, Group of Institutions (Integrated Campus), Ohar (Un-Aided Religious Minority - Muslim)",,211129310,,Stage-I,GOPEN LOPEN MI MI-MH,37030,69.11,2,2024
+2111,"Everest Education Society, Group of Institutions (Integrated Campus), Ohar (Un-Aided Religious Minority - Muslim)",,211161210,,Stage-I,GOPEN LOPEN MI MI-MH,44324,,2,2024
+2111,"Everest Education Society, Group of Institutions (Integrated Campus), Ohar (Un-Aided Religious Minority - Muslim)",,211161210,,Stage-II,GOPEN LOPEN MI MI-MH,48806,54.51,2,2024
+2112,"Shree Yash Pratishthan, Shreeyash College of Engineering and Technology, Chhatrapati Sambhajinagar (Un-Aided)",,211224210,,Stage-I,GOPEN GST GOBC GSEBC LOPEN LSEBC EWS,17633,78.8,2,2024
+2112,"Shree Yash Pratishthan, Shreeyash College of Engineering and Technology, Chhatrapati Sambhajinagar (Un-Aided)",,211229310,,Stage-I,GOPEN GSC GST GOBC LOPEN LSC LOBC LSEBC EWS,22926,76.0,2,2024
+2112,"Shree Yash Pratishthan, Shreeyash College of Engineering and Technology, Chhatrapati Sambhajinagar (Un-Aided)",,211261210,,Stage-I,GOPEN GSC GST GNTB GNTC GNTD GOBC GSEBC LOPEN LSC LST LOBC LSEBC PWD-O DEF-O ORP EWS,34850,,2,2024
+2112,"Shree Yash Pratishthan, Shreeyash College of Engineering and Technology, Chhatrapati Sambhajinagar (Un-Aided)",,211291110,,Stage-I,GOPEN GST GSEBC,19390,77.81,2,2024
+2112,"Shree Yash Pratishthan, Shreeyash College of Engineering and Technology, Chhatrapati Sambhajinagar (Un-Aided)",,211291210,,Stage-I,GOPEN GSC GOBC LOPEN LST LSEBC EWS,22256,76.34,2,2024
+2113,"G. S. Mandals Maharashtra Institute of Technology, Chhatrapati Sambhajinagar (Un-Aided Autonomous)",,211301110,,Stage-I,GOPEN GSC,47005,60.97,2,2024
+2113,"G. S. Mandals Maharashtra Institute of Technology, Chhatrapati Sambhajinagar (Un-Aided Autonomous)",,211325710,,Stage-I,GOPEN LST,12872,81.49,2,2024
+2113,"G. S. Mandals Maharashtra Institute of Technology, Chhatrapati Sambhajinagar (Un-Aided Autonomous)",,211350110,,Stage-I,GOPEN LOPEN,39914,,2,2024
+2113,"G. S. Mandals Maharashtra Institute of Technology, Chhatrapati Sambhajinagar (Un-Aided Autonomous)",,211384410,,Stage-I,GOPEN GSC GNTC GSEBC LOPEN LST LOBC EWS,14352,80.63,2,2024
+2114,"Deogiri Institute of Engineering and Management Studies, Chhatrapati Sambhajinagar (Un-Aided)",,211419110,,Stage-I,GOPEN GST GNTA GNTC GNTD GOBC GSEBC LSEBC PWD-O EWS,16831,79.26,2,2024
+2114,"Deogiri Institute of Engineering and Management Studies, Chhatrapati Sambhajinagar (Un-Aided)",,211437210,,Stage-I,GOPEN GST LOPEN LNTA LNTC LOBC,22189,76.38,2,2024
+2114,"Deogiri Institute of Engineering and Management Studies, Chhatrapati Sambhajinagar (Un-Aided)",,211491110,,Stage-I,LST LOBC LSEBC EWS,9273,83.77,2,2024
+2116,"Matoshri Pratishans Group of Institutions (Integrated Campus), Kupsarwadi , Nanded (Un-Aided)",,211619110,,Stage-I,GOPEN GSC GOBC LOPEN LSC PWD-O DEF-O,40527,67.16,2,2024
+2116,"Matoshri Pratishans Group of Institutions (Integrated Campus), Kupsarwadi , Nanded (Un-Aided)",,211624210,,Stage-I,GOPEN GSC GST GOBC GSEBC LOPEN LNTB LOBC EWS,36572,,2,2024
+2116,"Matoshri Pratishans Group of Institutions (Integrated Campus), Kupsarwadi , Nanded (Un-Aided)",,211637210,,Stage-I,GOPEN GSC LOPEN,42209,66.0,2,2024
+2127,"Mahatma Gandhi Missions College of Engineering, Hingoli Rd, Nanded. (Un-Aided)",,212724610,,Stage-I,GOPEN GSC LST LOBC EWS,15783,79.83,2,2024
+2127,"Mahatma Gandhi Missions College of Engineering, Hingoli Rd, Nanded. (Un-Aided)",,212737210,,Stage-I,GST GOBC LOPEN LSEBC,29139,73.0,2,2024
+2129,"M.S. Bidve Engineering College, Latur (Un-Aided)",,212924210,,Stage-I,GSEBC LST,3115,88.97,2,2024
+2129,"M.S. Bidve Engineering College, Latur (Un-Aided)",,212929810,,Stage-I,GOPEN GSC GST GNTD GOBC GSEBC LST LNTA LOBC LSEBC DEF-O,28411,73.33,2,2024
+2129,"M.S. Bidve Engineering College, Latur (Un-Aided)",,212937610,,Stage-I,GOPEN GSC GST GNTB LOPEN,30947,72.11,2,2024
+2129,"M.S. Bidve Engineering College, Latur (Un-Aided)",,212961210,,Stage-I,GOPEN GSC GOBC GSEBC LOPEN PWD-O DEF-O,47105,60.77,2,2024
+2130,"Terna Public Charitable Trusts College of Engineering, Dharashiv (Un-Aided)",,213024210,,Stage-I,LST LSEBC,10454,83.03,2,2024
+2130,"Terna Public Charitable Trusts College of Engineering, Dharashiv (Un-Aided)",,213037210,,Stage-I,GOPEN GSC,37196,69.0,2,2024
+2130,"Terna Public Charitable Trusts College of Engineering, Dharashiv (Un-Aided)",,213099510,,Stage-I,GOPEN GNTA LOPEN LST LOBC LSEBC,32830,,2,2024
+2133,"Mahatma Basaweshwar Education Societys College of Engineering, Ambejogai (Un-Aided)",,213329310,,Stage-I,GOPEN GSC GNTD GOBC GSEBC LOPEN PWD-O DEF-O EWS,44376,,2,2024
+2133,"Mahatma Basaweshwar Education Societys College of Engineering, Ambejogai (Un-Aided)",,213329310,,Stage-II,GOPEN GSC GNTD GOBC GSEBC LOPEN PWD-O DEF-O EWS,47960,58.78,2,2024
+2134,"Peoples Education Societys College of Engineering, Chhatrapati Sambhajinagar (Un-Aided)",,213424210,,Stage-I,GOPEN GOBC LOPEN LST,17632,78.8,2,2024
+2134,"Peoples Education Societys College of Engineering, Chhatrapati Sambhajinagar (Un-Aided)",,213429310,,Stage-I,GOPEN GSC GST GNTB GOBC GSEBC LOPEN LSC LNTC EWS,41368,,2,2024
+2134,"Peoples Education Societys College of Engineering, Chhatrapati Sambhajinagar (Un-Aided)",,213429310,,Stage-II,GOPEN GSC GST GNTB GOBC GSEBC LOPEN LSC LNTC EWS,23405,75.78,2,2024
+2134,"Peoples Education Societys College of Engineering, Chhatrapati Sambhajinagar (Un-Aided)",,213437810,,Stage-I,GOPEN GSC GOBC LSC LOBC LSEBC PWD-O,43629,64.94,2,2024
+2134,"Peoples Education Societys College of Engineering, Chhatrapati Sambhajinagar (Un-Aided)",,213484410,,Stage-I,GSC GST GOBC LOBC LSEBC EWS,27960,73.54,2,2024
+2134,"Peoples Education Societys College of Engineering, Chhatrapati Sambhajinagar (Un-Aided)",,213491210,,Stage-I,GOPEN LOPEN LST LOBC,20550,77.2,2,2024
+2135,"Hi-Tech Institute of Technology, Chhatrapati Sambhajinagar (Un-Aided)",,213524210,,Stage-I,GOPEN GSC GST GNTD GOBC GSEBC LOPEN LST LNTB LOBC LSEBC PWD-O DEF-O EWS,18822,78.11,2,2024
+2135,"Hi-Tech Institute of Technology, Chhatrapati Sambhajinagar (Un-Aided)",,213591110,,Stage-I,GOPEN GSC LST LNTA LNTC,34925,,2,2024
+2135,"Hi-Tech Institute of Technology, Chhatrapati Sambhajinagar (Un-Aided)",,213591110,,Stage-II,GOPEN GSC LST LNTA LNTC,21725,76.59,2,2024
+2136,"Aditya Engineering College , Beed (Un-Aided)",,213629310,,Stage-II,GOPEN GSC GNTD GOBC GSEBC LOPEN LSC LST LOBC PWD-O DEF-O EWS,32372,71.44,2,2024
+2136,"Aditya Engineering College , Beed (Un-Aided)",,213661210,,Stage-I,GOPEN GSC GST GOBC GSEBC LOPEN LSC LST LSEBC PWD-O DEF-O ORP,36530,,2,2024
+2137,"Nagnathappa Halge Engineering College, Parli, Beed (Un-Aided)",,213719110,,Stage-I,GOPEN GNTD LOPEN,48742,,2,2024
+2137,"Nagnathappa Halge Engineering College, Parli, Beed (Un-Aided)",,213729710,,Stage-I,GOPEN GSC GSEBC LNTA LNTC LOBC LSEBC,37101,,2,2024
+2138,"Matsyodari Shikshan Sansathas College of Engineering and Technology, Jalna (Un-Aided)",,213819110,,Stage-I,GOPEN GSC GNTC LOPEN PWD-O DEF-O,45706,62.84,2,2024
+2138,"Matsyodari Shikshan Sansathas College of Engineering and Technology, Jalna (Un-Aided)",,213824210,,Stage-I,GOPEN GST,24540,75.2,2,2024
+2138,"Matsyodari Shikshan Sansathas College of Engineering and Technology, Jalna (Un-Aided)",,213861210,,Stage-I,GOPEN GSC GST GNTB GNTC GSEBC LOPEN LSC LST LNTB PWD-O DEF-O EWS,36802,,2,2024
+2146,"Adarsh Shikshan Prasarak Mandals K. T. Patil College of Engineering and Technology, Dharashiv (Un-Aided)",,214629710,,Stage-I,GOPEN GSC GST GNTC GOBC GSEBC LST LNTD LOBC LSEBC,32908,,2,2024
+2146,"Adarsh Shikshan Prasarak Mandals K. T. Patil College of Engineering and Technology, Dharashiv (Un-Aided)",,214661210,,Stage-I,GOPEN GSC GST GNTB GNTC GNTD GOBC GSEBC LOPEN LSC LOBC LSEBC PWD-O DEF-O,30773,,2,2024
+2250,"Aurangabad College of Engineering, Naygaon Savangi, Aurangabad (Un-Aided)",,225024210,,Stage-I,GST LOPEN LOBC EWS,12902,81.49,2,2024
+2250,"Aurangabad College of Engineering, Naygaon Savangi, Aurangabad (Un-Aided)",,225029310,,Stage-I,GOPEN GSC GST GNTA GOBC GSEBC LSC LST LOBC DEF-O ORP EWS,18226,78.44,2,2024
+2250,"Aurangabad College of Engineering, Naygaon Savangi, Aurangabad (Un-Aided)",,225061210,,Stage-I,GOPEN GST GOBC GSEBC LOPEN LSC LST LNTB LOBC LSEBC PWD-O DEF-O,42062,,2,2024
+2252,"Marathwada Shikshan Prasarak Mandals Shri Shivaji Institute of Engineering and Management Studies, Parbhani (Un-Aided)",,225219110,,Stage-I,GOPEN GSC GOBC GSEBC LSC PWD-O DEF-O,44084,64.53,2,2024
+2252,"Marathwada Shikshan Prasarak Mandals Shri Shivaji Institute of Engineering and Management Studies, Parbhani (Un-Aided)",,225224210,,Stage-I,GOPEN GSC GST,21882,76.51,2,2024
+2252,"Marathwada Shikshan Prasarak Mandals Shri Shivaji Institute of Engineering and Management Studies, Parbhani (Un-Aided)",,225229710,,Stage-I,GOPEN GSC LSEBC,20753,77.11,2,2024
+2252,"Marathwada Shikshan Prasarak Mandals Shri Shivaji Institute of Engineering and Management Studies, Parbhani (Un-Aided)",,225261210,,Stage-I,GOBC LOPEN PWD-O DEF-O EWS,29640,,2,2024
+2254,"Vilasrao Deshmukh Foundation Group of Institutions, Latur (Un-Aided)",,225419110,,Stage-I,GOPEN GSC GST GNTA GNTC GOBC LOPEN LSC LST LNTB LNTC LOBC PWD-O DEF-O ORP EWS,34151,70.55,2,2024
+2254,"Vilasrao Deshmukh Foundation Group of Institutions, Latur (Un-Aided)",,225429310,,Stage-I,GOPEN GSC GST GNTA GNTB GNTD GOBC GSEBC LOPEN LST LNTA LOBC LSEBC DEF-O ORP,28676,73.22,2,2024
+2282,"Aditya Education Trusts Mitthulalji Sarada Polytechnic, Nalwandi Road, Beed (Un-Aided)",,228219110,,Stage-I,GOPEN GSC GST GNTC GOBC GSEBC LOPEN LST LOBC LSEBC PWD-O DEF-O ORP,39988,,2,2024
+2282,"Aditya Education Trusts Mitthulalji Sarada Polytechnic, Nalwandi Road, Beed (Un-Aided)",,228229310,,Stage-I,GOPEN GSC GST GNTD GOBC GSEBC LSC LST LNTD LOBC LSEBC PWD-O DEF-O,47456,,2,2024
+2282,"Aditya Education Trusts Mitthulalji Sarada Polytechnic, Nalwandi Road, Beed (Un-Aided)",,228261210,,Stage-I,GOPEN GST GNTD GOBC GSEBC LOPEN LNTB LOBC PWD-O DEF-O,45139,,2,2024
+2522,"STMEIs Sandipani Technical Campus-Faculty of Engineering, Latur. (Un-Aided)",,252224510,,Stage-I,GOPEN GSC GST LOPEN LOBC,29200,,2,2024
+2522,"STMEIs Sandipani Technical Campus-Faculty of Engineering, Latur. (Un-Aided)",,252224510,,Stage-II,GOPEN GSC GST LOPEN LOBC,19903,77.54,2,2024
+2533,"CSMSS Chh. Shahu College of Engineering, Chhatrapati Sambhajinagar (Un-Aided)",,253329310,,Stage-I,GOPEN GNTC LST LNTB EWS,14579,80.5,2,2024
+2533,"CSMSS Chh. Shahu College of Engineering, Chhatrapati Sambhajinagar (Un-Aided)",,253361210,,Stage-I,GOPEN GSC GST GNTB GNTC GSEBC LOPEN LOBC DEF-O,29313,,2,2024
+2533,"CSMSS Chh. Shahu College of Engineering, Chhatrapati Sambhajinagar (Un-Aided)",,253361210,,Stage-II,GOPEN GSC GST GNTB GNTC GSEBC LOPEN LOBC DEF-O,37530,68.82,2,2024
+2533,"CSMSS Chh. Shahu College of Engineering, Chhatrapati Sambhajinagar (Un-Aided)",,253384410,,Stage-I,GOPEN GOBC LOPEN LST,16903,79.2,2,2024
+2533,"CSMSS Chh. Shahu College of Engineering, Chhatrapati Sambhajinagar (Un-Aided)",,253392810,,Stage-I,GOPEN GSC GST GNTB GOBC GSEBC LSC LOBC,20722,77.12,2,2024
+2533,"CSMSS Chh. Shahu College of Engineering, Chhatrapati Sambhajinagar (Un-Aided)",,253399510,,Stage-I,GOPEN GOBC LOPEN LST LOBC,12290,81.83,2,2024
+2641,Dr. V.K. Patil College of Engineering & Technology (Un-Aided),,264124210,,Stage-I,GOPEN GSC GNTB GOBC GSEBC LOPEN LSC LNTA LOBC DEF-O EWS,40156,67.37,2,2024
+2641,Dr. V.K. Patil College of Engineering & Technology (Un-Aided),,264129310,,Stage-I,GOPEN GSC GOBC LOPEN PWD-O DEF-O,33589,,2,2024
+2641,Dr. V.K. Patil College of Engineering & Technology (Un-Aided),,264129310,,Stage-II,GOPEN GSC GOBC LOPEN PWD-O DEF-O,48929,53.11,2,2024
+2641,Dr. V.K. Patil College of Engineering & Technology (Un-Aided),,264199710,,Stage-I,GOPEN GSC GST GNTC LOPEN LSC LOBC,30757,72.23,2,2024
+3033,"Dr. Babasaheb Ambedkar Technological University, Lonere (University Managed)",,303319110,,Stage-I,GOPEN GSC GST GOBC LOPEN PWD-O DEF-O,42885,,2,2024
+3033,"Dr. Babasaheb Ambedkar Technological University, Lonere (University Managed)",,303352710,,Stage-I,GOPEN LOPEN,48792,,2,2024
+3135,"Manjara Charitable Trusts Rajiv Gandhi Institute of Technology, Mumbai (Un-Aided)",,313537210,,Stage-I,GOPEN GSC GST GNTA GNTB GNTC GOBC GSEBC LOPEN LSC LST LOBC LSEBC PWD-O DEF-O ORP EWS,40235,,2,2024
+3135,"Manjara Charitable Trusts Rajiv Gandhi Institute of Technology, Mumbai (Un-Aided)",,313561210,,Stage-I,GOPEN GSC GST GNTB GOBC GSEBC LOPEN LST LNTA LNTB LNTC LSEBC PWD-O DEF-O ORP,33845,,2,2024
+3146,"Jawahar Education Societys Annasaheb Chudaman Patil College of Engineering,Kharghar, Navi Mumbai (Un-Aided)",,314629310,,Stage-I,GOPEN GSC GST GNTC GNTD GOBC GSEBC LOPEN LSC LST LOBC LSEBC PWD-O DEF-O ORP,41693,,2,2024
+3146,"Jawahar Education Societys Annasaheb Chudaman Patil College of Engineering,Kharghar, Navi Mumbai (Un-Aided)",,314637210,,Stage-I,GOPEN GSC GST GNTC GOBC GSEBC LOPEN LNTA LOBC,43171,,2,2024
+3146,"Jawahar Education Societys Annasaheb Chudaman Patil College of Engineering,Kharghar, Navi Mumbai (Un-Aided)",,314661210,,Stage-I,GOPEN GSC GOBC LOPEN PWD-O DEF-O,45559,,2,2024
+3146,"Jawahar Education Societys Annasaheb Chudaman Patil College of Engineering,Kharghar, Navi Mumbai (Un-Aided)",,314661210,,Stage-II,GOPEN GSC GOBC LOPEN PWD-O DEF-O,48962,52.47,2,2024
+3146,"Jawahar Education Societys Annasaheb Chudaman Patil College of Engineering,Kharghar, Navi Mumbai (Un-Aided)",,314699510,,Stage-I,GOPEN GOBC LOPEN LST,11044,82.63,2,2024
+3147,"Saraswati Education Society, Yadavrao Tasgaonkar Institute of Engineering & Technology, Karjat (Un-Aided)",,314724510,,Stage-I,GOPEN GSC GST GNTC GOBC GSEBC LOPEN LSC LST LNTA LNTC LNTD LOBC LSEBC PWD-O,25841,,2,2024
+3147,"Saraswati Education Society, Yadavrao Tasgaonkar Institute of Engineering & Technology, Karjat (Un-Aided)",,314724510,,Stage-II,GOPEN GSC GST GNTC GOBC GSEBC LOPEN LSC LST LNTA LNTC LNTD LOBC LSEBC PWD-O,22814,76.06,2,2024
+3147,"Saraswati Education Society, Yadavrao Tasgaonkar Institute of Engineering & Technology, Karjat (Un-Aided)",,314724610,,Stage-I,GOPEN GSC GST GNTA GNTB GNTC GNTD GOBC GSEBC LOPEN LSC LST LNTA LOBC LSEBC PWD-O DEF-O ORP,42148,,2,2024
+3147,"Saraswati Education Society, Yadavrao Tasgaonkar Institute of Engineering & Technology, Karjat (Un-Aided)",,314761210,,Stage-I,GOPEN GSC GST LOPEN PWD-O DEF-O EWS,39310,,2,2024
+3147,"Saraswati Education Society, Yadavrao Tasgaonkar Institute of Engineering & Technology, Karjat (Un-Aided)",,314761210,,Stage-II,GOPEN GSC GST LOPEN PWD-O DEF-O EWS,49032,50.15,2,2024
+3148,"Mahavir Education Trusts Shah & Anchor Kutchhi Engineering College, Mumbai (Un-Aided Linguistic Minority - Gujarath)",,314837210,,Stage-I,GOPEN LOPEN MI MI-MH,26626,74.18,2,2024
+3148,"Mahavir Education Trusts Shah & Anchor Kutchhi Engineering College, Mumbai (Un-Aided Linguistic Minority - Gujarath)",,314837810,,Stage-I,GOPEN LOPEN MI-MH,46878,61.21,2,2024
+3148,"Mahavir Education Trusts Shah & Anchor Kutchhi Engineering College, Mumbai (Un-Aided Linguistic Minority - Gujarath)",,314892810,,Stage-I,GOPEN LOPEN,45335,,2,2024
+3154,"Saraswati Education Societys Saraswati College of Engineering,Kharghar Navi Mumbai (Un-Aided)",,315419110,,Stage-I,GOPEN GSC GNTA GOBC LOPEN PWD-O DEF-O,49036,50.11,2,2024
+3154,"Saraswati Education Societys Saraswati College of Engineering,Kharghar Navi Mumbai (Un-Aided)",,315491110,,Stage-I,GOBC LST,6718,85.6,2,2024
+3175,"M.G.M.s College of Engineering and Technology, Kamothe, Navi Mumbai (Un-Aided)",,317519110,,Stage-I,GOPEN GSC GOBC LOPEN LSC LOBC PWD-O DEF-O,48489,,2,2024
+3175,"M.G.M.s College of Engineering and Technology, Kamothe, Navi Mumbai (Un-Aided)",,317524510,,Stage-I,GOPEN GSC GNTC GOBC LOPEN LSC LST LOBC PWD-O EWS,10265,83.14,2,2024
+3175,"M.G.M.s College of Engineering and Technology, Kamothe, Navi Mumbai (Un-Aided)",,317524610,,Stage-I,GOPEN GST GNTB GOBC LOPEN LST LNTC LNTD LOBC EWS,20466,,2,2024
+3175,"M.G.M.s College of Engineering and Technology, Kamothe, Navi Mumbai (Un-Aided)",,317529310,,Stage-I,GOPEN GSC GNTA GNTC GOBC GSEBC LOPEN LNTA LNTB LNTD LOBC LSEBC PWD-O DEF-O EWS,47973,,2,2024
+3175,"M.G.M.s College of Engineering and Technology, Kamothe, Navi Mumbai (Un-Aided)",,317537210,,Stage-I,GOPEN GSC GST GNTB GNTC GOBC LOPEN LSC LNTA LOBC,46979,,2,2024
+3175,"M.G.M.s College of Engineering and Technology, Kamothe, Navi Mumbai (Un-Aided)",,317550710,,Stage-I,GOPEN LOPEN PWD-O,48113,,2,2024
+3175,"M.G.M.s College of Engineering and Technology, Kamothe, Navi Mumbai (Un-Aided)",,317550710,,Stage-II,GOPEN LOPEN PWD-O,48632,55.83,2,2024
+3175,"M.G.M.s College of Engineering and Technology, Kamothe, Navi Mumbai (Un-Aided)",,317591110,,Stage-I,GOPEN GST GNTC GNTD GSEBC LOPEN LSEBC PWD-O DEF-O,14148,80.74,2,2024
+3175,"M.G.M.s College of Engineering and Technology, Kamothe, Navi Mumbai (Un-Aided)",,317591210,,Stage-I,GOPEN GST GSEBC LOPEN LST LNTD EWS,14887,,2,2024
+3182,"Thadomal Shahani Engineering College, Bandra, Mumbai (Un-Aided Linguistic Minority - Sindhi)",,318250710,,Stage-I,GOPEN MI-MH,39205,67.93,2,2024
+3184,"Fr. Conceicao Rodrigues College of Engineering, Bandra,Mumbai (Un-Aided Religious Minority - Christian)",,318461210,,Stage-I,GOPEN LOPEN MI-MH,17839,,2,2024
+3184,"Fr. Conceicao Rodrigues College of Engineering, Bandra,Mumbai (Un-Aided Religious Minority - Christian)",,318461210,,Stage-II,GOPEN LOPEN MI-MH,41231,66.72,2,2024
+3185,"Vivekanand Education Societys Institute of Technology, Chembur, Mumbai (Un-Aided Autonomous Linguistic Minority - Sindhi)",,318537210,,Stage-I,GOPEN MI-MH,7759,84.82,2,2024
+3187,"N.Y.S.S.s Datta Meghe College of Engineering, Airoli, Navi Mumbai (Un-Aided)",,318737210,,Stage-I,GOPEN GSC GST GNTB GNTC GOBC GSEBC LOPEN LNTD LOBC PWD-O DEF-O,40538,,2,2024
+3187,"N.Y.S.S.s Datta Meghe College of Engineering, Airoli, Navi Mumbai (Un-Aided)",,318791810,,Stage-I,GOPEN GSC GST GNTA GNTB GNTC GNTD GOBC GSEBC LOPEN LOBC PWD-O DEF-O,22563,,2,2024
+3189,"Bharati Vidyapeeth College of Engineering, Navi Mumbai (Un-Aided)",,318937210,,Stage-I,GOPEN GSC GST GNTB GOBC LOPEN LSC LOBC EWS,39816,,2,2024
+3190,"Terna Engineering College, Nerul, Navi Mumbai (Un-Aided)",,319019110,,Stage-I,GOPEN GSC GST GNTC GNTD GOBC GSEBC LOPEN LNTA LNTB LOBC LSEBC DEF-O,23048,,2,2024
+3190,"Terna Engineering College, Nerul, Navi Mumbai (Un-Aided)",,319019110,,Stage-II,GOPEN GSC GST GNTC GNTD GOBC GSEBC LOPEN LNTA LNTB LOBC LSEBC DEF-O,19613,77.68,2,2024
+3190,"Terna Engineering College, Nerul, Navi Mumbai (Un-Aided)",,319037610,,Stage-I,GOPEN GSC GOBC LOPEN,47610,,2,2024
+3190,"Terna Engineering College, Nerul, Navi Mumbai (Un-Aided)",,319061210,,Stage-I,GOPEN GSC GOBC LOPEN,48697,,2,2024
+3190,"Terna Engineering College, Nerul, Navi Mumbai (Un-Aided)",,319062410,,Stage-I,GSC GST GOBC GSEBC LOPEN LNTA LNTD,22168,,2,2024
+3192,"Smt. Indira Gandhi College of Engineering, Navi Mumbai (Un-Aided)",,319229310,,Stage-II,GOPEN GSC GST GNTD GOBC GSEBC LST LOBC LSEBC PWD-O DEF-O EWS,7783,84.8,2,2024
+3192,"Smt. Indira Gandhi College of Engineering, Navi Mumbai (Un-Aided)",,319292010,,Stage-I,GOPEN GST EWS,12509,81.71,2,2024
+3192,"Smt. Indira Gandhi College of Engineering, Navi Mumbai (Un-Aided)",,319299510,,Stage-I,GOPEN GOBC LST EWS,11921,82.06,2,2024
+3193,"Shivajirao S. Jondhale College of Engineering, Dombivali,Mumbai (Un-Aided)",,319350710,,Stage-I,GOPEN GSC GST GNTA GNTB GNTD GOBC GSEBC LOPEN LST LNTD LSEBC DEF-O,43008,65.44,2,2024
+3193,"Shivajirao S. Jondhale College of Engineering, Dombivali,Mumbai (Un-Aided)",,319361210,,Stage-I,GOPEN GSC GNTC LOPEN LSC PWD-O DEF-O EWS,42560,,2,2024
+3193,"Shivajirao S. Jondhale College of Engineering, Dombivali,Mumbai (Un-Aided)",,319361210,,Stage-II,GOPEN GSC GNTC LOPEN LSC PWD-O DEF-O EWS,47344,60.29,2,2024
+3193,"Shivajirao S. Jondhale College of Engineering, Dombivali,Mumbai (Un-Aided)",,319392110,,Stage-I,GOPEN GSC LOPEN LSC LST LNTC,33987,,2,2024
+3193,"Shivajirao S. Jondhale College of Engineering, Dombivali,Mumbai (Un-Aided)",,319392110,,Stage-II,GOPEN GSC LOPEN LSC LST LNTC,15306,80.06,2,2024
+3194,"Vidyavardhinis College of Engineering and Technology, Vasai (Un-Aided)",,319424510,,Stage-I,GSC LST EWS,2440,89.83,2,2024
+3196,"Lokmanya Tilak College of Engineering, Kopar Khairane, Navi Mumbai (Un-Aided Linguistic Minority - Hindi)",,319629310,,Stage-I,GOPEN MI MI-MH,22521,76.22,2,2024
+3196,"Lokmanya Tilak College of Engineering, Kopar Khairane, Navi Mumbai (Un-Aided Linguistic Minority - Hindi)",,319637210,,Stage-I,GOPEN LOPEN MI-MH,48099,58.35,2,2024
+3197,"Agnel Charities FR. C. Rodrigues Institute of Technology, Vashi, Navi Mumbai (Un-Aided Religious Minority - Christian)",,319724610,,Stage-I,GOPEN MI-MH,2219,90.11,2,2024
+3197,"Agnel Charities FR. C. Rodrigues Institute of Technology, Vashi, Navi Mumbai (Un-Aided Religious Minority - Christian)",,319729310,,Stage-I,GOPEN MI-MH,6511,85.79,2,2024
+3197,"Agnel Charities FR. C. Rodrigues Institute of Technology, Vashi, Navi Mumbai (Un-Aided Religious Minority - Christian)",,319737210,,Stage-I,GOPEN MI-MH,10566,82.94,2,2024
+3197,"Agnel Charities FR. C. Rodrigues Institute of Technology, Vashi, Navi Mumbai (Un-Aided Religious Minority - Christian)",,319761210,,Stage-I,GOPEN MI-MH,15394,80.05,2,2024
+3198,"Konkan Gyanpeeth College of Engineering, Karjat (Un-Aided)",,319824510,,Stage-I,GOPEN GNTD GOBC GSEBC LOPEN LOBC,21329,76.8,2,2024
+3200,"Hope Foundation and research centers Finolex Academy of Management and Technology, Ratnagiri (Un-Aided)",,320037210,,Stage-I,GOPEN LST LSEBC,18985,,2,2024
+3200,"Hope Foundation and research centers Finolex Academy of Management and Technology, Ratnagiri (Un-Aided)",,320037210,,Stage-II,GOPEN LST LSEBC,11480,82.35,2,2024
+3200,"Hope Foundation and research centers Finolex Academy of Management and Technology, Ratnagiri (Un-Aided)",,320061210,,Stage-I,GOPEN GSC GST GNTC GNTD GOBC GSEBC LOPEN LSC LNTA LNTB LSEBC PWD-O,16742,,2,2024
+3200,"Hope Foundation and research centers Finolex Academy of Management and Technology, Ratnagiri (Un-Aided)",,320061210,,Stage-II,GOPEN GSC GST GNTC GNTD GOBC GSEBC LOPEN LSC LNTA LNTB LSEBC PWD-O,31395,71.9,2,2024
+3203,"Atharva College of Engineering,Malad(West),Mumbai (Un-Aided)",,320329310,,Stage-I,GOPEN GSC GST GNTA GNTC GOBC GSEBC LOPEN LOBC LSEBC PWD-O DEF-O,46531,,2,2024
+3204,"St. Francis Institute of Technology,Borivali, Mumbai (Un-Aided Religious Minority - Christian)",,320437210,,Stage-I,GOPEN LOPEN MI-MH,44080,,2,2024
+3204,"St. Francis Institute of Technology,Borivali, Mumbai (Un-Aided Religious Minority - Christian)",,320437210,,Stage-II,GOPEN LOPEN MI-MH,49077,45.85,2,2024
+3204,"St. Francis Institute of Technology,Borivali, Mumbai (Un-Aided Religious Minority - Christian)",,320461210,,Stage-I,GOPEN LOPEN MI MI-MH,15812,,2,2024
+3204,"St. Francis Institute of Technology,Borivali, Mumbai (Un-Aided Religious Minority - Christian)",,320461210,,Stage-II,GOPEN LOPEN MI MI-MH,39598,67.69,2,2024
+3206,"S.S.P.M.s College of Engineering, Kankavli (Un-Aided)",,320624510,,Stage-I,GOPEN GSC GST GNTA GOBC LOPEN LSC LOBC PWD-O DEF-O EWS,41003,,2,2024
+3207,"Mahatma Education Societys Pillai College of Engineering, New Panvel (Un-Aided Autonomous Linguistic Minority - Malyalam)",,320724510,,Stage-I,GOPEN MI-MH,4692,87.38,2,2024
+3207,"Mahatma Education Societys Pillai College of Engineering, New Panvel (Un-Aided Autonomous Linguistic Minority - Malyalam)",,320724610,,Stage-I,GOPEN MI-MH,5512,86.63,2,2024
+3207,"Mahatma Education Societys Pillai College of Engineering, New Panvel (Un-Aided Autonomous Linguistic Minority - Malyalam)",,320737210,,Stage-I,GOPEN LOPEN MI-MH,47669,60.0,2,2024
+3207,"Mahatma Education Societys Pillai College of Engineering, New Panvel (Un-Aided Autonomous Linguistic Minority - Malyalam)",,320760210,,Stage-I,GOPEN LOPEN MI-MH,36691,,2,2024
+3207,"Mahatma Education Societys Pillai College of Engineering, New Panvel (Un-Aided Autonomous Linguistic Minority - Malyalam)",,320760210,,Stage-II,GOPEN LOPEN MI-MH,47652,60.0,2,2024
+3207,"Mahatma Education Societys Pillai College of Engineering, New Panvel (Un-Aided Autonomous Linguistic Minority - Malyalam)",,320761210,,Stage-I,GOPEN LOPEN MI-MH,16181,,2,2024
+3207,"Mahatma Education Societys Pillai College of Engineering, New Panvel (Un-Aided Autonomous Linguistic Minority - Malyalam)",,320761210,,Stage-II,GOPEN LOPEN MI-MH,36536,69.38,2,2024
+3207,"Mahatma Education Societys Pillai College of Engineering, New Panvel (Un-Aided Autonomous Linguistic Minority - Malyalam)",,320790010,,Stage-I,GOPEN MI-MH,14442,80.57,2,2024
+3208,"Don Bosco Institute of Technology, Mumbai (Un-Aided Religious Minority - Roman Cat)",,320837210,,Stage-I,GOPEN LOPEN MI-MH,29699,72.74,2,2024
+3208,"Don Bosco Institute of Technology, Mumbai (Un-Aided Religious Minority - Roman Cat)",,320861210,,Stage-I,GOPEN LOPEN MI-MH,22904,,2,2024
+3208,"Don Bosco Institute of Technology, Mumbai (Un-Aided Religious Minority - Roman Cat)",,320861210,,Stage-II,GOPEN LOPEN MI-MH,38284,68.41,2,2024
+3209,K J Somaiya Institute of Technology (Un-Aided Autonomous Linguistic Minority - Gujarath),,320937210,,Stage-I,GOPEN LOPEN MI MI-MH,22967,76.0,2,2024
+3210,"Excelsior Education Societys K.C. College of Engineering and Management Studies and Research, Kopri, Thane (E) (Un-Aided Linguistic Minority - Punjabi)",,321024610,,Stage-I,GOPEN MI-MH,10069,83.26,2,2024
+3210,"Excelsior Education Societys K.C. College of Engineering and Management Studies and Research, Kopri, Thane (E) (Un-Aided Linguistic Minority - Punjabi)",,321037210,,Stage-I,GOPEN LOPEN MI-MH,46296,62.06,2,2024
+3211,"S.I.E.S. Graduate School of Technology, Nerul, Navi Mumbai (Un-Aided Linguistic Minority - Tamil)",,321124610,,Stage-I,GOPEN MI-MH,4463,87.6,2,2024
+3211,"S.I.E.S. Graduate School of Technology, Nerul, Navi Mumbai (Un-Aided Linguistic Minority - Tamil)",,321137210,,Stage-I,GOPEN MI-MH,25152,75.0,2,2024
+3211,"S.I.E.S. Graduate School of Technology, Nerul, Navi Mumbai (Un-Aided Linguistic Minority - Tamil)",,321161210,,Stage-I,GOPEN LOPEN MI-MH,35179,,2,2024
+3211,"S.I.E.S. Graduate School of Technology, Nerul, Navi Mumbai (Un-Aided Linguistic Minority - Tamil)",,321161210,,Stage-II,GOPEN LOPEN MI-MH,47755,59.33,2,2024
+3211,"S.I.E.S. Graduate School of Technology, Nerul, Navi Mumbai (Un-Aided Linguistic Minority - Tamil)",,321192110,,Stage-I,GOPEN MI-MH,4514,87.54,2,2024
+3212,"WATUMULL INSTITUTE OF ELECTRONICS ENGINEERING & COMPUTER TECHNOLOGY, ULHASNAGAR (Un-Aided Linguistic Minority - Sindhi)",,321224510,,Stage-I,GOPEN MI-MH,21776,76.57,2,2024
+3216,"Gharda Foundations Gharda Institute of Technology,Khed, Ratnagiri (Un-Aided)",,321637210,,Stage-I,GOPEN GSC GOBC LOPEN LOBC EWS,47109,,2,2024
+3216,"Gharda Foundations Gharda Institute of Technology,Khed, Ratnagiri (Un-Aided)",,321637210,,Stage-II,GOPEN GSC GOBC LOPEN LOBC EWS,29249,72.97,2,2024
+3216,"Gharda Foundations Gharda Institute of Technology,Khed, Ratnagiri (Un-Aided)",,321691110,,Stage-I,GOPEN GST GOBC GSEBC LNTB LNTC LOBC,30155,,2,2024
+3217,"Vighnaharata Trusts Shivajirao S. Jondhale College of Engineering & Technology, Shahapur, Asangaon, Dist Thane (Un-Aided)",,321719110,,Stage-I,GST GNTA GNTC GOBC GSEBC LOPEN LSC LST LNTD PWD-O DEF-O,16621,,2,2024
+3217,"Vighnaharata Trusts Shivajirao S. Jondhale College of Engineering & Technology, Shahapur, Asangaon, Dist Thane (Un-Aided)",,321737210,,Stage-I,GOPEN GSC PWD-O DEF-O,46361,61.94,2,2024
+3217,"Vighnaharata Trusts Shivajirao S. Jondhale College of Engineering & Technology, Shahapur, Asangaon, Dist Thane (Un-Aided)",,321761210,,Stage-I,GSC GNTB GOBC LSC LOBC PWD-O DEF-O,39961,,2,2024
+3218,"Aldel Education Trusts St. John College of Engineering & Management, Vevoor, Palghar (Un-Aided Religious Minority - Christian)",,321824610,,Stage-I,LOPEN MI-MH,17726,78.74,2,2024
+3218,"Aldel Education Trusts St. John College of Engineering & Management, Vevoor, Palghar (Un-Aided Religious Minority - Christian)",,321890010,,Stage-I,GOPEN LOPEN MI-MH,46886,61.2,2,2024
+3218,"Aldel Education Trusts St. John College of Engineering & Management, Vevoor, Palghar (Un-Aided Religious Minority - Christian)",,321891210,,Stage-I,GOPEN MI-MH,23196,75.89,2,2024
+3218,"Aldel Education Trusts St. John College of Engineering & Management, Vevoor, Palghar (Un-Aided Religious Minority - Christian)",,321892110,,Stage-I,GOPEN MI-MH,23295,75.83,2,2024
+3219,"Koti Vidya Charitable Trusts Smt. Alamuri Ratnamala Institute of Engineering and Technology, Sapgaon, Tal. Shahapur (Un-Aided Linguistic Minority - Hindi)",,321919110,,Stage-I,GOPEN MI-MH,48351,57.42,2,2024
+3219,"Koti Vidya Charitable Trusts Smt. Alamuri Ratnamala Institute of Engineering and Technology, Sapgaon, Tal. Shahapur (Un-Aided Linguistic Minority - Hindi)",,321924510,,Stage-I,GOPEN LOPEN MI MI-MH,48921,53.16,2,2024
+3219,"Koti Vidya Charitable Trusts Smt. Alamuri Ratnamala Institute of Engineering and Technology, Sapgaon, Tal. Shahapur (Un-Aided Linguistic Minority - Hindi)",,321929310,,Stage-I,GOPEN MI-MH,49066,47.26,2,2024
+3219,"Koti Vidya Charitable Trusts Smt. Alamuri Ratnamala Institute of Engineering and Technology, Sapgaon, Tal. Shahapur (Un-Aided Linguistic Minority - Hindi)",,321961210,,Stage-II,LOPEN MI-MH,48734,55.13,2,2024
+3219,"Koti Vidya Charitable Trusts Smt. Alamuri Ratnamala Institute of Engineering and Technology, Sapgaon, Tal. Shahapur (Un-Aided Linguistic Minority - Hindi)",,321991110,,Stage-I,GOPEN LOPEN MI-MH,44431,64.22,2,2024
+3220,Yadavrao Tasgaonkar College of Engineering & Management (Un-Aided),,322024610,,Stage-I,GOPEN GSC GST GOBC LOPEN LSC LNTA LNTD LOBC PWD-O DEF-O,45895,,2,2024
+3221,"Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon (Un-Aided)",,322129310,,Stage-I,GOPEN LOPEN,48050,,2,2024
+3221,"Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon (Un-Aided)",,322191110,,Stage-I,GOPEN GST GNTC GNTD GOBC GSEBC LOPEN LST LNTB LSEBC DEF-O,13059,81.38,2,2024
+3223,"Mahatma Education Societys Pillai HOC College of Engineering & Technology, Tal. Khalapur. Dist. Raigad (Un-Aided Linguistic Minority - Malyalam)",,322324610,,Stage-I,GOPEN LOPEN MI-MH,19068,78.0,2,2024
+3223,"Mahatma Education Societys Pillai HOC College of Engineering & Technology, Tal. Khalapur. Dist. Raigad (Un-Aided Linguistic Minority - Malyalam)",,322361210,,Stage-I,GOPEN MI-MH,48268,57.8,2,2024
+3223,"Mahatma Education Societys Pillai HOC College of Engineering & Technology, Tal. Khalapur. Dist. Raigad (Un-Aided Linguistic Minority - Malyalam)",,322390010,,Stage-I,GOPEN LOPEN MI-MH,23071,,2,2024
+3223,"Mahatma Education Societys Pillai HOC College of Engineering & Technology, Tal. Khalapur. Dist. Raigad (Un-Aided Linguistic Minority - Malyalam)",,322390010,,Stage-II,GOPEN LOPEN MI-MH,30625,72.29,2,2024
+3223,"Mahatma Education Societys Pillai HOC College of Engineering & Technology, Tal. Khalapur. Dist. Raigad (Un-Aided Linguistic Minority - Malyalam)",,322392610,,Stage-I,GOPEN LOPEN MI-MH,47034,60.9,2,2024
+3224,"Leela Education Society, G.V. Acharya Institute of Engineering and Technology, Shelu, Karjat (Un-Aided)",,322424510,,Stage-I,GOPEN GSC GST GNTA GNTB GOBC GSEBC LOPEN LST LNTD LOBC LSEBC PWD-O DEF-O,37268,,2,2024
+3224,"Leela Education Society, G.V. Acharya Institute of Engineering and Technology, Shelu, Karjat (Un-Aided)",,322424510,,Stage-II,GOPEN GSC GST GNTA GNTB GOBC GSEBC LOPEN LST LNTD LOBC LSEBC PWD-O DEF-O,30141,72.51,2,2024
+3224,"Leela Education Society, G.V. Acharya Institute of Engineering and Technology, Shelu, Karjat (Un-Aided)",,322492010,,Stage-I,GOPEN GOBC LOPEN,46119,,2,2024
+3277,"Shree Shankar Narayan Education Trust,Pravin Patil College of Diploma Engg. & Technology, Bhayinder (E) Western Rly (Un-Aided)",,327793410,,Stage-I,GOPEN GSC GST GNTA GNTB GNTC GNTD GOBC LOPEN LSC LNTA LNTB LNTC LNTD DEF-O EWS,37423,68.89,2,2024
+3351,"Bharat College of Engineering, Kanhor, Badlapur(W) (Un-Aided)",,335119110,,Stage-II,GOPEN GSC LOPEN LSC LOBC DEF-O,46967,61.05,2,2024
+3351,"Bharat College of Engineering, Kanhor, Badlapur(W) (Un-Aided)",,335191110,,Stage-I,GOPEN GSC GST GOBC GSEBC LOPEN LSC LST LNTA LNTC,38627,,2,2024
+3353,"Dilkap Research Institute Of Engineering and Management Studies, At.Mamdapur, Post- Neral, Tal- Karjat, Mumbai (Un-Aided)",,335324510,,Stage-I,GOPEN GSC GST GNTC GOBC GSEBC LOPEN LSC LST LNTC LOBC LSEBC PWD-O DEF-O,32523,,2,2024
+3423,"Shree L.R. Tiwari College of Engineering, Mira Road, Mumbai (Un-Aided Linguistic Minority - Hindi)",,342319110,,Stage-I,GOPEN LOPEN MI MI-MH,43641,64.94,2,2024
+3423,"Shree L.R. Tiwari College of Engineering, Mira Road, Mumbai (Un-Aided Linguistic Minority - Hindi)",,342337210,,Stage-I,GOPEN LOPEN,41069,,2,2024
+3436,"B.R. Harne College of Engineering & Technology, Karav, Tal-Ambernath. (Un-Aided)",,343691110,,Stage-I,GOPEN GOBC LOPEN LSEBC PWD-O DEF-O,42389,,2,2024
+3436,"B.R. Harne College of Engineering & Technology, Karav, Tal-Ambernath. (Un-Aided)",,343691110,,Stage-II,GOPEN GOBC LOPEN LSEBC PWD-O DEF-O,47900,58.97,2,2024
+3440,"Metropolitan Institute of Technology & Management, Sukhalwad, Sindhudurg. (Un-Aided)",,344024510,,Stage-I,GOPEN GSC PWD-O DEF-O,44888,63.77,2,2024
+3445,"Vishvatmak Jangli Maharaj Ashram Trusts Vishvatmak Om Gurudev College of Engineering, Mohili-Aghai, Shahpur. (Un-Aided)",,344524510,,Stage-I,GOPEN GST GOBC LOPEN LST LNTA LNTD LOBC,47744,,2,2024
+3447,"G.M.Vedak Institute of Technology, Tala, Raigad. (Un-Aided)",,344761210,,Stage-II,GOPEN GSC GST LOPEN PWD-O DEF-O,48975,52.06,2,2024
+3460,"Universal College of Engineering,Kaman Dist. Palghar (Un-Aided Linguistic Minority - Gujarath)",,346092110,,Stage-I,GOPEN LOPEN MI-MH,21922,76.51,2,2024
+3460,"Universal College of Engineering,Kaman Dist. Palghar (Un-Aided Linguistic Minority - Gujarath)",,346092410,,Stage-I,GOPEN LOPEN MI-MH,30743,72.23,2,2024
+3462,"VPMs Maharshi Parshuram College of Engineering, Velneshwar, Ratnagiri. (Un-Aided)",,346219110,,Stage-I,GOPEN LOPEN PWD-O DEF-O,35577,,2,2024
+3462,"VPMs Maharshi Parshuram College of Engineering, Velneshwar, Ratnagiri. (Un-Aided)",,346229310,,Stage-I,GOPEN GSC GST GNTA LOPEN LST LNTB LOBC PWD-O DEF-O EWS,46391,,2,2024
+3467,"Vishwaniketans Institute of Management Entrepreneurship and Engineering Technology(i MEET), Khalapur Dist Raigad (Un-Aided)",,346761210,,Stage-I,GOPEN GOBC PWD-O EWS,23998,75.49,2,2024
+3470,YASHWANTRAO BHONSALE INSTITUTE OF TECHNOLOGY (Un-Aided),,347029310,,Stage-I,GOPEN LOPEN PWD-O,27014,,2,2024
+3470,YASHWANTRAO BHONSALE INSTITUTE OF TECHNOLOGY (Un-Aided),,347029310,,Stage-II,GOPEN LOPEN PWD-O,48242,57.89,2,2024
+3471,"New Horizon Institute of Technology & Management, Thane (Un-Aided)",,347124510,,Stage-I,GOPEN GST GNTB GNTD GOBC LOPEN LST LNTA LOBC LSEBC PWD-O EWS,20941,,2,2024
+3471,"New Horizon Institute of Technology & Management, Thane (Un-Aided)",,347124510,,Stage-II,GOPEN GST GNTB GNTD GOBC LOPEN LST LNTA LOBC LSEBC PWD-O EWS,12255,81.88,2,2024
+3471,"New Horizon Institute of Technology & Management, Thane (Un-Aided)",,347125710,,Stage-I,GOPEN GST GNTC GOBC LOPEN,14861,80.34,2,2024
+3471,"New Horizon Institute of Technology & Management, Thane (Un-Aided)",,347199510,,Stage-I,GOPEN GNTC GOBC LST LNTA EWS,29342,,2,2024
+3471,"New Horizon Institute of Technology & Management, Thane (Un-Aided)",,347199510,,Stage-II,GOPEN GNTC GOBC LST LNTA EWS,13175,81.31,2,2024
+3475,"A. P. Shah Institute of Technology, Thane (Un-Aided Religious Minority - Jain)",,347519110,,Stage-I,GOPEN MI-MH,40594,67.11,2,2024
+3475,"A. P. Shah Institute of Technology, Thane (Un-Aided Religious Minority - Jain)",,347561210,,Stage-I,GOPEN LOPEN MI-MH,45431,,2,2024
+3475,"A. P. Shah Institute of Technology, Thane (Un-Aided Religious Minority - Jain)",,347561210,,Stage-II,GOPEN LOPEN MI-MH,48587,56.15,2,2024
+3475,"A. P. Shah Institute of Technology, Thane (Un-Aided Religious Minority - Jain)",,347591110,,Stage-I,GOPEN MI-MH,8787,84.11,2,2024
+3477,"Chhartrapati Shivaji Maharaj Institute of Technology, Shedung, Panvel (Un-Aided)",,347724510,,Stage-I,GOPEN GST GOBC GSEBC LOPEN LSC LOBC LSEBC,17790,78.69,2,2024
+3503,"Indala College Of Engineering, Bapsai Tal.Kalyan (Un-Aided)",,350319110,,Stage-I,GOPEN GST GNTD GOBC GSEBC LSC LST LNTA LNTC LOBC PWD-O DEF-O,47466,,2,2024
+4004,"Government College of Engineering, Chandrapur (Government)",,400437210,,Stage-I,GOPEN GSC GST GNTA GNTD GOBC LOPEN LOBC LSEBC,21533,,2,2024
+4004,"Government College of Engineering, Chandrapur (Government)",,400437210,,Stage-II,GOPEN GSC GST GNTA GNTD GOBC LOPEN LOBC LSEBC,10750,82.82,2,2024
+4005,"Laxminarayan Institute of Technology, Nagpur (University Department)",,400550710,,Stage-I,GSEBC LST,794,92.83,2,2024
+4005,"Laxminarayan Institute of Technology, Nagpur (University Department)",,400552410,,Stage-I,GOPEN GSC GOBC LOPEN,31620,71.8,2,2024
+4104,"Kavi Kulguru Institute of Technology & Science, Ramtek (Un-Aided)",,410419110,,Stage-I,GOPEN GSC LOPEN,37672,68.74,2,2024
+4104,"Kavi Kulguru Institute of Technology & Science, Ramtek (Un-Aided)",,410425110,,Stage-I,GOPEN GOBC LOPEN LSC LST LNTA LSEBC,39018,,2,2024
+4116,"Ankush Shikshan Sansthas G.H.Raisoni College of Engineering, Nagpur (Un-Aided Autonomous Linguistic Minority - Hindi)",,411626010,,Stage-I,GOPEN MI-MH,13203,81.31,2,2024
+4116,"Ankush Shikshan Sansthas G.H.Raisoni College of Engineering, Nagpur (Un-Aided Autonomous Linguistic Minority - Hindi)",,411626710,,Stage-I,GOPEN MI-MH,15174,80.17,2,2024
+4116,"Ankush Shikshan Sansthas G.H.Raisoni College of Engineering, Nagpur (Un-Aided Autonomous Linguistic Minority - Hindi)",,411629310,,Stage-I,LOPEN MI-MH,2889,89.22,2,2024
+4116,"Ankush Shikshan Sansthas G.H.Raisoni College of Engineering, Nagpur (Un-Aided Autonomous Linguistic Minority - Hindi)",,411637210,,Stage-I,GOPEN MI-MH,19037,78.0,2,2024
+4116,"Ankush Shikshan Sansthas G.H.Raisoni College of Engineering, Nagpur (Un-Aided Autonomous Linguistic Minority - Hindi)",,411637610,,Stage-I,GOPEN MI-MH,28286,73.41,2,2024
+4116,"Ankush Shikshan Sansthas G.H.Raisoni College of Engineering, Nagpur (Un-Aided Autonomous Linguistic Minority - Hindi)",,411661210,,Stage-I,GOPEN LOPEN MI-MH,18027,78.55,2,2024
+4116,"Ankush Shikshan Sansthas G.H.Raisoni College of Engineering, Nagpur (Un-Aided Autonomous Linguistic Minority - Hindi)",,411699710,,Stage-I,LOPEN MI MI-MH,15576,79.94,2,2024
+4123,"Lokmanya Tilak Jankalyan Shikshan Sanstha, Priyadarshani College of Engineering, Nagpur (Un-Aided Autonomous Linguistic Minority - Hindi)",,412300210,,Stage-I,GOPEN MI-MH,42183,66.05,2,2024
+4123,"Lokmanya Tilak Jankalyan Shikshan Sanstha, Priyadarshani College of Engineering, Nagpur (Un-Aided Autonomous Linguistic Minority - Hindi)",,412319110,,Stage-I,GOPEN LOPEN MI MI-MH,23478,75.74,2,2024
+4123,"Lokmanya Tilak Jankalyan Shikshan Sanstha, Priyadarshani College of Engineering, Nagpur (Un-Aided Autonomous Linguistic Minority - Hindi)",,412324610,,Stage-I,GOPEN LOPEN MI MI-MH,11863,82.11,2,2024
+4123,"Lokmanya Tilak Jankalyan Shikshan Sanstha, Priyadarshani College of Engineering, Nagpur (Un-Aided Autonomous Linguistic Minority - Hindi)",,412325110,,Stage-I,GOPEN MI MI-MH,12783,81.54,2,2024
+4123,"Lokmanya Tilak Jankalyan Shikshan Sanstha, Priyadarshani College of Engineering, Nagpur (Un-Aided Autonomous Linguistic Minority - Hindi)",,412326510,,Stage-I,GOPEN LOPEN MI-MH,29115,73.03,2,2024
+4123,"Lokmanya Tilak Jankalyan Shikshan Sanstha, Priyadarshani College of Engineering, Nagpur (Un-Aided Autonomous Linguistic Minority - Hindi)",,412329310,,Stage-I,GOPEN MI-MH,15088,80.22,2,2024
+4123,"Lokmanya Tilak Jankalyan Shikshan Sanstha, Priyadarshani College of Engineering, Nagpur (Un-Aided Autonomous Linguistic Minority - Hindi)",,412335610,,Stage-I,GOPEN LOPEN MI-MH,22851,76.06,2,2024
+4123,"Lokmanya Tilak Jankalyan Shikshan Sanstha, Priyadarshani College of Engineering, Nagpur (Un-Aided Autonomous Linguistic Minority - Hindi)",,412337010,,Stage-I,GOPEN LOPEN MI-MH,33383,70.94,2,2024
+4123,"Lokmanya Tilak Jankalyan Shikshan Sanstha, Priyadarshani College of Engineering, Nagpur (Un-Aided Autonomous Linguistic Minority - Hindi)",,412337210,,Stage-I,LOPEN MI-MH,24106,75.43,2,2024
+4123,"Lokmanya Tilak Jankalyan Shikshan Sanstha, Priyadarshani College of Engineering, Nagpur (Un-Aided Autonomous Linguistic Minority - Hindi)",,412350710,,Stage-I,GOPEN MI-MH,37031,69.11,2,2024
+4123,"Lokmanya Tilak Jankalyan Shikshan Sanstha, Priyadarshani College of Engineering, Nagpur (Un-Aided Autonomous Linguistic Minority - Hindi)",,412361210,,Stage-I,GOPEN LOPEN MI-MH,24877,,2,2024
+4123,"Lokmanya Tilak Jankalyan Shikshan Sanstha, Priyadarshani College of Engineering, Nagpur (Un-Aided Autonomous Linguistic Minority - Hindi)",,412361210,,Stage-II,GOPEN LOPEN MI-MH,31398,71.9,2,2024
+4123,"Lokmanya Tilak Jankalyan Shikshan Sanstha, Priyadarshani College of Engineering, Nagpur (Un-Aided Autonomous Linguistic Minority - Hindi)",,412399510,,Stage-I,GOPEN LOPEN MI MI-MH,18625,78.23,2,2024
+4133,"Sanmarg Shikshan Sansthas Smt. Radhikatai Pandav College of Engineering, Nagpur (Un-Aided)",,413324510,,Stage-I,GOPEN GSC GNTD GOBC GSEBC LNTA LOBC,47770,,2,2024
+4133,"Sanmarg Shikshan Sansthas Smt. Radhikatai Pandav College of Engineering, Nagpur (Un-Aided)",,413329310,,Stage-I,GOPEN GSC GOBC GSEBC LSC LNTB LNTC LOBC,48323,,2,2024
+4134,"Guru Nanak Institute of Engineering & Technology,Kalmeshwar, Nagpur (Un-Aided)",,413491210,,Stage-I,GOPEN GST GOBC LOPEN,47721,59.44,2,2024
+4135,"Amar Seva Mandals Shree Govindrao Vanjari College of Engineering & Technology, Nagpur (Un-Aided)",,413561210,,Stage-I,GST GSEBC LOPEN LST LNTA LNTB LNTC LNTD LOBC LSEBC,26010,,2,2024
+4136,"Lokmanya Tilak Jankalyan Shikshan Sastha, Priyadarshini J. L. College Of Engineering, Nagpur (Un-Aided Autonomous Linguistic Minority - Hindi)",,413619110,,Stage-I,GOPEN LOPEN MI-MH,32076,71.58,2,2024
+4136,"Lokmanya Tilak Jankalyan Shikshan Sastha, Priyadarshini J. L. College Of Engineering, Nagpur (Un-Aided Autonomous Linguistic Minority - Hindi)",,413624210,,Stage-I,GOPEN LOPEN MI MI-MH,21680,76.63,2,2024
+4136,"Lokmanya Tilak Jankalyan Shikshan Sastha, Priyadarshini J. L. College Of Engineering, Nagpur (Un-Aided Autonomous Linguistic Minority - Hindi)",,413629310,,Stage-I,GOPEN LOPEN MI-MH,24159,75.39,2,2024
+4136,"Lokmanya Tilak Jankalyan Shikshan Sastha, Priyadarshini J. L. College Of Engineering, Nagpur (Un-Aided Autonomous Linguistic Minority - Hindi)",,413637210,,Stage-I,GOPEN LOPEN MI-MH,33140,71.06,2,2024
+4136,"Lokmanya Tilak Jankalyan Shikshan Sastha, Priyadarshini J. L. College Of Engineering, Nagpur (Un-Aided Autonomous Linguistic Minority - Hindi)",,413699710,,Stage-I,GOPEN MI-MH,24791,75.09,2,2024
+4137,"Sir Shantilal Badjate Charitable Trusts S. B. Jain Institute of technology, Management & Research, Nagpur (Un-Aided Autonomous Linguistic Minority - Hindi)",,413724210,,Stage-I,GOPEN LOPEN MI MI-MH,23628,75.66,2,2024
+4137,"Sir Shantilal Badjate Charitable Trusts S. B. Jain Institute of technology, Management & Research, Nagpur (Un-Aided Autonomous Linguistic Minority - Hindi)",,413737210,,Stage-I,GOPEN MI-MH,30186,72.5,2,2024
+4137,"Sir Shantilal Badjate Charitable Trusts S. B. Jain Institute of technology, Management & Research, Nagpur (Un-Aided Autonomous Linguistic Minority - Hindi)",,413761210,,Stage-I,GOPEN MI MI-MH,29017,73.08,2,2024
+4137,"Sir Shantilal Badjate Charitable Trusts S. B. Jain Institute of technology, Management & Research, Nagpur (Un-Aided Autonomous Linguistic Minority - Hindi)",,413791110,,Stage-I,GOPEN MI-MH,26040,74.8,2,2024
+4137,"Sir Shantilal Badjate Charitable Trusts S. B. Jain Institute of technology, Management & Research, Nagpur (Un-Aided Autonomous Linguistic Minority - Hindi)",,413791210,,Stage-I,GOPEN MI-MH,26818,74.06,2,2024
+4138,"Jaidev Education Society, J D College of Engineering and Management, Nagpur (Un-Aided Autonomous Linguistic Minority - Hindi)",,413819110,,Stage-I,GOPEN MI-MH,33102,71.08,2,2024
+4138,"Jaidev Education Society, J D College of Engineering and Management, Nagpur (Un-Aided Autonomous Linguistic Minority - Hindi)",,413824210,,Stage-I,GOPEN LOPEN MI-MH,25653,74.97,2,2024
+4138,"Jaidev Education Society, J D College of Engineering and Management, Nagpur (Un-Aided Autonomous Linguistic Minority - Hindi)",,413824610,,Stage-I,GOPEN LOPEN MI-MH,33961,70.63,2,2024
+4138,"Jaidev Education Society, J D College of Engineering and Management, Nagpur (Un-Aided Autonomous Linguistic Minority - Hindi)",,413837210,,Stage-I,GOPEN MI-MH,36896,69.18,2,2024
+4138,"Jaidev Education Society, J D College of Engineering and Management, Nagpur (Un-Aided Autonomous Linguistic Minority - Hindi)",,413891210,,Stage-I,GOPEN LOPEN MI-MH,38991,68.0,2,2024
+4138,"Jaidev Education Society, J D College of Engineering and Management, Nagpur (Un-Aided Autonomous Linguistic Minority - Hindi)",,413899710,,Stage-I,GOPEN LOPEN MI-MH,37943,68.6,2,2024
+4139,"Samridhi Sarwajanik Charitable Trust, Jhulelal Institute of Technology, Nagpur (Un-Aided Autonomous Linguistic Minority - Sindhi)",,413924210,,Stage-I,GOPEN LOPEN MI-MH,34470,70.4,2,2024
+4139,"Samridhi Sarwajanik Charitable Trust, Jhulelal Institute of Technology, Nagpur (Un-Aided Autonomous Linguistic Minority - Sindhi)",,413937210,,Stage-I,GOPEN MI-MH,42531,65.8,2,2024
+4139,"Samridhi Sarwajanik Charitable Trust, Jhulelal Institute of Technology, Nagpur (Un-Aided Autonomous Linguistic Minority - Sindhi)",,413961210,,Stage-II,LOPEN MI-MH,44064,64.56,2,2024
+4139,"Samridhi Sarwajanik Charitable Trust, Jhulelal Institute of Technology, Nagpur (Un-Aided Autonomous Linguistic Minority - Sindhi)",,413991110,,Stage-I,GOPEN LOPEN MI-MH,39966,67.49,2,2024
+4139,"Samridhi Sarwajanik Charitable Trust, Jhulelal Institute of Technology, Nagpur (Un-Aided Autonomous Linguistic Minority - Sindhi)",,413992810,,Stage-I,GOPEN MI-MH,46434,61.85,2,2024
+4141,"Shriram Gram Vikas Shikshan Sanstha, Vilasrao Deshmukh College of Engineering and Technology, Nagpur (Un-Aided)",,414119110,,Stage-I,GOPEN GSC LOPEN PWD-O,45076,,2,2024
+4141,"Shriram Gram Vikas Shikshan Sanstha, Vilasrao Deshmukh College of Engineering and Technology, Nagpur (Un-Aided)",,414119110,,Stage-II,GOPEN GSC LOPEN PWD-O,48087,58.4,2,2024
+4141,"Shriram Gram Vikas Shikshan Sanstha, Vilasrao Deshmukh College of Engineering and Technology, Nagpur (Un-Aided)",,414161210,,Stage-I,GST GNTA GNTC GNTD GOBC GSEBC LOBC LSEBC PWD-O DEF-O,34446,,2,2024
+4142,"Ankush Shikshan Sansthas G. H. Raisoni Institute of Engineering & Technology, Nagpur (Un-Aided Autonomous Linguistic Minority - Hindi)",,414219110,,Stage-I,GOPEN LOPEN MI MI-MH,29186,73.0,2,2024
+4142,"Ankush Shikshan Sansthas G. H. Raisoni Institute of Engineering & Technology, Nagpur (Un-Aided Autonomous Linguistic Minority - Hindi)",,414224610,,Stage-I,GOPEN MI-MH,16074,79.66,2,2024
+4142,"Ankush Shikshan Sansthas G. H. Raisoni Institute of Engineering & Technology, Nagpur (Un-Aided Autonomous Linguistic Minority - Hindi)",,414229310,,Stage-I,GOPEN LOPEN MI-MH,19130,77.94,2,2024
+4142,"Ankush Shikshan Sansthas G. H. Raisoni Institute of Engineering & Technology, Nagpur (Un-Aided Autonomous Linguistic Minority - Hindi)",,414237210,,Stage-I,GOPEN MI-MH,26503,74.24,2,2024
+4142,"Ankush Shikshan Sansthas G. H. Raisoni Institute of Engineering & Technology, Nagpur (Un-Aided Autonomous Linguistic Minority - Hindi)",,414261210,,Stage-I,GOPEN LOPEN MI MI-MH,32804,,2,2024
+4142,"Ankush Shikshan Sansthas G. H. Raisoni Institute of Engineering & Technology, Nagpur (Un-Aided Autonomous Linguistic Minority - Hindi)",,414261210,,Stage-II,GOPEN LOPEN MI MI-MH,33815,70.72,2,2024
+4142,"Ankush Shikshan Sansthas G. H. Raisoni Institute of Engineering & Technology, Nagpur (Un-Aided Autonomous Linguistic Minority - Hindi)",,414291010,,Stage-I,GOPEN LOPEN MI-MH,17988,78.57,2,2024
+4142,"Ankush Shikshan Sansthas G. H. Raisoni Institute of Engineering & Technology, Nagpur (Un-Aided Autonomous Linguistic Minority - Hindi)",,414299710,,Stage-I,GOPEN MI-MH,24567,75.2,2,2024
+4143,"Sanmarg Shikshan Sanstha, Mandukarrao Pandav College of Engineering, Bhandara (Un-Aided)",,414361210,,Stage-I,GSC GOBC LSC PWD-O DEF-O,48435,57.0,2,2024
+4144,"Shri. Sai Shikshan Sanstha, Nagpur Institute of Technology, Nagpur (Un-Aided)",,414424210,,Stage-I,GOPEN GST GNTB GOBC GSEBC LOPEN LNTC LOBC,47511,,2,2024
+4144,"Shri. Sai Shikshan Sanstha, Nagpur Institute of Technology, Nagpur (Un-Aided)",,414461210,,Stage-I,GOPEN LOPEN,39875,,2,2024
+4145,"Wainganga College of Engineering and Management, Dongargaon, Nagpur (Un-Aided)",,414519110,,Stage-I,GOPEN GST GOBC LOPEN LSC LST LOBC PWD-O DEF-O,48495,,2,2024
+4147,"K.D.K. College of Engineering, Nagpur (Un-Aided)",,414719110,,Stage-I,GOPEN GSC GOBC GSEBC LOPEN,32328,71.47,2,2024
+4147,"K.D.K. College of Engineering, Nagpur (Un-Aided)",,414724210,,Stage-I,GOPEN GSC GOBC LOPEN LSC LNTB LOBC LSEBC EWS,17891,78.63,2,2024
+4147,"K.D.K. College of Engineering, Nagpur (Un-Aided)",,414724610,,Stage-I,LSC LST,13977,80.85,2,2024
+4147,"K.D.K. College of Engineering, Nagpur (Un-Aided)",,414729310,,Stage-I,GOPEN GSC GOBC GSEBC LOPEN LSC LNTC,29317,72.92,2,2024
+4151,"Vidarbha Bahu-Uddeshiya Shikshan Sansthas Tulshiramji Gaikwad Patil College of Engineering & Technology, Nagpur (Un-Aided Autonomous)",,415124210,,Stage-I,GOPEN GSC GST GNTD GOBC GSEBC LOPEN LSC LST LNTB EWS,28995,,2,2024
+4151,"Vidarbha Bahu-Uddeshiya Shikshan Sansthas Tulshiramji Gaikwad Patil College of Engineering & Technology, Nagpur (Un-Aided Autonomous)",,415191210,,Stage-I,GOPEN GSC GNTA GOBC LOPEN LNTC LOBC LSEBC,44595,,2,2024
+4163,Rajiv Gandhi College of Engineering Research & Technology Chandrapur (Un-Aided),,416361210,,Stage-I,GSC LOPEN,21111,,2,2024
+4163,Rajiv Gandhi College of Engineering Research & Technology Chandrapur (Un-Aided),,416391210,,Stage-I,GOPEN LSEBC,23000,76.0,2,2024
+4167,"Yeshwantrao Chavan College of Engineering,Wanadongri, Nagpur (Un-Aided Autonomous)",,416737210,,Stage-I,GSC GNTD GOBC GSEBC LOPEN LNTB EWS,16416,,2,2024
+4167,"Yeshwantrao Chavan College of Engineering,Wanadongri, Nagpur (Un-Aided Autonomous)",,416737210,,Stage-II,GSC GNTD GOBC GSEBC LOPEN LNTB EWS,9530,83.6,2,2024
+4167,"Yeshwantrao Chavan College of Engineering,Wanadongri, Nagpur (Un-Aided Autonomous)",,416761210,,Stage-I,GOBC LNTC,6725,85.6,2,2024
+4167,"Yeshwantrao Chavan College of Engineering,Wanadongri, Nagpur (Un-Aided Autonomous)",,416791110,,Stage-I,GST EWS,4531,87.53,2,2024
+4172,"Anjuman College of Engineering & Technology, Nagpur (Un-Aided Religious Minority - Muslim)",,417229310,,Stage-I,GOPEN LOPEN MI MI-MH,39020,68.0,2,2024
+4174,"ST. Vincent Pallotti College of Engineering & Technology, Nagpur (Un-Aided Autonomous Religious Minority - Christian)",,417419110,,Stage-I,GOPEN LOPEN MI-MH,23829,75.58,2,2024
+4174,"ST. Vincent Pallotti College of Engineering & Technology, Nagpur (Un-Aided Autonomous Religious Minority - Christian)",,417424610,,Stage-I,GOPEN MI-MH,13455,81.14,2,2024
+4174,"ST. Vincent Pallotti College of Engineering & Technology, Nagpur (Un-Aided Autonomous Religious Minority - Christian)",,417426010,,Stage-I,LOPEN MI-MH,18678,78.2,2,2024
+4174,"ST. Vincent Pallotti College of Engineering & Technology, Nagpur (Un-Aided Autonomous Religious Minority - Christian)",,417426210,,Stage-I,GOPEN MI-MH,25855,74.97,2,2024
+4174,"ST. Vincent Pallotti College of Engineering & Technology, Nagpur (Un-Aided Autonomous Religious Minority - Christian)",,417426510,,Stage-I,GOPEN LOPEN MI-MH,35767,69.75,2,2024
+4174,"ST. Vincent Pallotti College of Engineering & Technology, Nagpur (Un-Aided Autonomous Religious Minority - Christian)",,417437210,,Stage-I,GOPEN MI-MH,25026,75.0,2,2024
+4174,"ST. Vincent Pallotti College of Engineering & Technology, Nagpur (Un-Aided Autonomous Religious Minority - Christian)",,417461210,,Stage-I,LOPEN MI-MH,24706,75.13,2,2024
+4174,"ST. Vincent Pallotti College of Engineering & Technology, Nagpur (Un-Aided Autonomous Religious Minority - Christian)",,417491210,,Stage-I,GOPEN LOPEN MI-MH,18302,78.4,2,2024
+4175,"JMSS Shri Shankarprasad Agnihotri College of Engineering, Wardha (Un-Aided)",,417524210,,Stage-I,GOPEN GSC GOBC GSEBC LOPEN LSC LST LNTA,42763,,2,2024
+4177,"Priyadarshini Bhagwati College of Engineering, Harpur Nagar, Umred Road,Nagpur (Un-Aided Linguistic Minority - Hindi)",,417719110,,Stage-I,GOPEN LOPEN MI-MH,48901,53.32,2,2024
+4177,"Priyadarshini Bhagwati College of Engineering, Harpur Nagar, Umred Road,Nagpur (Un-Aided Linguistic Minority - Hindi)",,417724210,,Stage-I,GOPEN MI MI-MH,24579,75.19,2,2024
+4177,"Priyadarshini Bhagwati College of Engineering, Harpur Nagar, Umred Road,Nagpur (Un-Aided Linguistic Minority - Hindi)",,417724610,,Stage-I,GOPEN MI-MH,25656,74.97,2,2024
+4177,"Priyadarshini Bhagwati College of Engineering, Harpur Nagar, Umred Road,Nagpur (Un-Aided Linguistic Minority - Hindi)",,417737010,,Stage-I,GOPEN LOPEN MI-MH,47829,59.18,2,2024
+4190,"M.D. Yergude Memorial Shikshan Prasarak Mandals Shri Sai College of Engineering & Technology, Badravati (Un-Aided)",,419019110,,Stage-I,GOPEN LOPEN,45546,,2,2024
+4190,"M.D. Yergude Memorial Shikshan Prasarak Mandals Shri Sai College of Engineering & Technology, Badravati (Un-Aided)",,419029310,,Stage-I,GSC GST GOBC LSC PWD-O DEF-O,39739,67.61,2,2024
+4192,"Maitraya Education Society, Nagarjuna Institute of Engineering Technology & Management, Nagpur (Un-Aided)",,419224210,,Stage-I,GOPEN GOBC LOPEN LNTA LOBC,48159,58.17,2,2024
+4192,"Maitraya Education Society, Nagarjuna Institute of Engineering Technology & Management, Nagpur (Un-Aided)",,419235610,,Stage-I,GOPEN LOBC PWD-O EWS,48214,58.0,2,2024
+4193,"K.D.M. Education Society, Vidharbha Institute of Technology,Umred Road ,Nagpur (Un-Aided Linguistic Minority - Hindi)",,419324210,,Stage-I,GOPEN MI-MH,40617,67.09,2,2024
+4193,"K.D.M. Education Society, Vidharbha Institute of Technology,Umred Road ,Nagpur (Un-Aided Linguistic Minority - Hindi)",,419337010,,Stage-I,GOPEN MI-MH,47407,60.18,2,2024
+4193,"K.D.M. Education Society, Vidharbha Institute of Technology,Umred Road ,Nagpur (Un-Aided Linguistic Minority - Hindi)",,419361210,,Stage-I,GOPEN LOPEN MI-MH,26468,,2,2024
+4193,"K.D.M. Education Society, Vidharbha Institute of Technology,Umred Road ,Nagpur (Un-Aided Linguistic Minority - Hindi)",,419361210,,Stage-II,GOPEN LOPEN MI-MH,48436,57.0,2,2024
+4285,"V M Institute of Engineering and Technology, Dongargaon, Nagpur (Un-Aided)",,428529310,,Stage-I,GOPEN GSC GST GNTA GNTB GNTC GOBC GSEBC LOPEN LSC LST LNTD LSEBC PWD-O DEF-O ORP EWS,32673,71.28,2,2024
+4613,"Suryodaya College of Engineering & Technology, Nagpur (Un-Aided)",,461361210,,Stage-I,GOPEN GST GNTA GOBC LOPEN PWD-O DEF-O,38380,,2,2024
+4649,"Bajaj Institute of Technology, Wardha (Un-Aided Linguistic Minority - Hindi)",,464919110,,Stage-I,LOPEN MI-MH,47708,59.65,2,2024
+4649,"Bajaj Institute of Technology, Wardha (Un-Aided Linguistic Minority - Hindi)",,464924510,,Stage-I,GOPEN MI MI-MH,24551,75.2,2,2024
+4649,"Bajaj Institute of Technology, Wardha (Un-Aided Linguistic Minority - Hindi)",,464929310,,Stage-I,GOPEN MI-MH,24900,75.03,2,2024
+4649,"Bajaj Institute of Technology, Wardha (Un-Aided Linguistic Minority - Hindi)",,464961210,,Stage-I,GOPEN LOPEN,45688,,2,2024
+4679,"Karanjekar College of Engineering & Management, Sakoli (Un-Aided)",,467929310,,Stage-I,GOPEN GSC GOBC PWD-O DEF-O,45092,63.56,2,2024
+5003,"University Institute of Chemical Technology, North Maharashtra University, Jalgaon (University Department)",,500350710,,Stage-I,GOPEN GST,37802,68.67,2,2024
+5004,"Government College of Engineering, Jalgaon (Government Autonomous)",,500446610,,Stage-I,GOPEN GOBC LOPEN PWD-O EWS,46369,61.94,2,2024
+5103,"Shri Shivaji Vidya Prasarak Sansthas Late Bapusaheb Shivaji Rao Deore College of Engineering,Dhule (Un-Aided)",,510324510,,Stage-I,GOPEN GOBC LOPEN LST LOBC LSEBC EWS,12708,81.6,2,2024
+5104,"Shramsadhana Bombay Trust, College of Engineering & Technology, Jalgaon (Un-Aided)",,510419110,,Stage-I,GOPEN GSC GNTC GNTD LOPEN PWD-O DEF-O,48107,58.32,2,2024
+5104,"Shramsadhana Bombay Trust, College of Engineering & Technology, Jalgaon (Un-Aided)",,510424510,,Stage-I,GOPEN GSEBC,9985,83.31,2,2024
+5104,"Shramsadhana Bombay Trust, College of Engineering & Technology, Jalgaon (Un-Aided)",,510461210,,Stage-I,GOPEN LOPEN LSC LST LSEBC,32966,,2,2024
+5106,"Khandesh College Education Societys College Of Engineering And Management, Jalgaon (Un-Aided)",,510629310,,Stage-II,GOPEN GOBC LOPEN LOBC DEF-O,46928,61.11,2,2024
+5106,"Khandesh College Education Societys College Of Engineering And Management, Jalgaon (Un-Aided)",,510691210,,Stage-I,GOPEN LOPEN LSC LST LSEBC EWS,47993,,2,2024
+5108,"Maratha Vidya Prasarak Samajs Karmaveer Adv. Baburao Ganpatrao Thakare College Of Engineering, Nashik (Un-Aided)",,510861210,,Stage-I,GOPEN LOPEN LSC LNTA LOBC,25875,,2,2024
+5108,"Maratha Vidya Prasarak Samajs Karmaveer Adv. Baburao Ganpatrao Thakare College Of Engineering, Nashik (Un-Aided)",,510861210,,Stage-II,GOPEN LOPEN LSC LNTA LOBC,14362,80.62,2,2024
+5109,"Sandip Foundation, Sandip Institute of Technology and Research Centre, Mahiravani, Nashik (Un-Aided Autonomous)",,510991610,,Stage-I,GOPEN GST GNTA GOBC GSEBC,14981,80.28,2,2024
+5124,"Jagadamba Education Soc. Nashiks S.N.D. College of Engineering & Reserch, Babulgaon (Un-Aided)",,512484410,,Stage-I,GSC GST,9904,83.37,2,2024
+5125,"Pravara Rural Education Societys Sir Visvesvaraya Institute of Technology, Chincholi Dist. Nashik (Un-Aided)",,512550710,,Stage-I,GOPEN GSC GOBC LOPEN,44182,64.44,2,2024
+5125,"Pravara Rural Education Societys Sir Visvesvaraya Institute of Technology, Chincholi Dist. Nashik (Un-Aided)",,512584410,,Stage-I,GOPEN GOBC LST,21560,76.69,2,2024
+5139,"Pravara Rural College of Engineering, Loni, Pravaranagar, Ahmednagar. (Un-Aided)",,513924510,,Stage-I,GOPEN GST,6442,85.85,2,2024
+5139,"Pravara Rural College of Engineering, Loni, Pravaranagar, Ahmednagar. (Un-Aided)",,513937210,,Stage-I,GOPEN GSC GST GOBC EWS,14003,80.82,2,2024
+5139,"Pravara Rural College of Engineering, Loni, Pravaranagar, Ahmednagar. (Un-Aided)",,513946410,,Stage-I,GOPEN GSC LOPEN LOBC,34065,,2,2024
+5139,"Pravara Rural College of Engineering, Loni, Pravaranagar, Ahmednagar. (Un-Aided)",,513946410,,Stage-II,GOPEN GSC LOPEN LOBC,33076,71.09,2,2024
+5139,"Pravara Rural College of Engineering, Loni, Pravaranagar, Ahmednagar. (Un-Aided)",,513961210,,Stage-I,GOPEN GSC GST LOBC LSEBC,26369,,2,2024
+5139,"Pravara Rural College of Engineering, Loni, Pravaranagar, Ahmednagar. (Un-Aided)",,513984410,,Stage-I,GOPEN GSEBC LST EWS,12402,81.77,2,2024
+5151,"MET Bhujbal Knowledge City MET Leagues Engineering College, Adgaon, Nashik. (Un-Aided)",,515161210,,Stage-I,GOPEN GSC GST GNTD GOBC GSEBC LSC LST LOBC LSEBC PWD-O DEF-O,31115,,2,2024
+5152,"G. H. Raisoni Institute of Business Management,Jalgaon (Un-Aided Autonomous Linguistic Minority - Hindi)",,515224210,,Stage-I,GOPEN MI-MH,15317,80.06,2,2024
+5152,"G. H. Raisoni Institute of Business Management,Jalgaon (Un-Aided Autonomous Linguistic Minority - Hindi)",,515224610,,Stage-I,LOPEN MI-MH,15649,79.89,2,2024
+5152,"G. H. Raisoni Institute of Business Management,Jalgaon (Un-Aided Autonomous Linguistic Minority - Hindi)",,515229310,,Stage-I,LOPEN MI-MH,35707,69.78,2,2024
+5152,"G. H. Raisoni Institute of Business Management,Jalgaon (Un-Aided Autonomous Linguistic Minority - Hindi)",,515237210,,Stage-I,GOPEN MI-MH,29708,72.74,2,2024
+5152,"G. H. Raisoni Institute of Business Management,Jalgaon (Un-Aided Autonomous Linguistic Minority - Hindi)",,515261210,,Stage-I,GOPEN LOPEN MI-MH,36633,,2,2024
+5152,"G. H. Raisoni Institute of Business Management,Jalgaon (Un-Aided Autonomous Linguistic Minority - Hindi)",,515261210,,Stage-II,GOPEN LOPEN MI-MH,45832,62.67,2,2024
+5152,"G. H. Raisoni Institute of Business Management,Jalgaon (Un-Aided Autonomous Linguistic Minority - Hindi)",,515291210,,Stage-I,GOPEN LOPEN MI-MH,19586,77.69,2,2024
+5152,"G. H. Raisoni Institute of Business Management,Jalgaon (Un-Aided Autonomous Linguistic Minority - Hindi)",,515291310,,Stage-I,GOPEN MI-MH,19802,77.6,2,2024
+5160,"Sanjivani Rural Education Societys Sanjivani College of Engineering, Kopargaon (Un-Aided Autonomous)",,516024510,,Stage-I,GST GOBC,1852,90.63,2,2024
+5160,"Sanjivani Rural Education Societys Sanjivani College of Engineering, Kopargaon (Un-Aided Autonomous)",,516024610,,Stage-I,GOPEN LST,2608,89.6,2,2024
+5161,"Dr. Vithalrao Vikhe Patil College of Engineering, Ahmednagar (Un-Aided)",,516124610,,Stage-I,GST LOPEN EWS,9914,83.37,2,2024
+5161,"Dr. Vithalrao Vikhe Patil College of Engineering, Ahmednagar (Un-Aided)",,516125710,,Stage-I,LOPEN LST,13458,81.14,2,2024
+5161,"Dr. Vithalrao Vikhe Patil College of Engineering, Ahmednagar (Un-Aided)",,516129310,,Stage-I,GOPEN GST GOBC GSEBC LOPEN EWS,23616,75.67,2,2024
+5161,"Dr. Vithalrao Vikhe Patil College of Engineering, Ahmednagar (Un-Aided)",,516137210,,Stage-I,GOPEN LSC LST,34707,,2,2024
+5161,"Dr. Vithalrao Vikhe Patil College of Engineering, Ahmednagar (Un-Aided)",,516137210,,Stage-II,GOPEN LSC LST,18159,78.46,2,2024
+5169,"Nagaon Education Societys Gangamai College of Engineering, Nagaon, Tal Dist Dhule (Un-Aided)",,516919110,,Stage-I,GOPEN GSC GST GNTB GOBC GSEBC LOPEN LNTA LOBC LSEBC,48829,,2,2024
+5169,"Nagaon Education Societys Gangamai College of Engineering, Nagaon, Tal Dist Dhule (Un-Aided)",,516924510,,Stage-I,GOPEN GSC GOBC LOPEN LST LOBC,19177,77.94,2,2024
+5170,"Hindi Seva Mandals Shri Sant Gadgebaba College of Engineering & Technology, Bhusawal (Un-Aided Linguistic Minority - Hindi)",,517024210,,Stage-I,GOPEN MI-MH,32713,71.26,2,2024
+5170,"Hindi Seva Mandals Shri Sant Gadgebaba College of Engineering & Technology, Bhusawal (Un-Aided Linguistic Minority - Hindi)",,517091210,,Stage-I,GOPEN LOPEN MI-MH,42788,65.6,2,2024
+5171,"Godavari Foundations Godavari College Of Engineering, Jalgaon (Un-Aided)",,517124510,,Stage-I,GOPEN GST GOBC GSEBC LOPEN LSC LNTC EWS,23968,75.49,2,2024
+5171,"Godavari Foundations Godavari College Of Engineering, Jalgaon (Un-Aided)",,517126310,,Stage-I,GOPEN GSC GST GOBC LNTA LSEBC EWS,24108,,2,2024
+5171,"Godavari Foundations Godavari College Of Engineering, Jalgaon (Un-Aided)",,517137210,,Stage-I,GOPEN GOBC LOPEN LNTD LOBC PWD-O,42332,,2,2024
+5171,"Godavari Foundations Godavari College Of Engineering, Jalgaon (Un-Aided)",,517137210,,Stage-II,GOPEN GOBC LOPEN LNTD LOBC PWD-O,47139,60.69,2,2024
+5172,"R. C. Patel Institute of Technology, Shirpur (Un-Aided Autonomous Linguistic Minority - Gujarathi)",,517219110,,Stage-I,GOPEN LOPEN MI-MH,47274,60.42,2,2024
+5172,"R. C. Patel Institute of Technology, Shirpur (Un-Aided Autonomous Linguistic Minority - Gujarathi)",,517229310,,Stage-I,GOPEN LOPEN MI-MH,33388,70.94,2,2024
+5172,"R. C. Patel Institute of Technology, Shirpur (Un-Aided Autonomous Linguistic Minority - Gujarathi)",,517237210,,Stage-I,LOPEN MI-MH,24857,75.05,2,2024
+5172,"R. C. Patel Institute of Technology, Shirpur (Un-Aided Autonomous Linguistic Minority - Gujarathi)",,517291210,,Stage-I,GOPEN MI-MH,8491,84.29,2,2024
+5172,"R. C. Patel Institute of Technology, Shirpur (Un-Aided Autonomous Linguistic Minority - Gujarathi)",,517292110,,Stage-I,GOPEN MI-MH,11138,82.57,2,2024
+5173,"SNJBs Late Sau. Kantabai Bhavarlalji Jain College of Engineering, (Jain Gurukul), Neminagar,Chandwad,(Nashik) (Un-Aided Religious Minority - Jain)",,517319110,,Stage-I,GOPEN LOPEN,45404,,2,2024
+5173,"SNJBs Late Sau. Kantabai Bhavarlalji Jain College of Engineering, (Jain Gurukul), Neminagar,Chandwad,(Nashik) (Un-Aided Religious Minority - Jain)",,517337210,,Stage-I,GOPEN MI MI-MH,18218,78.44,2,2024
+5173,"SNJBs Late Sau. Kantabai Bhavarlalji Jain College of Engineering, (Jain Gurukul), Neminagar,Chandwad,(Nashik) (Un-Aided Religious Minority - Jain)",,517361210,,Stage-I,GOPEN LOPEN MI-MH,31345,71.94,2,2024
+5177,"Matoshri College of Engineering and Research Centre, Eklahare, Nashik (Un-Aided)",,517729310,,Stage-I,GOPEN GSC GST GNTA GNTB GNTC GOBC GSEBC LOPEN LSC LST LNTD LOBC LSEBC PWD-O DEF-O,34127,,2,2024
+5177,"Matoshri College of Engineering and Research Centre, Eklahare, Nashik (Un-Aided)",,517737210,,Stage-I,GOPEN GSC GST GSEBC LNTA LOBC,33729,,2,2024
+5177,"Matoshri College of Engineering and Research Centre, Eklahare, Nashik (Un-Aided)",,517737210,,Stage-II,GOPEN GSC GST GSEBC LNTA LOBC,17799,78.69,2,2024
+5177,"Matoshri College of Engineering and Research Centre, Eklahare, Nashik (Un-Aided)",,517761210,,Stage-I,GOPEN LOPEN PWD-O,44339,,2,2024
+5177,"Matoshri College of Engineering and Research Centre, Eklahare, Nashik (Un-Aided)",,517761210,,Stage-II,GOPEN LOPEN PWD-O,44639,64.0,2,2024
+5177,"Matoshri College of Engineering and Research Centre, Eklahare, Nashik (Un-Aided)",,517784410,,Stage-I,GOPEN GST GNTC GOBC GSEBC LOPEN LNTB,16907,,2,2024
+5177,"Matoshri College of Engineering and Research Centre, Eklahare, Nashik (Un-Aided)",,517784410,,Stage-II,GOPEN GST GNTC GOBC GSEBC LOPEN LNTB,17877,78.63,2,2024
+5177,"Matoshri College of Engineering and Research Centre, Eklahare, Nashik (Un-Aided)",,517799510,,Stage-I,GOPEN LOPEN LST LOBC,11866,82.11,2,2024
+5179,"Vishwabharati Academys College of Engineering, Ahmednagar (Un-Aided)",,517919110,,Stage-I,GOPEN GSC GNTA GOBC LOPEN PWD-O DEF-O EWS,33158,,2,2024
+5179,"Vishwabharati Academys College of Engineering, Ahmednagar (Un-Aided)",,517919110,,Stage-II,GOPEN GSC GNTA GOBC LOPEN PWD-O DEF-O EWS,49056,48.18,2,2024
+5179,"Vishwabharati Academys College of Engineering, Ahmednagar (Un-Aided)",,517924510,,Stage-I,GOPEN GSC GST GOBC GSEBC LOPEN LST LOBC LSEBC PWD-O EWS,19590,77.69,2,2024
+5179,"Vishwabharati Academys College of Engineering, Ahmednagar (Un-Aided)",,517926310,,Stage-I,GOPEN GSC GST GNTC GOBC GSEBC LOPEN LSC LNTB LNTD PWD-O DEF-O,25416,75.0,2,2024
+5179,"Vishwabharati Academys College of Engineering, Ahmednagar (Un-Aided)",,517961210,,Stage-I,GOPEN GSC GST GNTA GNTB GNTC GNTD GOBC GSEBC LOPEN LSC LST LNTC LOBC LSEBC PWD-O DEF-O ORP EWS,41294,,2,2024
+5181,"Gokhale Education Societys, R.H. Sapat College of Engineering, Management Studies and Research, Nashik (Un-Aided)",,518129310,,Stage-I,GOPEN GSC GST GNTC GOBC GSEBC LOPEN LOBC PWD-O EWS,11472,82.35,2,2024
+5181,"Gokhale Education Societys, R.H. Sapat College of Engineering, Management Studies and Research, Nashik (Un-Aided)",,518137210,,Stage-I,GOPEN GSC GOBC LST LOBC EWS,15348,80.06,2,2024
+5182,"Kalyani Charitable Trust, Late Gambhirrao Natuba Sapkal College of Engineering, Anjaneri, Trimbakeshwar Road, Nashik (Un-Aided)",,518219110,,Stage-I,GOPEN GNTA GNTB GNTC GOBC GSEBC LSC LOBC LSEBC DEF-O ORP,34395,,2,2024
+5182,"Kalyani Charitable Trust, Late Gambhirrao Natuba Sapkal College of Engineering, Anjaneri, Trimbakeshwar Road, Nashik (Un-Aided)",,518219110,,Stage-II,GOPEN GNTA GNTB GNTC GOBC GSEBC LSC LOBC LSEBC DEF-O ORP,35747,69.76,2,2024
+5182,"Kalyani Charitable Trust, Late Gambhirrao Natuba Sapkal College of Engineering, Anjaneri, Trimbakeshwar Road, Nashik (Un-Aided)",,518229310,,Stage-I,GOPEN GSC GST GOBC GSEBC LOPEN LNTA LNTC LSEBC,31785,,2,2024
+5184,"Amruta Vaishnavi Education & Welfare Trusts Shatabdi Institute of Engineering & Research, Agaskhind Tal. Sinnar (Un-Aided Religious Minority - Christian)",,518424510,,Stage-I,GOPEN LOPEN MI-MH,20668,77.14,2,2024
+5184,"Amruta Vaishnavi Education & Welfare Trusts Shatabdi Institute of Engineering & Research, Agaskhind Tal. Sinnar (Un-Aided Religious Minority - Christian)",,518429310,,Stage-I,GOPEN LOPEN MI-MH,48156,58.17,2,2024
+5184,"Amruta Vaishnavi Education & Welfare Trusts Shatabdi Institute of Engineering & Research, Agaskhind Tal. Sinnar (Un-Aided Religious Minority - Christian)",,518437210,,Stage-I,GOPEN LOPEN MI-MH,34255,70.5,2,2024
+5184,"Amruta Vaishnavi Education & Welfare Trusts Shatabdi Institute of Engineering & Research, Agaskhind Tal. Sinnar (Un-Aided Religious Minority - Christian)",,518461210,,Stage-I,GOPEN LOPEN,48543,,2,2024
+5244,"METs Institute of Technology Polytechnic, Bhujbal Knowledge City, Adgaon Nashik (Un-Aided)",,524492210,,Stage-I,GOPEN GSC GST GNTB GOBC LOPEN LOBC PWD-O DEF-O,43709,,2,2024
+5244,"METs Institute of Technology Polytechnic, Bhujbal Knowledge City, Adgaon Nashik (Un-Aided)",,524492210,,Stage-II,GOPEN GSC GST GNTB GOBC LOPEN LOBC PWD-O DEF-O,44700,63.95,2,2024
+5331,"Sandip Foundations, Sandip Institute of Engineering & Management, Nashik (Un-Aided)",,533129310,,Stage-I,GOPEN GST GNTC GNTD GOBC GSEBC LOPEN LNTA LOBC LSEBC PWD-O DEF-O,42090,,2,2024
+5331,"Sandip Foundations, Sandip Institute of Engineering & Management, Nashik (Un-Aided)",,533129310,,Stage-II,GOPEN GST GNTC GNTD GOBC GSEBC LOPEN LNTA LOBC LSEBC PWD-O DEF-O,25274,75.0,2,2024
+5331,"Sandip Foundations, Sandip Institute of Engineering & Management, Nashik (Un-Aided)",,533137210,,Stage-I,GOPEN GNTA GOBC LOPEN LST LOBC,18187,78.46,2,2024
+5365,"Vardhaman Education & Welfare Society,Ahinsa Polytechnic, Post. Dondaicha, Dhule (Un-Aided Religious Minority - Jain)",,536525110,,Stage-I,GOPEN LOPEN MI-MH,35951,69.66,2,2024
+5365,"Vardhaman Education & Welfare Society,Ahinsa Polytechnic, Post. Dondaicha, Dhule (Un-Aided Religious Minority - Jain)",,536529310,,Stage-I,GOPEN LOPEN MI-MH,48927,53.11,2,2024
+5380,"Adsuls Technical Campus, Chas Dist. Ahmednagar (Un-Aided)",,538019110,,Stage-I,GOBC LST,7647,84.89,2,2024
+5380,"Adsuls Technical Campus, Chas Dist. Ahmednagar (Un-Aided)",,538024510,,Stage-I,GOPEN GSC GST GNTA GOBC GSEBC LOPEN LOBC PWD-O EWS,19798,77.6,2,2024
+5381,"Shri. Jaykumar Rawal Institute of Technology, Dondaicha. (Un-Aided)",,538129310,,Stage-I,GOPEN GSC GNTC GOBC GSEBC LOPEN LST LSEBC DEF-O ORP,33470,70.89,2,2024
+5381,"Shri. Jaykumar Rawal Institute of Technology, Dondaicha. (Un-Aided)",,538161210,,Stage-II,GOPEN GST GNTC GNTD GOBC GSEBC LSC LST LOBC LSEBC PWD-O DEF-O ORP EWS,24497,75.23,2,2024
+5382,"Ahmednagar Jilha Maratha Vidya Prasarak Samajache, Shri. Chhatrapati Shivaji Maharaj College of Engineering, Nepti (Un-Aided)",,538219110,,Stage-I,GOPEN GOBC LOPEN LOBC PWD-O,43350,65.19,2,2024
+5382,"Ahmednagar Jilha Maratha Vidya Prasarak Samajache, Shri. Chhatrapati Shivaji Maharaj College of Engineering, Nepti (Un-Aided)",,538226310,,Stage-I,GST LOPEN LSEBC,15256,80.11,2,2024
+5396,"College of Engineering and Technology ,North Maharashtra Knowledge City, Jalgaon (Un-Aided)",,539624510,,Stage-I,GOPEN LOPEN LOBC LSEBC,25186,75.0,2,2024
+5396,"College of Engineering and Technology ,North Maharashtra Knowledge City, Jalgaon (Un-Aided)",,539629310,,Stage-I,GOPEN GST GSEBC LNTD LOBC,35621,,2,2024
+5396,"College of Engineering and Technology ,North Maharashtra Knowledge City, Jalgaon (Un-Aided)",,539661210,,Stage-I,GOPEN GSC GOBC GSEBC LOPEN LSC LNTC LNTD LOBC PWD-O DEF-O,40397,,2,2024
+5399,"Sanghavi College of Engineering, Varvandi, Nashik. (Un-Aided)",,539961210,,Stage-I,GOPEN GSC GOBC LOPEN,47314,,2,2024
+5401,"Jawahar Education Societys Institute of Technology, Management & Research, Nashik. (Un-Aided)",,540124510,,Stage-I,GOPEN GSC GST GOBC LOPEN LSC LST LOBC LSEBC EWS,13080,81.37,2,2024
+5401,"Jawahar Education Societys Institute of Technology, Management & Research, Nashik. (Un-Aided)",,540124610,,Stage-I,GSC GST GOBC GSEBC,13180,81.31,2,2024
+5401,"Jawahar Education Societys Institute of Technology, Management & Research, Nashik. (Un-Aided)",,540126310,,Stage-I,GST GSEBC LOPEN EWS,14333,80.63,2,2024
+5401,"Jawahar Education Societys Institute of Technology, Management & Research, Nashik. (Un-Aided)",,540129310,,Stage-I,GOPEN GSC GST GNTA GNTB GNTC GOBC GSEBC LOPEN LSC LST LNTC LOBC LSEBC PWD-O DEF-O ORP,45445,,2,2024
+5408,"Vidya Niketan College of Engineering, Bota Sangamner (Un-Aided)",,540819110,,Stage-I,GOPEN GSC LOPEN PWD-O DEF-O,46868,,2,2024
+5408,"Vidya Niketan College of Engineering, Bota Sangamner (Un-Aided)",,540819110,,Stage-II,GOPEN GSC LOPEN PWD-O DEF-O,49006,51.38,2,2024
+5408,"Vidya Niketan College of Engineering, Bota Sangamner (Un-Aided)",,540829310,,Stage-I,GOPEN GST GOBC GSEBC LOPEN LNTB LOBC LSEBC PWD-O DEF-O,47182,,2,2024
+5408,"Vidya Niketan College of Engineering, Bota Sangamner (Un-Aided)",,540837210,,Stage-I,GOPEN GSC GST GNTB GNTC GOBC GSEBC LOPEN LST LNTA LNTB LOBC LSEBC PWD-O DEF-O ORP,38430,,2,2024
+5409,"Rajiv Gandhi College of Engineering, At Post Karjule Hariya Tal.Parner, Dist.Ahmednagar (Un-Aided)",,540929310,,Stage-I,GOPEN GSC GST GNTB GOBC GSEBC LOPEN LSC LST LNTC LOBC LSEBC DEF-O ORP EWS,37336,,2,2024
+5409,"Rajiv Gandhi College of Engineering, At Post Karjule Hariya Tal.Parner, Dist.Ahmednagar (Un-Aided)",,540929310,,Stage-II,GOPEN GSC GST GNTB GOBC GSEBC LOPEN LSC LST LNTC LOBC LSEBC DEF-O ORP EWS,31063,72.06,2,2024
+5409,"Rajiv Gandhi College of Engineering, At Post Karjule Hariya Tal.Parner, Dist.Ahmednagar (Un-Aided)",,540937210,,Stage-I,GOPEN GSC GST GNTA GNTB GNTC GOBC GSEBC LOPEN LSC LST LNTB LNTC LOBC LSEBC DEF-O ORP,30402,72.4,2,2024
+5411,"Maulana Mukhtar Ahmad Nadvi Technical Campus, Malegaon. (Un-Aided Religious Minority - Muslim)",,541124510,,Stage-I,GOPEN LOPEN MI MI-MH,39754,67.6,2,2024
+5449,"Shri Vile Parle Kelavani Mandals Institute of Technology, Dhule (Un-Aided Linguistic Minority - Gujarath)",,544919110,,Stage-I,GOPEN MI-MH,36255,69.53,2,2024
+5449,"Shri Vile Parle Kelavani Mandals Institute of Technology, Dhule (Un-Aided Linguistic Minority - Gujarath)",,544924610,,Stage-I,GOPEN MI-MH,9984,83.31,2,2024
+5449,"Shri Vile Parle Kelavani Mandals Institute of Technology, Dhule (Un-Aided Linguistic Minority - Gujarath)",,544929310,,Stage-I,GOPEN LOPEN MI-MH,42438,65.88,2,2024
+5449,"Shri Vile Parle Kelavani Mandals Institute of Technology, Dhule (Un-Aided Linguistic Minority - Gujarath)",,544961210,,Stage-I,GOPEN MI-MH,43145,65.33,2,2024
+6004,"Government College of Engineering & Research, Avasari Khurd (Government)",,600446410,,Stage-I,LOPEN LST,9839,83.41,2,2024
+6004,"Government College of Engineering & Research, Avasari Khurd (Government)",,600460210,,Stage-I,GOPEN GST GNTD GOBC LOPEN LOBC LSEBC,29482,,2,2024
+6005,"Government College of Engineering, Karad (Government Autonomous)",,600537210,,Stage-I,LST EWS,643,93.28,2,2024
+6005,"Government College of Engineering, Karad (Government Autonomous)",,600561210,,Stage-I,GST LSC,5748,,2,2024
+6006,COEP Technological University (University Autonomous),,600662710,,Stage-I,GST EWS,964,92.35,2,2024
+6006,COEP Technological University (University Autonomous),,600669410,,Stage-I,GSC LST,2892,89.21,2,2024
+6028,"Department of Technology, Shivaji University, Kolhapur (University Department)",,602850710,,Stage-I,GOPEN GNTD GOBC LOPEN,44891,,2,2024
+6028,"Department of Technology, Shivaji University, Kolhapur (University Department)",,602861210,,Stage-I,GOPEN GSC GOBC GSEBC LOPEN PWD-O DEF-O EWS,30817,,2,2024
+6028,"Department of Technology, Shivaji University, Kolhapur (University Department)",,602861210,,Stage-II,GOPEN GSC GOBC GSEBC LOPEN PWD-O DEF-O EWS,47547,60.0,2,2024
+6122,"TSSMSs Pd. Vasantdada Patil Institute of Technology, Bavdhan, Pune (Un-Aided)",,612261210,,Stage-I,GOPEN GNTA GNTB GNTC GOBC LOPEN LOBC PWD-O DEF-O EWS,44804,,2,2024
+6138,"Genba Sopanrao Moze Trust Parvatibai Genba Moze College of Engineering,Wagholi, Pune (Un-Aided)",,613819110,,Stage-I,GOPEN GSC GST GNTB GNTC GOBC GSEBC LOPEN LSC LST LOBC LSEBC,46701,,2,2024
+6138,"Genba Sopanrao Moze Trust Parvatibai Genba Moze College of Engineering,Wagholi, Pune (Un-Aided)",,613837210,,Stage-I,GOPEN GSC GST GNTB GOBC GSEBC LOPEN LOBC LSEBC PWD-O DEF-O EWS,16806,79.26,2,2024
+6138,"Genba Sopanrao Moze Trust Parvatibai Genba Moze College of Engineering,Wagholi, Pune (Un-Aided)",,613861210,,Stage-I,GOPEN GSC GST GNTB GOBC LNTC LOBC,25735,,2,2024
+6138,"Genba Sopanrao Moze Trust Parvatibai Genba Moze College of Engineering,Wagholi, Pune (Un-Aided)",,613861210,,Stage-II,GOPEN GSC GST GNTB GOBC LNTC LOBC,18010,78.56,2,2024
+6141,"Jaywant Shikshan Prasarak Mandals,Rajarshi Shahu College of Engineering, Tathawade, Pune (Un-Aided Autonomous)",,614161210,,Stage-II,GOPEN GST GOBC LOPEN LNTA LOBC LSEBC PWD-O DEF-O EWS,15615,79.9,2,2024
+6144,"Genba Sopanrao Moze College of Engineering, Baner-Balewadi, Pune (Un-Aided)",,614419110,,Stage-I,GOPEN GSC GST GNTA GNTB GNTC GNTD GOBC LOPEN LSC LST LOBC LSEBC PWD-O DEF-O,48594,,2,2024
+6144,"Genba Sopanrao Moze College of Engineering, Baner-Balewadi, Pune (Un-Aided)",,614461210,,Stage-I,GSC GST GOBC LOPEN,12725,81.59,2,2024
+6145,"JSPMS Jaywantrao Sawant College of Engineering,Pune (Un-Aided)",,614537210,,Stage-I,GOPEN GSC GST GNTD GOBC GSEBC LOPEN LSC LST LNTA LOBC LSEBC PWD-O,13312,81.24,2,2024
+6146,"MIT Academy of Engineering,Alandi, Pune (Un-Aided Autonomous)",,614650710,,Stage-I,GOPEN GSC GSEBC LNTA LOBC EWS,32678,,2,2024
+6146,"MIT Academy of Engineering,Alandi, Pune (Un-Aided Autonomous)",,614661210,,Stage-I,GOPEN GSC GST GNTA GNTB GNTD GOBC LOPEN LST LOBC PWD-O DEF-O EWS,15290,80.1,2,2024
+6149,"Siddhant College of Engineering, A/p Sudumbare, Tal.Maval, Dist-Pune (Un-Aided Linguistic Minority - Hindi)",,614924510,,Stage-I,GOPEN MI-MH,14358,80.63,2,2024
+6149,"Siddhant College of Engineering, A/p Sudumbare, Tal.Maval, Dist-Pune (Un-Aided Linguistic Minority - Hindi)",,614924610,,Stage-I,GOPEN LOPEN MI-MH,14956,80.29,2,2024
+6149,"Siddhant College of Engineering, A/p Sudumbare, Tal.Maval, Dist-Pune (Un-Aided Linguistic Minority - Hindi)",,614937210,,Stage-I,GOPEN LOPEN MI-MH,24806,75.07,2,2024
+6149,"Siddhant College of Engineering, A/p Sudumbare, Tal.Maval, Dist-Pune (Un-Aided Linguistic Minority - Hindi)",,614961210,,Stage-I,GOPEN LOPEN MI-MH,38813,68.12,2,2024
+6155,"G.H.Raisoni College of Engineering & Management, Wagholi, Pune (Un-Aided Autonomous Linguistic Minority - Hindi)",,615519110,,Stage-I,GOPEN LOPEN MI-MH,33026,71.11,2,2024
+6155,"G.H.Raisoni College of Engineering & Management, Wagholi, Pune (Un-Aided Autonomous Linguistic Minority - Hindi)",,615526010,,Stage-I,GOPEN MI-MH,6423,85.88,2,2024
+6155,"G.H.Raisoni College of Engineering & Management, Wagholi, Pune (Un-Aided Autonomous Linguistic Minority - Hindi)",,615537210,,Stage-I,GOPEN MI-MH,15642,79.89,2,2024
+6155,"G.H.Raisoni College of Engineering & Management, Wagholi, Pune (Un-Aided Autonomous Linguistic Minority - Hindi)",,615561210,,Stage-I,GOPEN LOPEN MI-MH,44165,64.46,2,2024
+6155,"G.H.Raisoni College of Engineering & Management, Wagholi, Pune (Un-Aided Autonomous Linguistic Minority - Hindi)",,615591310,,Stage-I,GOPEN MI-MH,6599,85.71,2,2024
+6156,"Marathwada Mitra Mandals College of Engineering, Karvenagar, Pune (Un-Aided)",,615637210,,Stage-I,GSC GOBC LOPEN LST EWS,5182,86.91,2,2024
+6178,"Sinhgad Technical Education Societys Smt. Kashibai Navale College of Engineering,Vadgaon,Pune (Un-Aided)",,617837210,,Stage-I,GOPEN GST GNTC GOBC GSEBC LOPEN LST LNTD LOBC PWD-O DEF-O ORP EWS,10887,82.74,2,2024
+6178,"Sinhgad Technical Education Societys Smt. Kashibai Navale College of Engineering,Vadgaon,Pune (Un-Aided)",,617861210,,Stage-I,GOPEN GNTB GNTD GOBC LOPEN PWD-O,47331,,2,2024
+6178,"Sinhgad Technical Education Societys Smt. Kashibai Navale College of Engineering,Vadgaon,Pune (Un-Aided)",,617861210,,Stage-II,GOPEN GNTB GNTD GOBC LOPEN PWD-O,47715,59.59,2,2024
+6179,"Indira College of Engineering & Management, Pune (Un-Aided)",,617937210,,Stage-I,GOPEN GST GOBC GSEBC LOPEN LSC LNTB LNTC LOBC EWS,17491,78.88,2,2024
+6182,"Sinhgad Technical Education Society, Sinhgad Institute of Technology and Science, Narhe (Ambegaon) (Un-Aided)",,618219110,,Stage-I,GOPEN GSC GST GNTC GOBC GSEBC LOPEN LSC LST LOBC PWD-O DEF-O ORP,44447,,2,2024
+6182,"Sinhgad Technical Education Society, Sinhgad Institute of Technology and Science, Narhe (Ambegaon) (Un-Aided)",,618224610,,Stage-I,LST EWS,3656,88.4,2,2024
+6182,"Sinhgad Technical Education Society, Sinhgad Institute of Technology and Science, Narhe (Ambegaon) (Un-Aided)",,618237210,,Stage-I,GOPEN GST GNTB GOBC LOPEN LNTD LSEBC PWD-O DEF-O,15876,79.77,2,2024
+6183,"Al-Ameen Educational and Medical Foundation, College of Engineering, Koregaon, Bhima (Un-Aided Religious Minority - Muslim)",,618337210,,Stage-I,GOPEN LOPEN MI MI-MH,19865,77.56,2,2024
+6183,"Al-Ameen Educational and Medical Foundation, College of Engineering, Koregaon, Bhima (Un-Aided Religious Minority - Muslim)",,618361210,,Stage-I,GOPEN LOPEN MI MI-MH,21966,76.49,2,2024
+6184,"K. J.s Educational Institut Trinity College of Engineering and Research, Pisoli, Haveli (Un-Aided)",,618429310,,Stage-I,GOPEN GSC GST GOBC LOPEN LSC LOBC LSEBC EWS,18924,78.06,2,2024
+6185,"Sinhagad Institute of Technology, Lonavala (Un-Aided)",,618529310,,Stage-I,GOPEN GSC GST GNTC GOBC GSEBC LOPEN LST LNTA LOBC LSEBC PWD-O EWS,32902,,2,2024
+6185,"Sinhagad Institute of Technology, Lonavala (Un-Aided)",,618529310,,Stage-II,GOPEN GSC GST GNTC GOBC GSEBC LOPEN LST LNTA LOBC LSEBC PWD-O EWS,20157,77.39,2,2024
+6187,"Sinhgad Academy of Engineering, Kondhwa (BK) Kondhwa-Saswad Road, Pune (Un-Aided)",,618719110,,Stage-I,GOPEN LOPEN PWD-O,47963,58.78,2,2024
+6187,"Sinhgad Academy of Engineering, Kondhwa (BK) Kondhwa-Saswad Road, Pune (Un-Aided)",,618724610,,Stage-I,GST EWS,4075,87.94,2,2024
+6203,"Marathwada Mitra Mandals Institute of Technology, Lohgaon, Pune (Un-Aided)",,620361210,,Stage-I,GOPEN GNTA GNTB GOBC GSEBC LOPEN LST LNTD LOBC LSEBC,42198,,2,2024
+6206,"Pune District Education Associations College of Engineering, Pune (Un-Aided)",,620637210,,Stage-I,GOPEN GSC GST GOBC LOPEN LSC LOBC,16156,79.6,2,2024
+6206,"Pune District Education Associations College of Engineering, Pune (Un-Aided)",,620661210,,Stage-I,GOPEN LOPEN,47869,,2,2024
+6207,"Dr. D. Y. Patil Unitech Societys Dr. D. Y. Patil Institute of Technology, Pimpri, Pune (Un-Aided)",,620737210,,Stage-I,DEFR-OBC GOPEN GST GOBC LOPEN LSC DEF-O,5607,86.53,2,2024
+6207,"Dr. D. Y. Patil Unitech Societys Dr. D. Y. Patil Institute of Technology, Pimpri, Pune (Un-Aided)",,620746610,,Stage-I,GOPEN GSC GOBC GSEBC LOPEN LST LNTC,15276,80.11,2,2024
+6214,"K. E. Societys Rajarambapu Institute of Technology, Walwa, Sangli (Un-Aided Autonomous)",,621429310,,Stage-I,GOPEN GST,3176,88.89,2,2024
+6214,"K. E. Societys Rajarambapu Institute of Technology, Walwa, Sangli (Un-Aided Autonomous)",,621456810,,Stage-I,GOPEN LST,2740,89.41,2,2024
+6214,"K. E. Societys Rajarambapu Institute of Technology, Walwa, Sangli (Un-Aided Autonomous)",,621491110,,Stage-I,GOPEN GST,3371,88.69,2,2024
+6217,"Shri. Balasaheb Mane Shikshan Prasarak Mandals, Ashokrao Mane Group of Institutions (Un-Aided)",,621726310,,Stage-II,GOPEN GSC GST GOBC LOPEN LNTA LNTB LNTC LSEBC EWS,21331,76.8,2,2024
+6217,"Shri. Balasaheb Mane Shikshan Prasarak Mandals, Ashokrao Mane Group of Institutions (Un-Aided)",,621729310,,Stage-I,GOPEN GST GNTB GNTC GNTD GOBC GSEBC LST LOBC PWD-O DEF-O,46372,,2,2024
+6217,"Shri. Balasaheb Mane Shikshan Prasarak Mandals, Ashokrao Mane Group of Institutions (Un-Aided)",,621737210,,Stage-I,GOPEN GSC GST GNTB GNTD GOBC GSEBC LOPEN LSC LOBC PWD-O DEF-O,30119,,2,2024
+6219,"KSGBSs Bharat- Ratna Indira Gandhi College of Engineering, Kegaon, Solapur (Un-Aided)",,621919110,,Stage-I,GOPEN LOPEN,48984,,2,2024
+6219,"KSGBSs Bharat- Ratna Indira Gandhi College of Engineering, Kegaon, Solapur (Un-Aided)",,621929310,,Stage-I,GOPEN GSC GST GNTA LSC LOBC PWD-O DEF-O,44842,,2,2024
+6219,"KSGBSs Bharat- Ratna Indira Gandhi College of Engineering, Kegaon, Solapur (Un-Aided)",,621961210,,Stage-I,GOPEN GSC LOPEN,48957,,2,2024
+6220,"Shri Vithal Education and Research Institutes College of Engineering, Pandharpur (Un-Aided)",,622029310,,Stage-I,LST LSEBC,4490,87.56,2,2024
+6222,"Dattajirao Kadam Technical Education Societys Textile & Engineering Institute, Ichalkaranji. (Un-Aided Autonomous)",,622226310,,Stage-I,LSC LST,3442,88.63,2,2024
+6222,"Dattajirao Kadam Technical Education Societys Textile & Engineering Institute, Ichalkaranji. (Un-Aided Autonomous)",,622237210,,Stage-I,GOPEN GST,6307,85.94,2,2024
+6222,"Dattajirao Kadam Technical Education Societys Textile & Engineering Institute, Ichalkaranji. (Un-Aided Autonomous)",,622289010,,Stage-I,GOPEN GSC GST GNTA GOBC LOPEN LSC LST PWD-O,29476,72.85,2,2024
+6222,"Dattajirao Kadam Technical Education Societys Textile & Engineering Institute, Ichalkaranji. (Un-Aided Autonomous)",,622291110,,Stage-I,GSC GST GOBC GSEBC LOPEN,2782,89.37,2,2024
+6223,"Pradnya Niketan Education Societys Nagesh Karajagi Orchid College of Engineering & Technology, Solapur (Un-Aided)",,622329310,,Stage-I,GOPEN LST LNTC,12864,,2,2024
+6223,"Pradnya Niketan Education Societys Nagesh Karajagi Orchid College of Engineering & Technology, Solapur (Un-Aided)",,622329310,,Stage-II,GOPEN LST LNTC,11755,82.17,2,2024
+6223,"Pradnya Niketan Education Societys Nagesh Karajagi Orchid College of Engineering & Technology, Solapur (Un-Aided)",,622337210,,Stage-I,GSC GST,3351,88.71,2,2024
+6223,"Pradnya Niketan Education Societys Nagesh Karajagi Orchid College of Engineering & Technology, Solapur (Un-Aided)",,622361210,,Stage-I,GOPEN GST GNTA GNTB GNTC GNTD GSEBC LOPEN LSC LST LNTC PWD-O DEF-O EWS,25851,,2,2024
+6250,"D.Y. Patil College of Engineering and Technology, Kolhapur (Un-Aided Autonomous)",,625019110,,Stage-I,GOPEN GSC GST GNTD GOBC GSEBC LST PWD-O DEF-O ORP,10402,83.05,2,2024
+6265,"Walchand Institute of Technology, Solapur (Un-Aided Autonomous Religious Minority - Jain)",,626519110,,Stage-I,LOPEN MI-MH,6580,85.74,2,2024
+6267,"Kolhapur Institute of Technologys College of Engineering(Autonomous), Kolhapur (Un-Aided Autonomous)",,626724210,,Stage-I,GOPEN GST GOBC GSEBC LOPEN EWS,1159,91.89,2,2024
+6267,"Kolhapur Institute of Technologys College of Engineering(Autonomous), Kolhapur (Un-Aided Autonomous)",,626761210,,Stage-I,GST GNTD GSEBC LST LOBC PWD-O EWS,3816,88.21,2,2024
+6268,"Tatyasaheb Kore Institute of Engineering and Technology, Warananagar (Un-Aided Autonomous)",,626819110,,Stage-I,GOPEN GSC GST GNTA GNTB GOBC GSEBC LOPEN LSC LST LSEBC PWD-O DEF-O EWS,44090,,2,2024
+6269,"Shetkari Shikshan Mandals Pad. Vasantraodada Patil Institute of Technology, Budhgaon, Sangli (Un-Aided)",,626919110,,Stage-I,GOPEN GSC LOPEN PWD-O DEF-O EWS,44153,,2,2024
+6269,"Shetkari Shikshan Mandals Pad. Vasantraodada Patil Institute of Technology, Budhgaon, Sangli (Un-Aided)",,626919110,,Stage-II,GOPEN GSC LOPEN PWD-O DEF-O EWS,48905,53.29,2,2024
+6269,"Shetkari Shikshan Mandals Pad. Vasantraodada Patil Institute of Technology, Budhgaon, Sangli (Un-Aided)",,626950710,,Stage-I,GOPEN GSC GSEBC LOPEN PWD-O DEF-O,44383,,2,2024
+6269,"Shetkari Shikshan Mandals Pad. Vasantraodada Patil Institute of Technology, Budhgaon, Sangli (Un-Aided)",,626950710,,Stage-II,GOPEN GSC GSEBC LOPEN PWD-O DEF-O,48154,58.17,2,2024
+6269,"Shetkari Shikshan Mandals Pad. Vasantraodada Patil Institute of Technology, Budhgaon, Sangli (Un-Aided)",,626961210,,Stage-I,GOPEN GSC GST GNTC GOBC GSEBC LOPEN LSC LST LNTD PWD-O DEF-O,42680,,2,2024
+6269,"Shetkari Shikshan Mandals Pad. Vasantraodada Patil Institute of Technology, Budhgaon, Sangli (Un-Aided)",,626990010,,Stage-I,GOPEN GSC GST GOBC GSEBC LOPEN LSC LNTA EWS,21273,,2,2024
+6270,"Rayat Shikshan Sansthas Karmaveer Bhaurao Patil College of Engineering, Satara (Un-Aided)",,627019110,,Stage-II,GOPEN GSEBC LOPEN LNTB PWD-O,48889,53.52,2,2024
+6270,"Rayat Shikshan Sansthas Karmaveer Bhaurao Patil College of Engineering, Satara (Un-Aided)",,627037210,,Stage-I,GOPEN GOBC LST EWS,15792,79.82,2,2024
+6272,"Dr. D. Y. Patil Pratishthans D.Y.Patil College of Engineering Akurdi, Pune (Un-Aided)",,627224510,,Stage-I,GOPEN GOBC LST,28588,,2,2024
+6272,"Dr. D. Y. Patil Pratishthans D.Y.Patil College of Engineering Akurdi, Pune (Un-Aided)",,627299510,,Stage-I,LST LNTC,1197,91.81,2,2024
+6273,"Bansilal Ramnath Agarawal Charitable Trusts Vishwakarma Institute of Technology, Bibwewadi, Pune (Un-Aided Autonomous)",,627346410,,Stage-I,GST EWS,3588,88.47,2,2024
+6274,"Pune Vidyarthi Grihas College of Engineering and Technology and G K Pate(Wani) Institute of Management, Pune (Un-Aided)",,627424610,,Stage-I,GOPEN GOBC LOPEN LST LSEBC,39403,,2,2024
+6275,"Shivnagar Vidya Prasarak Mandals College of Engineering, Malegaon-Baramati (Un-Aided)",,627537210,,Stage-I,LSC LST,13212,81.29,2,2024
+6276,"MKSSSs Cummins College of Engineering for Women, Karvenagar,Pune (Un-Aided Autonomous)",,627637250,,Stage-I,LOPEN LST LOBC,1536,91.19,2,2024
+6276,"MKSSSs Cummins College of Engineering for Women, Karvenagar,Pune (Un-Aided Autonomous)",,627646450,,Stage-I,LOPEN LST,5304,86.8,2,2024
+6277,"Dr. J. J. Magdum Charitable Trusts Dr. J.J. Magdum College of Engineering, Jaysingpur (Un-Aided)",,627724610,,Stage-I,GOPEN GSC GOBC GSEBC LOPEN LST EWS,11550,82.31,2,2024
+6277,"Dr. J. J. Magdum Charitable Trusts Dr. J.J. Magdum College of Engineering, Jaysingpur (Un-Aided)",,627726310,,Stage-I,GOPEN GNTA GOBC LOPEN LST LOBC,12807,81.54,2,2024
+6277,"Dr. J. J. Magdum Charitable Trusts Dr. J.J. Magdum College of Engineering, Jaysingpur (Un-Aided)",,627737210,,Stage-I,GOPEN GSC GST GNTD GOBC GSEBC LOPEN EWS,22472,76.24,2,2024
+6278,"All India Shri Shivaji Memorial Societys College of Engineering, Pune (Un-Aided)",,627837810,,Stage-I,GOPEN GST GNTB GOBC LNTC EWS,18430,,2,2024
+6278,"All India Shri Shivaji Memorial Societys College of Engineering, Pune (Un-Aided)",,627837810,,Stage-II,GOPEN GST GNTB GOBC LNTC EWS,16032,79.67,2,2024
+6281,"Modern Education Societys College of Engineering, Pune (Un-Aided)",,628161210,,Stage-I,GOPEN GSC GST GNTA GNTC GOBC GSEBC LOPEN LST LOBC LSEBC PWD-O DEF-O ORP,37552,,2,2024
+6281,"Modern Education Societys College of Engineering, Pune (Un-Aided)",,628191610,,Stage-I,GOPEN GST LOPEN EWS,11697,82.22,2,2024
+6282,"All India Shri Shivaji Memorial Societys Institute of Information Technology,Pune (Un-Aided Autonomous)",,628229310,,Stage-I,GST GSEBC,1164,91.89,2,2024
+6282,"All India Shri Shivaji Memorial Societys Institute of Information Technology,Pune (Un-Aided Autonomous)",,628246610,,Stage-I,GOPEN GSC GST GNTC LOPEN,17741,78.72,2,2024
+6283,"Annasaheb Dange College of Engineering and Technology, Ashta, Sangli (Un-Aided Autonomous)",,628319110,,Stage-I,GOPEN GSC GST GNTC GOBC GSEBC LSC LNTD LOBC DEF-O EWS,17075,79.11,2,2024
+6283,"Annasaheb Dange College of Engineering and Technology, Ashta, Sangli (Un-Aided Autonomous)",,628326310,,Stage-I,GOPEN LST,3482,88.57,2,2024
+6283,"Annasaheb Dange College of Engineering and Technology, Ashta, Sangli (Un-Aided Autonomous)",,628361210,,Stage-II,GOPEN GST GNTB GNTC GOBC LOPEN LSC LST LNTA LNTD LOBC LSEBC PWD-O,29114,73.03,2,2024
+6284,"Vidya Pratishthans Kamalnayan Bajaj Institute of Engineering & Technology, Baramati Dist.Pune (Un-Aided Autonomous)",,628437210,,Stage-I,GST LOPEN,11022,82.65,2,2024
+6284,"Vidya Pratishthans Kamalnayan Bajaj Institute of Engineering & Technology, Baramati Dist.Pune (Un-Aided Autonomous)",,628499510,,Stage-I,GOPEN LST,5174,86.91,2,2024
+6288,"Bharati Vidyapeeths College of Engineering, Kolhapur (Un-Aided)",,628819110,,Stage-I,GOPEN GSC GST GNTA GNTB GNTC GNTD GOBC LOPEN LSC LST PWD-O DEF-O,41838,,2,2024
+6288,"Bharati Vidyapeeths College of Engineering, Kolhapur (Un-Aided)",,628861210,,Stage-I,GOPEN GST GNTB LOPEN LSC LST LNTB PWD-O DEF-O,36009,,2,2024
+6289,"B.R.A.C.Ts Vishwakarma Institute of Information Technology, Kondhwa (Bk.), Pune (Un-Aided Autonomous)",,628937210,,Stage-I,GOPEN GST EWS,1671,90.97,2,2024
+6293,"Kai Amdar Bramhadevdada Mane Shikshan & Samajik Prathistans Bramhadevdada Mane Institute of Technology, Solapur (Un-Aided)",,629329310,,Stage-I,GOPEN GSC GST GNTA GNTB GNTC GNTD GOBC GSEBC LOPEN LSC LST LNTB LOBC LSEBC PWD-O DEF-O ORP,39542,,2,2024
+6293,"Kai Amdar Bramhadevdada Mane Shikshan & Samajik Prathistans Bramhadevdada Mane Institute of Technology, Solapur (Un-Aided)",,629337210,,Stage-I,GOPEN GSC GST GOBC GSEBC LOPEN LNTC LOBC LSEBC EWS,39742,,2,2024
+6293,"Kai Amdar Bramhadevdada Mane Shikshan & Samajik Prathistans Bramhadevdada Mane Institute of Technology, Solapur (Un-Aided)",,629337210,,Stage-II,GOPEN GSC GST GOBC GSEBC LOPEN LNTC LOBC LSEBC EWS,28650,73.24,2,2024
+6293,"Kai Amdar Bramhadevdada Mane Shikshan & Samajik Prathistans Bramhadevdada Mane Institute of Technology, Solapur (Un-Aided)",,629361210,,Stage-I,GOPEN GSC LOPEN PWD-O DEF-O,39516,,2,2024
+6293,"Kai Amdar Bramhadevdada Mane Shikshan & Samajik Prathistans Bramhadevdada Mane Institute of Technology, Solapur (Un-Aided)",,629361210,,Stage-II,GOPEN GSC LOPEN PWD-O DEF-O,48063,58.47,2,2024
+6298,"Zeal Education Societys Zeal College of Engineering & Reserch, Narhe, Pune (Un-Aided)",,629821910,,Stage-I,GOPEN GOBC LOPEN LST,12515,81.71,2,2024
+6298,"Zeal Education Societys Zeal College of Engineering & Reserch, Narhe, Pune (Un-Aided)",,629824510,,Stage-I,DEFR-OBC GOPEN GST GOBC GSEBC LOPEN,4017,88.0,2,2024
+6298,"Zeal Education Societys Zeal College of Engineering & Reserch, Narhe, Pune (Un-Aided)",,629837210,,Stage-I,GOPEN GST GNTA GNTC GOBC LOPEN LSC LOBC LSEBC PWD-O DEF-O,16484,79.43,2,2024
+6298,"Zeal Education Societys Zeal College of Engineering & Reserch, Narhe, Pune (Un-Aided)",,629861210,,Stage-I,GOPEN GSC GST GOBC GSEBC LOPEN LSC LST PWD-O DEF-O,31754,,2,2024
+6298,"Zeal Education Societys Zeal College of Engineering & Reserch, Narhe, Pune (Un-Aided)",,629884410,,Stage-I,GST LOPEN,6472,85.83,2,2024
+6303,"Dr. Ashok Gujar Technical Institutes Dr. Daulatrao Aher College of Engineering, Karad (Un-Aided)",,630337210,,Stage-I,GOPEN GST GOBC GSEBC LOPEN LNTA,21615,76.65,2,2024
+6303,"Dr. Ashok Gujar Technical Institutes Dr. Daulatrao Aher College of Engineering, Karad (Un-Aided)",,630361210,,Stage-I,GOPEN LOPEN,48738,,2,2024
+6304,"Loknete Hanumantrao Charitable Trusts Adarsh Institute of Technology and Research Centre, Vita,Sangli (Un-Aided)",,630419110,,Stage-I,GOPEN GSC GSEBC,46313,62.0,2,2024
+6304,"Loknete Hanumantrao Charitable Trusts Adarsh Institute of Technology and Research Centre, Vita,Sangli (Un-Aided)",,630424210,,Stage-I,GOPEN GSC GOBC LST,21305,76.8,2,2024
+6304,"Loknete Hanumantrao Charitable Trusts Adarsh Institute of Technology and Research Centre, Vita,Sangli (Un-Aided)",,630461210,,Stage-I,GOPEN LOPEN,48917,,2,2024
+6305,"S.D.N.C.R.E.SS.Late Narayandas Bhawandas Chhabada Institute of Engineering & Technology, Satara (Un-Aided)",,630524210,,Stage-I,GOPEN GNTB GOBC GSEBC LOPEN LOBC PWD-O,47994,58.69,2,2024
+6305,"S.D.N.C.R.E.SS.Late Narayandas Bhawandas Chhabada Institute of Engineering & Technology, Satara (Un-Aided)",,630561210,,Stage-I,GSEBC LOPEN EWS,909,,2,2024
+6307,"Dhole Patil Education Society, Dhole Patil College of Engineering, Wagholi, Tal. Haveli (Un-Aided)",,630737210,,Stage-I,GOPEN GOBC LST LNTA EWS,26494,,2,2024
+6307,"Dhole Patil Education Society, Dhole Patil College of Engineering, Wagholi, Tal. Haveli (Un-Aided)",,630737210,,Stage-II,GOPEN GOBC LST LNTA EWS,17174,79.06,2,2024
+6307,"Dhole Patil Education Society, Dhole Patil College of Engineering, Wagholi, Tal. Haveli (Un-Aided)",,630760210,,Stage-I,GOPEN GSC GNTC GOBC LOPEN LSC PWD-O DEF-O,46353,61.95,2,2024
+6308,"Shanti Education Society, A.G. Patil Institute of Technology, Soregaon, Solapur(North) (Un-Aided)",,630837210,,Stage-I,GOPEN GST LSC LNTD LOBC,36388,,2,2024
+6310,"Nutan Maharashtra Vidya Prasarak Mandal, Nutan Maharashtra Institute of Engineering &Technology, Talegaon station, Pune (Un-Aided)",,631061210,,Stage-I,GOPEN GST GNTA GNTD GSEBC LNTB LOBC LSEBC EWS,21374,,2,2024
+6311,"Jayawant Shikshan Prasarak Mandal, Bhivarabai Sawant Institute of Technology & Research, Wagholi (Un-Aided)",,631137210,,Stage-I,GOPEN GSEBC LOPEN LST EWS,13214,81.29,2,2024
+6311,"Jayawant Shikshan Prasarak Mandal, Bhivarabai Sawant Institute of Technology & Research, Wagholi (Un-Aided)",,631161210,,Stage-I,GOPEN GOBC LOPEN PWD-O DEF-O,42312,,2,2024
+6313,"Jaywant College of Engineering & Polytechnic , Kille Macchindragad Tal. Walva District- Sangali (Un-Aided)",,631337210,,Stage-I,GOPEN LOPEN LNTB LOBC,42262,,2,2024
+6315,"Holy-Wood Academys Sanjeevan Engineering and Technology Institute, Panhala (Un-Aided)",,631529310,,Stage-I,GOPEN GSC GST GNTA GNTB GNTC GOBC GSEBC LOPEN LSC LST LNTD LOBC PWD-O DEF-O ORP,40675,,2,2024
+6315,"Holy-Wood Academys Sanjeevan Engineering and Technology Institute, Panhala (Un-Aided)",,631561210,,Stage-I,GOPEN GSC GST GNTA LOPEN LSC LST PWD-O DEF-O,27932,,2,2024
+6317,"Sharad Institute of Technology College of Engineering, Yadrav(Ichalkaranji) (Un-Aided Autonomous)",,631719110,,Stage-I,GOPEN GSC LOPEN PWD-O DEF-O EWS,48338,57.49,2,2024
+6317,"Sharad Institute of Technology College of Engineering, Yadrav(Ichalkaranji) (Un-Aided Autonomous)",,631761210,,Stage-I,GOPEN GSC GST GNTA GNTC GNTD GOBC GSEBC LOPEN LSC LST LOBC LSEBC PWD-O DEF-O ORP EWS,36474,,2,2024
+6317,"Sharad Institute of Technology College of Engineering, Yadrav(Ichalkaranji) (Un-Aided Autonomous)",,631784410,,Stage-I,GOPEN GSC GST GNTC GOBC GSEBC LOPEN PWD-O DEF-O EWS,17982,78.57,2,2024
+6317,"Sharad Institute of Technology College of Engineering, Yadrav(Ichalkaranji) (Un-Aided Autonomous)",,631799510,,Stage-I,GOPEN GSC GST GNTA GOBC GSEBC LOPEN LNTC,10796,82.8,2,2024
+6318,"Abhinav Education Societys College of Engineering and Technology (Degree), Wadwadi (Un-Aided)",,631824210,,Stage-I,GST GNTC GOBC LOPEN LSC LNTA LOBC,23351,,2,2024
+6318,"Abhinav Education Societys College of Engineering and Technology (Degree), Wadwadi (Un-Aided)",,631829310,,Stage-I,GOPEN GSC GSEBC LOBC EWS,19754,,2,2024
+6318,"Abhinav Education Societys College of Engineering and Technology (Degree), Wadwadi (Un-Aided)",,631829310,,Stage-II,GOPEN GSC GSEBC LOBC EWS,16126,79.61,2,2024
+6319,"Shahajirao Patil Vikas Pratishthan, S.B.Patil College of Engineering, Vangali, Tal. Indapur (Un-Aided)",,631924510,,Stage-I,GOPEN GST GNTD GOBC GSEBC LOPEN LNTB,12895,81.49,2,2024
+6319,"Shahajirao Patil Vikas Pratishthan, S.B.Patil College of Engineering, Vangali, Tal. Indapur (Un-Aided)",,631926310,,Stage-I,GST LOBC,14041,80.8,2,2024
+6319,"Shahajirao Patil Vikas Pratishthan, S.B.Patil College of Engineering, Vangali, Tal. Indapur (Un-Aided)",,631929310,,Stage-I,GOPEN GSC GST GNTA GOBC GSEBC LOPEN LSC LOBC,37117,,2,2024
+6320,"K.J.s Educational Institutes K.J.College of Engineering & Management Research, Pisoli (Un-Aided)",,632029310,,Stage-I,GOPEN GSC GST GNTB GNTD GOBC GSEBC LOPEN LSC LST LOBC LSEBC PWD-O DEF-O EWS,26661,,2,2024
+6320,"K.J.s Educational Institutes K.J.College of Engineering & Management Research, Pisoli (Un-Aided)",,632037210,,Stage-I,GOPEN GNTB LOPEN LST LOBC,21551,76.69,2,2024
+6321,"Vidya Vikas Pratishthan Institute of Engineering and Technology, Solapur (Un-Aided)",,632137210,,Stage-I,GOPEN GSC GST GNTA GNTB GNTC GOBC LOPEN LSC LST LOBC PWD-O EWS,34682,70.29,2,2024
+6321,"Vidya Vikas Pratishthan Institute of Engineering and Technology, Solapur (Un-Aided)",,632161210,,Stage-I,GOPEN LOPEN,44570,,2,2024
+6322,"Shree Gajanan Maharaj Shikshan Prasarak Mandal Sharadchandra Pawar College of Engineering, Dumbarwadi (Un-Aided)",,632224510,,Stage-I,GOPEN GSC GOBC GSEBC LOPEN LST LSEBC,18319,78.4,2,2024
+6322,"Shree Gajanan Maharaj Shikshan Prasarak Mandal Sharadchandra Pawar College of Engineering, Dumbarwadi (Un-Aided)",,632261210,,Stage-I,GOPEN GST GOBC GSEBC LOPEN LNTA LNTB LNTC LNTD PWD-O DEF-O EWS,38690,,2,2024
+6324,"Rajgad Dnyanpeeths Technical Campus,Dhangwadi, Bhor (Un-Aided)",,632437210,,Stage-I,GOPEN GSC GST GOBC LNTB LOBC,23250,75.88,2,2024
+6325,"Alard Charitable Trusts Alard College of Engineering and Management, Pune (Un-Aided Linguistic Minority - Hindi)",,632525710,,Stage-I,GOPEN LOPEN MI-MH,17515,78.86,2,2024
+6325,"Alard Charitable Trusts Alard College of Engineering and Management, Pune (Un-Aided Linguistic Minority - Hindi)",,632529310,,Stage-I,GOPEN LOPEN MI-MH,26551,74.22,2,2024
+6325,"Alard Charitable Trusts Alard College of Engineering and Management, Pune (Un-Aided Linguistic Minority - Hindi)",,632537210,,Stage-I,GOPEN LOPEN MI-MH,27256,73.88,2,2024
+6325,"Alard Charitable Trusts Alard College of Engineering and Management, Pune (Un-Aided Linguistic Minority - Hindi)",,632561210,,Stage-I,GOPEN LOPEN MI-MH,48863,53.88,2,2024
+6325,"Alard Charitable Trusts Alard College of Engineering and Management, Pune (Un-Aided Linguistic Minority - Hindi)",,632592110,,Stage-I,GOPEN MI-MH,15696,79.88,2,2024
+6325,"Alard Charitable Trusts Alard College of Engineering and Management, Pune (Un-Aided Linguistic Minority - Hindi)",,632593310,,Stage-I,GOPEN LOPEN MI-MH,46887,61.2,2,2024
+6326,"Shri Pandurang Pratishtan, Karmayogi Engineering College, Shelve, Pandharpur (Un-Aided)",,632624210,,Stage-I,LST LSEBC,10073,83.26,2,2024
+6419,"Nutan College of Engineering and Research, Talegaon Dabhade Tal. Maval, Pune (Un-Aided)",,641937210,,Stage-I,GOPEN GST LOPEN LNTD LOBC LSEBC PWD-O DEF-O,41184,,2,2024
+6419,"Nutan College of Engineering and Research, Talegaon Dabhade Tal. Maval, Pune (Un-Aided)",,641937210,,Stage-II,GOPEN GST LOPEN LNTD LOBC LSEBC PWD-O DEF-O,18694,78.18,2,2024
+6419,"Nutan College of Engineering and Research, Talegaon Dabhade Tal. Maval, Pune (Un-Aided)",,641961210,,Stage-I,GOPEN GST GOBC LOPEN LSC LST PWD-O DEF-O,35510,,2,2024
+6444,"Shriram Institute Of Engineering & Technology, (Poly), Paniv (Un-Aided)",,644424510,,Stage-I,GOPEN GSC GNTC GOBC LSC PWD-O DEF-O,48235,57.94,2,2024
+6466,"Shree Santkrupa Shikshan Sanstha, Shree Santkrupa Institute Of Engineering & Technology, Karad (Un-Aided)",,646624210,,Stage-I,GOPEN GSC GST GOBC LNTA LNTC LOBC LSEBC,41913,,2,2024
+6545,"Samarth Education Trusts Arvind Gavali College Of Engineering Panwalewadi, Varye,Satara. (Un-Aided)",,654526310,,Stage-I,GOPEN GSC LOPEN LST LNTC LSEBC,40275,,2,2024
+6609,"Jaihind College Of Engineering,Kuran (Un-Aided)",,660926310,,Stage-I,GOBC LOPEN LST,9514,83.6,2,2024
+6609,"Jaihind College Of Engineering,Kuran (Un-Aided)",,660937210,,Stage-I,GOPEN GOBC GSEBC LST,20371,77.29,2,2024
+6622,ISBM College Of Engineering Pune (Un-Aided Linguistic Minority - Hindi),,662237210,,Stage-I,GOPEN LOPEN MI-MH,24602,75.18,2,2024
+6622,ISBM College Of Engineering Pune (Un-Aided Linguistic Minority - Hindi),,662261210,,Stage-I,GOPEN LOPEN MI-MH,48167,58.15,2,2024
+6622,ISBM College Of Engineering Pune (Un-Aided Linguistic Minority - Hindi),,662292110,,Stage-I,GOPEN LOPEN MI-MH,15562,79.94,2,2024
+6622,ISBM College Of Engineering Pune (Un-Aided Linguistic Minority - Hindi),,662299510,,Stage-I,GOPEN LOPEN MI-MH,14280,80.67,2,2024
+6625,"Universal College of Engineering & Research, Sasewadi (Un-Aided)",,662524510,,Stage-I,GOPEN GOBC GSEBC LOPEN LST LSEBC,11872,82.11,2,2024
+6628,"Dattakala Group Of Institutions, Swami - Chincholi Tal. Daund Dist. Pune (Un-Aided)",,662824610,,Stage-I,GOPEN GSC GST GNTD GOBC GSEBC LOPEN LSC LNTA LOBC LSEBC PWD-O DEF-O,26322,74.34,2,2024
+6628,"Dattakala Group Of Institutions, Swami - Chincholi Tal. Daund Dist. Pune (Un-Aided)",,662884410,,Stage-I,GOPEN GSC GST GOBC GSEBC LOPEN LSC LST LOBC LSEBC PWD-O DEF-O,46603,,2,2024
+6632,Navsahyadri Education Societys Group of Institutions (Un-Aided),,663219110,,Stage-I,GOPEN GSC LOPEN PWD-O DEF-O,46588,61.63,2,2024
+6632,Navsahyadri Education Societys Group of Institutions (Un-Aided),,663224510,,Stage-I,GOPEN GSC GST GNTC GOBC GSEBC LOPEN LOBC LSEBC,14872,80.34,2,2024
+6632,Navsahyadri Education Societys Group of Institutions (Un-Aided),,663237210,,Stage-I,GOPEN GSC GNTB LOPEN LST,24137,75.41,2,2024
+6632,Navsahyadri Education Societys Group of Institutions (Un-Aided),,663261210,,Stage-I,GOPEN GSC GST GNTC GOBC LOPEN LNTA,36051,,2,2024
+6632,Navsahyadri Education Societys Group of Institutions (Un-Aided),,663292110,,Stage-I,GOPEN GSC LOPEN LST EWS,16186,79.59,2,2024
+6635,"Samarth Group of Institutions, Bangarwadi, Post Belhe Tal. Junnar Dist. Pune (Un-Aided)",,663524510,,Stage-I,GOPEN GST GNTB GNTC GOBC GSEBC LOPEN LNTA LNTD LOBC EWS,17333,78.97,2,2024
+6635,"Samarth Group of Institutions, Bangarwadi, Post Belhe Tal. Junnar Dist. Pune (Un-Aided)",,663561210,,Stage-I,GOPEN GOBC LOPEN PWD-O DEF-O,45718,,2,2024
+6635,"Samarth Group of Institutions, Bangarwadi, Post Belhe Tal. Junnar Dist. Pune (Un-Aided)",,663591210,,Stage-I,GOPEN GNTC GOBC LOPEN LST,19991,77.49,2,2024
+6635,"Samarth Group of Institutions, Bangarwadi, Post Belhe Tal. Junnar Dist. Pune (Un-Aided)",,663592110,,Stage-I,GOPEN GST GOBC GSEBC LNTA LNTC EWS,21432,76.74,2,2024
+6643,"S K N Sinhgad College of Engineering, Korti Tal. Pandharpur Dist Solapur (Un-Aided)",,664324210,,Stage-I,LST EWS,952,92.4,2,2024
+6643,"S K N Sinhgad College of Engineering, Korti Tal. Pandharpur Dist Solapur (Un-Aided)",,664337210,,Stage-I,GOBC LST LSEBC EWS,11297,82.46,2,2024
+6644,"Shri. Ambabai Talim Sansthas Sanjay Bhokare Group of Institutes, Miraj (Un-Aided)",,664419110,,Stage-I,GOPEN GST GNTB GNTD GOBC GSEBC LOPEN LOBC LSEBC,33255,,2,2024
+6644,"Shri. Ambabai Talim Sansthas Sanjay Bhokare Group of Institutes, Miraj (Un-Aided)",,664461210,,Stage-I,GOPEN GST GNTD GOBC GSEBC LSC LNTA LNTB LOBC PWD-O,48710,,2,2024
+6644,"Shri. Ambabai Talim Sansthas Sanjay Bhokare Group of Institutes, Miraj (Un-Aided)",,664461210,,Stage-II,GOPEN GST GNTD GOBC GSEBC LSC LNTA LNTB LOBC PWD-O,35458,69.9,2,2024
+6644,"Shri. Ambabai Talim Sansthas Sanjay Bhokare Group of Institutes, Miraj (Un-Aided)",,664491110,,Stage-I,GOPEN GSC GST GNTA GNTB GNTC GNTD GOBC LOPEN LSC DEF-O,28891,73.13,2,2024
+6649,"TSSMs Bhivarabai Sawant College of Engineering and Research, Narhe, Pune (Un-Aided)",,664919110,,Stage-I,GOPEN GSC GOBC LOPEN LSC DEF-O,39060,68.0,2,2024
+6649,"TSSMs Bhivarabai Sawant College of Engineering and Research, Narhe, Pune (Un-Aided)",,664937210,,Stage-I,GOPEN GSC GOBC GSEBC LOPEN LST LNTC,16588,79.37,2,2024
+6649,"TSSMs Bhivarabai Sawant College of Engineering and Research, Narhe, Pune (Un-Aided)",,664961210,,Stage-I,GOPEN GSC GST GOBC LOPEN LSC PWD-O DEF-O EWS,42583,,2,2024
+6732,"Ajeenkya DY Patil School of Engineering, Lohegaon, Pune (Un-Aided)",,673219110,,Stage-I,GOPEN GSC GNTA GNTD GOBC GSEBC LOPEN LSC PWD-O DEF-O EWS,33887,,2,2024
+6755,"JSPM Narhe Technical Campus, Pune. (Un-Aided)",,675537210,,Stage-I,GOPEN GSEBC LOPEN LSC LST LNTA,13601,81.06,2,2024
+6756,"Fabtech Technical Campus College of Engineering and Research, Sangola (Un-Aided)",,675626310,,Stage-I,GSC GST,23792,75.59,2,2024
+6756,"Fabtech Technical Campus College of Engineering and Research, Sangola (Un-Aided)",,675629310,,Stage-I,GOPEN GSC GOBC LOPEN LST LNTA LSEBC,37634,,2,2024
+6757,"Yashoda Technical Campus, Wadhe, Satara. (Un-Aided)",,675724210,,Stage-I,GOPEN GOBC GSEBC LSC LST,12874,81.49,2,2024
+6757,"Yashoda Technical Campus, Wadhe, Satara. (Un-Aided)",,675737210,,Stage-I,GOPEN GSC GST GNTA GNTB GNTD GOBC GSEBC LOPEN LSC LST LNTC LOBC LSEBC PWD-O,30090,72.56,2,2024
+6757,"Yashoda Technical Campus, Wadhe, Satara. (Un-Aided)",,675799510,,Stage-I,GOPEN GST GOBC LOPEN,19773,77.6,2,2024
+6758,"Sahyadri Valley College of Engineering & Technology, Rajuri, Pune. (Un-Aided)",,675861210,,Stage-I,GOPEN GSC GST GNTA GNTC GOBC GSEBC LSC LOBC PWD-O DEF-O,45998,,2,2024
+6758,"Sahyadri Valley College of Engineering & Technology, Rajuri, Pune. (Un-Aided)",,675892110,,Stage-I,GOPEN GSC GST GOBC GSEBC LOPEN LNTA LNTC LOBC,46690,,2,2024
+6758,"Sahyadri Valley College of Engineering & Technology, Rajuri, Pune. (Un-Aided)",,675892110,,Stage-II,GOPEN GSC GST GOBC GSEBC LOPEN LNTA LNTC LOBC,18309,78.4,2,2024
+6758,"Sahyadri Valley College of Engineering & Technology, Rajuri, Pune. (Un-Aided)",,675899510,,Stage-I,GOPEN GSC GOBC LOPEN LST LOBC LSEBC,17696,78.75,2,2024
+6759,"Shree Ramchandra College of Engineering, Lonikand,Pune (Un-Aided)",,675929310,,Stage-II,GOPEN GSC GST LOPEN LNTA LOBC,17751,78.72,2,2024
+6759,"Shree Ramchandra College of Engineering, Lonikand,Pune (Un-Aided)",,675999510,,Stage-I,GOPEN GSC GST GOBC GSEBC LOPEN LOBC LSEBC EWS,14588,80.5,2,2024
+6762,"Nanasaheb Mahadik College of Engineering,Walwa, Sangli. (Un-Aided)",,676224210,,Stage-I,GOPEN GSC GOBC GSEBC LOPEN LST LNTA LNTC,16874,79.22,2,2024
+6762,"Nanasaheb Mahadik College of Engineering,Walwa, Sangli. (Un-Aided)",,676229310,,Stage-I,GOPEN GSC GST GNTC GNTD GOBC GSEBC LOPEN LST LOBC LSEBC DEF-O,24378,75.28,2,2024
+6762,"Nanasaheb Mahadik College of Engineering,Walwa, Sangli. (Un-Aided)",,676261210,,Stage-I,GOPEN LOPEN PWD-O,45477,,2,2024
+6762,"Nanasaheb Mahadik College of Engineering,Walwa, Sangli. (Un-Aided)",,676261210,,Stage-II,GOPEN LOPEN PWD-O,48538,56.48,2,2024
+6766,Phaltan Education Societys College of Engineering Thakurki Tal- Phaltan Dist-Satara (Un-Aided),,676637210,,Stage-I,GOPEN GSC GST GNTA GNTD GOBC GSEBC LST LNTB LNTC LOBC PWD-O DEF-O,43137,,2,2024
+6767,"Suman Ramesh Tulsiani Technical Campus: Faculty of Engineering, Kamshet,Pune. (Un-Aided)",,676761210,,Stage-I,GOPEN GST GNTD GOBC GSEBC LSC LST LNTA LNTB LOBC PWD-O DEF-O,41883,,2,2024
+6767,"Suman Ramesh Tulsiani Technical Campus: Faculty of Engineering, Kamshet,Pune. (Un-Aided)",,676791210,,Stage-I,GOPEN GST GNTA GNTB GNTC LSC LNTD PWD-O DEF-O,21322,,2,2024
+6767,"Suman Ramesh Tulsiani Technical Campus: Faculty of Engineering, Kamshet,Pune. (Un-Aided)",,676791210,,Stage-II,GOPEN GST GNTA GNTB GNTC LSC LNTD PWD-O DEF-O,21260,76.83,2,2024
+6768,"P.K. Technical Campus, Pune. (Un-Aided)",,676824510,,Stage-I,GOPEN GSC GOBC LOPEN LST LNTA LOBC LSEBC,11056,82.63,2,2024
+6769,"Rasiklal M. Dhariwal Sinhgad Technical Institutes Campus, Warje, Pune. (Un-Aided)",,676924610,,Stage-I,LST EWS,3672,88.38,2,2024
+6780,"D.Y.Patil Education Societys,D.Y.Patil Technical Campus, Faculty of Engineering & Faculty of Management,Talsande,Kolhapur. (Un-Aided)",,678024210,,Stage-I,GOPEN GSC GST GNTA GOBC GSEBC LOPEN LSC LST LOBC LSEBC PWD-O DEF-O ORP EWS,10560,82.94,2,2024
+6780,"D.Y.Patil Education Societys,D.Y.Patil Technical Campus, Faculty of Engineering & Faculty of Management,Talsande,Kolhapur. (Un-Aided)",,678029310,,Stage-I,GOPEN GSC GST GNTA GNTD GOBC GSEBC LOPEN LSC LST LNTC LOBC LSEBC DEF-O EWS,16434,,2,2024
+6780,"D.Y.Patil Education Societys,D.Y.Patil Technical Campus, Faculty of Engineering & Faculty of Management,Talsande,Kolhapur. (Un-Aided)",,678029310,,Stage-II,GOPEN GSC GST GNTA GNTD GOBC GSEBC LOPEN LSC LST LNTC LOBC LSEBC DEF-O EWS,16213,79.56,2,2024
+6780,"D.Y.Patil Education Societys,D.Y.Patil Technical Campus, Faculty of Engineering & Faculty of Management,Talsande,Kolhapur. (Un-Aided)",,678091210,,Stage-I,GOPEN GSC GST GOBC LOPEN LNTC EWS,12517,81.71,2,2024
+6781,"Bhagwant Institute of Technology, Barshi (Un-Aided)",,678124210,,Stage-I,GSC GST GOBC GSEBC LOPEN LSC LNTB LNTD LOBC PWD-O DEF-O,47937,,2,2024
+6794,"Anantrao Pawar College of Engineering & Research, Pune (Un-Aided)",,679437210,,Stage-I,GOPEN GSC GOBC GSEBC LOPEN LST,18033,78.53,2,2024
+6795,"Shri.Someshwar Shikshan Prasarak Mandal, Sharadchandra Pawar College of Engineering & Technology, Someshwar Nagar (Un-Aided)",,679529310,,Stage-I,GST LOPEN LSC LST,44631,,2,2024
+6796,"Bharati Vidyapeeths College of Engineering,Lavale, Pune (Un-Aided)",,679619110,,Stage-I,GOPEN GSC GNTB GNTC GOBC GSEBC LOPEN LOBC LSEBC PWD-O DEF-O,47948,58.8,2,2024
+6796,"Bharati Vidyapeeths College of Engineering,Lavale, Pune (Un-Aided)",,679637210,,Stage-I,GOPEN GSC GST GOBC LOPEN LSC LOBC LSEBC PWD-O DEF-O EWS,15739,79.83,2,2024
+6796,"Bharati Vidyapeeths College of Engineering,Lavale, Pune (Un-Aided)",,679661210,,Stage-I,GOPEN GOBC GSEBC LOPEN EWS,48245,,2,2024
+6797,"Dnyanshree Institute Engineering and Technology, Satara (Un-Aided)",,679724210,,Stage-I,GOPEN GSC GST GNTC GOBC GSEBC LOPEN LSC LOBC,42717,,2,2024
+6797,"Dnyanshree Institute Engineering and Technology, Satara (Un-Aided)",,679724210,,Stage-II,GOPEN GSC GST GNTC GOBC GSEBC LOPEN LSC LOBC,19683,77.66,2,2024
+6799,"Shivganga Charitable Trust, Sangli Vishveshwarya Technical Campus, Faculty of Diploma Engineering, Patgaon, Miraj (Un-Aided)",,679929310,,Stage-I,GOPEN GSC LOPEN PWD-O DEF-O,46862,61.22,2,2024
+6802,"Dr. D.Y.Patil Institute of Engineering, Management & Reseach, Akurdi, Pune (Un-Aided)",,680250710,,Stage-I,GOPEN GSC LOPEN,29298,,2,2024
+6802,"Dr. D.Y.Patil Institute of Engineering, Management & Reseach, Akurdi, Pune (Un-Aided)",,680250710,,Stage-II,GOPEN GSC LOPEN,43382,65.17,2,2024
+6802,"Dr. D.Y.Patil Institute of Engineering, Management & Reseach, Akurdi, Pune (Un-Aided)",,680261210,,Stage-II,GOPEN GSC GST GNTB GOBC GSEBC LOPEN LSC LOBC LSEBC EWS,15993,79.69,2,2024
+6808,"Keystone School of Engineering, Pune (Un-Aided)",,680826310,,Stage-I,GOPEN GST GOBC GSEBC LOPEN LNTA LSEBC PWD-O DEF-O,11732,82.19,2,2024
+6808,"Keystone School of Engineering, Pune (Un-Aided)",,680861210,,Stage-I,GOPEN GSC LOPEN PWD-O DEF-O,48360,,2,2024
+6808,"Keystone School of Engineering, Pune (Un-Aided)",,680861210,,Stage-II,GOPEN GSC LOPEN PWD-O DEF-O,49041,49.79,2,2024
+6811,Sanjay Ghodawat Institute (Un-Aided),,681129310,,Stage-I,GOPEN GST GNTA GNTC GNTD GOBC LOPEN LST LOBC DEF-O ORP EWS,11530,82.33,2,2024
+6811,Sanjay Ghodawat Institute (Un-Aided),,681161210,,Stage-I,GOPEN GSC GSEBC LOPEN LSC PWD-O DEF-O,38018,,2,2024
+6815,"Vidya Prasarini Sabhas College of Engineering & Technology, Lonavala (Un-Aided)",,681519110,,Stage-I,GSC GNTD GOBC LOPEN LOBC LSEBC PWD-O DEF-O,22599,,2,2024
+6815,"Vidya Prasarini Sabhas College of Engineering & Technology, Lonavala (Un-Aided)",,681524510,,Stage-I,GOPEN GSC GNTC GOBC GSEBC LSC LST LNTA,15328,80.06,2,2024
+6815,"Vidya Prasarini Sabhas College of Engineering & Technology, Lonavala (Un-Aided)",,681561210,,Stage-I,GST GOBC GSEBC LOPEN LSC LST LSEBC PWD-O DEF-O ORP EWS,41964,,2,2024
+6839,"Dr. D Y Patil Pratishthans College of Engineering, Kolhapur (Un-Aided)",,683991210,,Stage-I,GOPEN GST GNTD GOBC GSEBC LNTA,31249,,2,2024
+6839,"Dr. D Y Patil Pratishthans College of Engineering, Kolhapur (Un-Aided)",,683991210,,Stage-II,GOPEN GST GNTD GOBC GSEBC LNTA,11563,82.29,2,2024
+6878,"Dr. A. D. Shinde College Of Engineering, Tal.Gadhinglaj, Kolhapur (Un-Aided)",,687819110,,Stage-I,GSC GNTC LOPEN LSC PWD-O DEF-O,41153,,2,2024
+6878,"Dr. A. D. Shinde College Of Engineering, Tal.Gadhinglaj, Kolhapur (Un-Aided)",,687824210,,Stage-I,GOPEN GSC GST GNTD GOBC GSEBC LOPEN LST LNTA LNTC LOBC LSEBC PWD-O DEF-O,23567,,2,2024
+6878,"Dr. A. D. Shinde College Of Engineering, Tal.Gadhinglaj, Kolhapur (Un-Aided)",,687861210,,Stage-I,GOPEN GSC GST GNTA LOPEN LSC LST PWD-O DEF-O,38607,,2,2024
+6938,Shree Siddheshwar Womens College Of Engineering Solapur. (Un-Aided),,693892550,,Stage-I,LSC LST LNTD LOBC LSEBC PWD-O DEF-O,9679,83.5,2,2024
+6991,"Dr. D.Y. Patil Technical Campus, Varale, Talegaon, Pune (Un-Aided)",,699124510,,Stage-I,GOPEN GSC GST GNTA GNTB GNTC GNTD GOBC GSEBC LOPEN LSC LST LOBC LSEBC PWD-O EWS,10459,83.03,2,2024
+6991,"Dr. D.Y. Patil Technical Campus, Varale, Talegaon, Pune (Un-Aided)",,699126310,,Stage-I,GOPEN GST GOBC GSEBC LOPEN LNTD LOBC EWS,11821,82.13,2,2024
+6991,"Dr. D.Y. Patil Technical Campus, Varale, Talegaon, Pune (Un-Aided)",,699156610,,Stage-I,GOPEN GSC GST GOBC GSEBC LOPEN LST LOBC PWD-O ORP EWS,12055,82.0,2,2024

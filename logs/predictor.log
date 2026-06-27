@@ -1,0 +1,69 @@
+2026-06-27 00:46:03 | INFO     | predictor | Running smoke test …
+2026-06-27 00:46:03 | INFO     | predictor | Loading dataset from /home/abhi/projects/Maha-DSE/data/processed/final_dataset.csv …
+2026-06-27 00:46:03 | INFO     | predictor | Dataset loaded: 0 rows × 7 cols in 2.6 ms.
+2026-06-27 00:46:03 | DEBUG    | predictor | Dataset cache hit (0 rows).
+2026-06-27 00:46:03 | DEBUG    | predictor | Dataset cache hit (0 rows).
+2026-06-27 00:46:03 | INFO     | predictor | Prediction request: percentile=82.50 caste=OBC gender=Male domicile=Maharashtra round=1 year=2024 branches=[]
+2026-06-27 00:46:03 | DEBUG    | predictor | Dataset cache hit (0 rows).
+2026-06-27 00:46:03 | DEBUG    | predictor | Category priority list: ['LOBCH', 'LOBC', 'GOBCH', 'GOBC', 'TFWS']
+2026-06-27 00:46:03 | DEBUG    | predictor | Resolved 0 category→column mapping(s): []
+2026-06-27 00:46:03 | WARNING  | predictor | No cutoff data columns found for round 1 and your category profile.  Available rounds in dataset: [].
+2026-06-27 01:20:18 | INFO     | predictor | Loading dataset from /home/abhi/projects/Maha-DSE/data/processed/final_dataset.csv …
+2026-06-27 01:20:18 | INFO     | predictor | Dataset loaded: 0 rows × 7 cols in 5.8 ms.
+2026-06-27 01:20:18 | DEBUG    | predictor | Dataset cache hit (0 rows).
+2026-06-27 01:25:48 | DEBUG    | predictor | Dataset cache hit (0 rows).
+2026-06-27 01:25:48 | DEBUG    | predictor | Dataset cache hit (0 rows).
+2026-06-27 01:26:52 | DEBUG    | predictor | Dataset cache hit (0 rows).
+2026-06-27 01:26:52 | DEBUG    | predictor | Dataset cache hit (0 rows).
+2026-06-27 01:27:24 | INFO     | predictor | Loading dataset from /home/abhi/projects/Maha-DSE/data/processed/final_dataset.csv …
+2026-06-27 01:27:24 | INFO     | predictor | Dataset loaded: 0 rows × 7 cols in 7.9 ms.
+2026-06-27 01:27:24 | DEBUG    | predictor | Dataset cache hit (0 rows).
+2026-06-27 01:27:26 | DEBUG    | predictor | Dataset cache hit (0 rows).
+2026-06-27 01:27:26 | DEBUG    | predictor | Dataset cache hit (0 rows).
+2026-06-27 01:27:26 | DEBUG    | predictor | Dataset cache hit (0 rows).
+2026-06-27 01:27:26 | DEBUG    | predictor | Dataset cache hit (0 rows).
+2026-06-27 01:52:34 | INFO     | predictor | Loading dataset from /home/abhi/projects/Maha-DSE/data/processed/final_dataset.csv …
+2026-06-27 01:52:34 | INFO     | predictor | Dataset loaded: 0 rows × 7 cols in 7.3 ms.
+2026-06-27 01:52:34 | DEBUG    | predictor | Dataset cache hit (0 rows).
+2026-06-27 01:52:36 | DEBUG    | predictor | Dataset cache hit (0 rows).
+2026-06-27 01:52:36 | DEBUG    | predictor | Dataset cache hit (0 rows).
+2026-06-27 01:52:36 | DEBUG    | predictor | Dataset cache hit (0 rows).
+2026-06-27 01:52:36 | DEBUG    | predictor | Dataset cache hit (0 rows).
+2026-06-27 01:52:36 | DEBUG    | predictor | Dataset cache hit (0 rows).
+2026-06-27 01:52:36 | DEBUG    | predictor | Dataset cache hit (0 rows).
+2026-06-27 01:52:36 | DEBUG    | predictor | Dataset cache hit (0 rows).
+2026-06-27 01:52:36 | DEBUG    | predictor | Dataset cache hit (0 rows).
+2026-06-27 01:52:36 | DEBUG    | predictor | Dataset cache hit (0 rows).
+2026-06-27 01:52:36 | DEBUG    | predictor | Dataset cache hit (0 rows).
+2026-06-27 01:53:14 | DEBUG    | predictor | Dataset cache hit (0 rows).
+2026-06-27 01:53:14 | DEBUG    | predictor | Dataset cache hit (0 rows).
+2026-06-27 01:56:29 | INFO     | predictor | Loading dataset from /home/abhi/projects/Maha-DSE/data/processed/final_dataset.csv …
+2026-06-27 01:56:29 | INFO     | predictor | Dataset loaded: 0 rows × 7 cols in 7.7 ms.
+2026-06-27 01:56:29 | DEBUG    | predictor | Dataset cache hit (0 rows).
+2026-06-27 02:04:08 | DEBUG    | predictor | Dataset cache hit (0 rows).
+2026-06-27 02:04:08 | DEBUG    | predictor | Dataset cache hit (0 rows).
+2026-06-27 02:21:51 | INFO     | predictor | Loading dataset from /home/abhi/projects/Maha-DSE/data/processed/final_dataset.csv …
+2026-06-27 02:21:51 | INFO     | predictor | Dataset loaded: 0 rows × 7 cols in 2.7 ms.
+2026-06-27 02:21:51 | DEBUG    | predictor | Dataset cache hit (0 rows).
+2026-06-27 02:21:52 | DEBUG    | predictor | Dataset cache hit (0 rows).
+2026-06-27 02:21:52 | DEBUG    | predictor | Dataset cache hit (0 rows).
+2026-06-27 02:21:53 | DEBUG    | predictor | Dataset cache hit (0 rows).
+2026-06-27 02:21:53 | DEBUG    | predictor | Dataset cache hit (0 rows).
+2026-06-27 02:21:53 | DEBUG    | predictor | Dataset cache hit (0 rows).
+2026-06-27 02:21:53 | DEBUG    | predictor | Dataset cache hit (0 rows).
+2026-06-27 02:22:43 | INFO     | predictor | Loading dataset from /home/abhi/projects/Maha-DSE/data/processed/final_dataset.csv …
+2026-06-27 02:22:43 | INFO     | predictor | Dataset loaded: 0 rows × 7 cols in 2.2 ms.
+2026-06-27 02:22:43 | DEBUG    | predictor | Dataset cache hit (0 rows).
+2026-06-27 02:24:09 | INFO     | predictor | Loading dataset from /home/abhi/projects/Maha-DSE/data/processed/final_dataset.csv …
+2026-06-27 02:24:09 | INFO     | predictor | Dataset loaded: 0 rows × 7 cols in 3.1 ms.
+2026-06-27 02:24:09 | DEBUG    | predictor | Dataset cache hit (0 rows).
+2026-06-27 02:32:40 | INFO     | predictor | Loading dataset from /home/abhi/projects/Maha-DSE/data/processed/final_dataset.csv …
+2026-06-27 02:32:40 | INFO     | predictor | Dataset loaded: 0 rows × 7 cols in 4.9 ms.
+2026-06-27 02:32:40 | DEBUG    | predictor | Dataset cache hit (0 rows).
+2026-06-27 02:32:42 | DEBUG    | predictor | Dataset cache hit (0 rows).
+2026-06-27 02:32:42 | DEBUG    | predictor | Dataset cache hit (0 rows).
+2026-06-27 02:33:36 | INFO     | predictor | Prediction request: percentile=94.40 caste=OPEN gender=Male domicile=Maharashtra round=1 year=2024 branches=['Computer Engineering', 'Information Technology']
+2026-06-27 02:33:36 | DEBUG    | predictor | Dataset cache hit (0 rows).
+2026-06-27 02:33:36 | DEBUG    | predictor | Category priority list: ['LOPENH', 'LOPEN', 'GOPENH', 'GOPEN', 'TFWS']
+2026-06-27 02:33:36 | DEBUG    | predictor | Resolved 0 category→column mapping(s): []
+2026-06-27 02:33:36 | WARNING  | predictor | No cutoff data columns found for round 1 and your category profile.  Available rounds in dataset: [].

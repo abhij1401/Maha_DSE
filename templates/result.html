@@ -1,0 +1,179 @@
+{% extends "base.html" %}
+{% block title %}Prediction Results · MAHA-DSE{% endblock %}
+
+{% block content %}
+<section class="results-hero">
+  <div class="container">
+    <div class="results-summary-bar">
+      <div class="results-summary-info">
+        <h1 class="results-title">Your College Predictions</h1>
+        <p class="results-meta">
+          Percentile <strong>{{ percentile }}</strong> &nbsp;·&nbsp;
+          {{ caste }} &nbsp;·&nbsp;
+          {{ gender }} &nbsp;·&nbsp;
+          {{ domicile }} &nbsp;·&nbsp;
+          CAP Round {{ cap_round }} &nbsp;·&nbsp;
+          AY {{ academic_year }}–{{ academic_year + 1 }}
+        </p>
+        {% if selected_branches %}
+        <p class="results-meta" style="margin-top:0.3rem;">
+          Branches: <strong>{{ selected_branches | join(', ') }}</strong>
+        </p>
+        {% else %}
+        <p class="results-meta" style="margin-top:0.3rem;color:var(--teal);">
+          <i class="fas fa-info-circle"></i> Showing all available branches
+        </p>
+        {% endif %}
+      </div>
+      <div class="results-count-badge">
+        <span class="count-num">{{ total }}</span>
+        <span class="count-label">Colleges Found</span>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="results-layout">
+  <div class="container">
+
+    {% if not colleges %}
+    <div class="results-empty">
+      <i class="fas fa-search-minus"></i>
+      <h3>No colleges matched your criteria</h3>
+      <p>Try selecting a different CAP Round, caste category, or broaden your branch selection.</p>
+      <a href="/#predict" class="btn btn-primary"><i class="fas fa-arrow-left"></i> Try Again</a>
+    </div>
+
+    {% else %}
+
+    <!-- Sort info banner -->
+    <div class="sort-info-banner">
+      <i class="fas fa-sort-amount-down"></i>
+      {% if percentile >= 90 %}
+      Sorted by closest match to your percentile — starting from ~50% chance colleges, then progressively safer options below.
+      {% else %}
+      Sorted by closest match to your percentile — most competitive realistic options first.
+      {% endif %}
+    </div>
+
+    <!-- Tier legend -->
+    <div class="tier-legend">
+      <span class="tl-item"><span class="tl-dot" style="background:var(--safe)"></span> Safe (≥85%)</span>
+      <span class="tl-item"><span class="tl-dot" style="background:var(--high-chance)"></span> High Chance (70–84%)</span>
+      <span class="tl-item"><span class="tl-dot" style="background:var(--target)"></span> Target (50–69%)</span>
+      <span class="tl-item"><span class="tl-dot" style="background:var(--dream)"></span> Dream (25–49%)</span>
+      <span class="tl-item"><span class="tl-dot" style="background:var(--very-dream)"></span> Very Dream (&lt;25%)</span>
+    </div>
+
+    <div class="cards-grid">
+      {% for c in colleges %}
+      <div class="college-card tier-{{ c.tier }}">
+        <div class="college-card-header">
+          <div style="flex:1;min-width:0;">
+            <div class="college-code">Code: {{ c.college_code }} · Choice: {{ c.choice_code }}</div>
+            <div class="college-name">{{ c.college_name }}</div>
+            <div class="college-meta">
+              <span class="college-type">{{ c.branch_name }}</span>
+              <span class="meta-sep">·</span>
+              <span>{{ c.stage }}</span>
+              <span class="meta-sep">·</span>
+              <span>Round {{ c.round }}</span>
+            </div>
+          </div>
+          <span class="college-tier-badge tier-{{ c.tier }}">{{ c.tier_label }}</span>
+        </div>
+
+        <div class="college-stats">
+          <div class="cstat">
+            <span class="cstat-label">Your Percentile</span>
+            <span class="cstat-val your-val">{{ percentile }}</span>
+          </div>
+          <div class="cstat">
+            <span class="cstat-label">Cutoff Percentile</span>
+            <span class="cstat-val cutoff-val">{{ c.cutoff }}</span>
+          </div>
+          <div class="cstat">
+            <span class="cstat-label">Difference</span>
+            <span class="cstat-val diff-val {{ 'positive' if c.diff >= 0 else 'negative' }}">
+              {{ '+' if c.diff >= 0 else '' }}{{ c.diff }}
+            </span>
+          </div>
+        </div>
+
+        <div class="chance-meter-wrap">
+          <div class="chance-label-row">
+            <span class="chance-label">Admission Chance</span>
+            <span class="chance-pct tier-{{ c.tier }}">{{ c.chance }}%</span>
+          </div>
+          <div class="chance-track">
+            <div class="chance-fill tier-{{ c.tier }}" style="--chance: {{ c.chance }}%"></div>
+          </div>
+        </div>
+      </div>
+      {% endfor %}
+    </div>
+
+    {% endif %}
+
+    <div class="results-actions">
+      <a href="/#predict" class="btn btn-primary"><i class="fas fa-arrow-left"></i> New Prediction</a>
+      <a href="/#history" class="btn btn-ghost"><i class="fas fa-history"></i> View History</a>
+    </div>
+  </div>
+</section>
+
+<style>
+.results-hero {
+  background: var(--navy-mid);
+  padding: 2.5rem 0 1.5rem;
+  border-bottom: 1px solid rgba(255,255,255,0.07);
+}
+.results-summary-bar {
+  display: flex; align-items: flex-start; justify-content: space-between;
+  gap: 1.5rem; flex-wrap: wrap;
+}
+.results-title { font-size: 1.8rem; margin-bottom: 0.4rem; }
+.results-meta  { color: var(--slate-light); font-size: 0.88rem; }
+.results-meta strong { color: var(--teal); }
+.results-count-badge {
+  display: flex; flex-direction: column; align-items: center;
+  background: rgba(67,97,238,0.15);
+  border: 1px solid rgba(67,97,238,0.3);
+  border-radius: var(--r-lg);
+  padding: 0.8rem 1.6rem; min-width: 110px; flex-shrink: 0;
+}
+.count-num   { font-size: 2rem; font-weight: 800; color: var(--indigo-light); font-family:'Space Grotesk',sans-serif; line-height:1; }
+.count-label { font-size: 0.72rem; color: var(--slate-light); text-transform:uppercase; letter-spacing:.08em; margin-top:.2rem; }
+
+.sort-info-banner {
+  background: rgba(6,214,160,0.07);
+  border: 1px solid rgba(6,214,160,0.2);
+  border-radius: var(--r-md);
+  padding: 0.65rem 1rem;
+  font-size: 0.82rem;
+  color: var(--teal);
+  margin-bottom: 1rem;
+  display: flex; align-items: center; gap: 0.5rem;
+}
+
+.results-layout { padding: var(--gap-2xl) 0; background: var(--navy); min-height: 60vh; }
+
+.tier-legend {
+  display: flex; gap: 1.5rem; flex-wrap: wrap;
+  margin-bottom: 1.2rem;
+  padding: 0.7rem 1rem;
+  background: rgba(255,255,255,0.03);
+  border-radius: var(--r-md);
+  font-size: 0.78rem;
+}
+.tl-item { display:flex; align-items:center; gap:0.4rem; color:var(--slate-light); font-family:'Space Grotesk',sans-serif; font-weight:600; }
+.tl-dot  { width:10px; height:10px; border-radius:50%; flex-shrink:0; }
+
+.cards-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(340px, 1fr));
+  gap: 1rem;
+  margin-bottom: 2rem;
+}
+</style>
+{% endblock %}

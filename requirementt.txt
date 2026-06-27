@@ -1,0 +1,5 @@
+Flask
+uvicorn
+asgiref
+pandas
+pdfplumber

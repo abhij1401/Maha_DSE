@@ -1,0 +1,32 @@
+2026-06-27 00:33:39 | INFO     | MAHA-DSE Data Merger started.
+2026-06-27 00:33:39 | INFO     | Processed directory : /home/abhi/projects/Maha-DSE/data/processed
+2026-06-27 00:33:39 | INFO     | Output cutoff_data  : /home/abhi/projects/Maha-DSE/data/processed/cutoff_data.csv
+2026-06-27 00:33:39 | INFO     | Output final_dataset: /home/abhi/projects/Maha-DSE/data/processed/final_dataset.csv
+2026-06-27 00:33:39 | INFO     | Found 2 clean file(s):
+2026-06-27 00:33:39 | INFO     |   clean_cap_round_1.csv
+2026-06-27 00:33:39 | INFO     |   clean_cap_round_2.csv
+2026-06-27 00:33:39 | INFO     |   Loading clean_cap_round_1.csv  (round=1)
+2026-06-27 00:33:40 | INFO     |     Loaded 376 rows.
+2026-06-27 00:33:40 | INFO     |   Loading clean_cap_round_2.csv  (round=2)
+2026-06-27 00:33:40 | INFO     |     Loaded 698 rows.
+2026-06-27 00:33:40 | INFO     | Concatenating 2 round(s)…
+2026-06-27 00:33:40 | INFO     |   Combined rows: 1074
+2026-06-27 00:33:40 | DEBUG    | No exact cross-round duplicates found.
+2026-06-27 00:33:40 | INFO     | Natural-key collision check: no collisions found. ✓
+2026-06-27 00:33:40 | INFO     | cutoff_data.csv written (1074 rows).
+2026-06-27 00:33:40 | INFO     | Building final_dataset (pivot)…
+2026-06-27 00:33:40 | INFO     |   Rounds: [1, 2]  |  Stages: ['Stage-I', 'Stage-II']
+2026-06-27 00:33:40 | INFO     |   Pivot complete: 0 rows × 7 columns.
+2026-06-27 00:33:40 | INFO     | final_dataset.csv written (0 rows, 7 columns).
+2026-06-27 00:33:40 | INFO     | =================================================================
+2026-06-27 00:33:40 | INFO     | Merge complete in 0.1 s
+2026-06-27 00:33:40 | INFO     | 
+2026-06-27 00:33:40 | INFO     |   Rounds merged          : [1, 2]
+2026-06-27 00:33:40 | INFO     |   Files loaded           : 2
+2026-06-27 00:33:40 | INFO     |   Files failed           : 0
+2026-06-27 00:33:40 | INFO     |   Total input rows       : 1074
+2026-06-27 00:33:40 | INFO     |   Exact duplicates dropped: 0
+2026-06-27 00:33:40 | INFO     | 
+2026-06-27 00:33:40 | INFO     |   cutoff_data.csv                : 1074 rows
+2026-06-27 00:33:40 | INFO     |   final_dataset.csv              : 0 rows
+2026-06-27 00:33:40 | INFO     | =================================================================

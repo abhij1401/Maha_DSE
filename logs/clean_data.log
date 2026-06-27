@@ -1,0 +1,84 @@
+2026-06-27 00:29:41 | INFO     | MAHA-DSE Data Cleaner started.
+2026-06-27 00:29:41 | INFO     | Processed directory: /home/abhi/projects/Maha-DSE/data/processed
+2026-06-27 00:29:41 | INFO     | Found 2 file(s) to clean:
+2026-06-27 00:29:41 | INFO     |   cap_round_1.csv
+2026-06-27 00:29:41 | INFO     |   cap_round_2.csv
+2026-06-27 00:29:41 | INFO     | ─── Cleaning: cap_round_1.csv
+2026-06-27 00:29:41 | INFO     |   Loaded 376 rows.
+2026-06-27 00:29:41 | DEBUG    |   Step: Schema validation
+2026-06-27 00:29:41 | DEBUG    | Schema OK – all 11 required columns present.
+2026-06-27 00:29:41 | DEBUG    |   Step: Whitespace normalisation
+2026-06-27 00:29:41 | DEBUG    | Whitespace normalised for columns: ['college_name', 'institute_type', 'branch', 'stage', 'category']
+2026-06-27 00:29:41 | DEBUG    |   Step: College name casing
+2026-06-27 00:29:41 | DEBUG    | college_name casing applied.
+2026-06-27 00:29:41 | DEBUG    |   Step: Branch casing
+2026-06-27 00:29:41 | DEBUG    | branch casing applied.
+2026-06-27 00:29:41 | DEBUG    |   Step: Institute type casing
+2026-06-27 00:29:41 | DEBUG    | institute_type casing applied.
+2026-06-27 00:29:41 | DEBUG    |   Step: Category normalisation
+2026-06-27 00:29:41 | DEBUG    | category normalised to UPPER with punctuation stripped.
+2026-06-27 00:29:41 | DEBUG    |   Step: Stage normalisation
+2026-06-27 00:29:41 | DEBUG    | stage: 1 unique → 1 unique after normalisation.
+2026-06-27 00:29:41 | DEBUG    |   Step: Numeric coercion
+2026-06-27 00:29:41 | WARNING  | 376 percentile value(s) could not be coerced to float → set to NaN.
+2026-06-27 00:29:41 | DEBUG    | rank → Int64, percentile → float64.
+2026-06-27 00:29:41 | DEBUG    |   Step: Range validation
+2026-06-27 00:29:41 | DEBUG    | Range validation done.
+2026-06-27 00:29:41 | DEBUG    |   Step: College code padding
+2026-06-27 00:29:41 | DEBUG    | college_code zero-padded to 4 digits.
+2026-06-27 00:29:41 | DEBUG    |   Step: Choice code padding
+2026-06-27 00:29:41 | DEBUG    | choice_code zero-padded to 9 digits.
+2026-06-27 00:29:41 | DEBUG    |   Step: Round / year validation
+2026-06-27 00:29:41 | DEBUG    | round / academic_year validated.
+2026-06-27 00:29:41 | DEBUG    |   Step: Duplicate removal
+2026-06-27 00:29:41 | DEBUG    | No duplicate rows found.
+2026-06-27 00:29:41 | DEBUG    |   Step: Missing-value audit
+2026-06-27 00:29:41 | INFO     | Missing-value audit:
+2026-06-27 00:29:41 | INFO     |   percentile            376 NaN  (100.00%)
+2026-06-27 00:29:41 | DEBUG    |   Step: Sort
+2026-06-27 00:29:41 | DEBUG    | DataFrame sorted by: ['college_code', 'choice_code', 'category', 'stage']
+2026-06-27 00:29:41 | INFO     |   Written 376 rows → clean_cap_round_1.csv  (dropped 0 rows total)
+2026-06-27 00:29:41 | INFO     | ─── Cleaning: cap_round_2.csv
+2026-06-27 00:29:41 | INFO     |   Loaded 698 rows.
+2026-06-27 00:29:41 | DEBUG    |   Step: Schema validation
+2026-06-27 00:29:41 | DEBUG    | Schema OK – all 11 required columns present.
+2026-06-27 00:29:41 | DEBUG    |   Step: Whitespace normalisation
+2026-06-27 00:29:41 | DEBUG    | Whitespace normalised for columns: ['college_name', 'institute_type', 'branch', 'stage', 'category']
+2026-06-27 00:29:41 | DEBUG    |   Step: College name casing
+2026-06-27 00:29:41 | DEBUG    | college_name casing applied.
+2026-06-27 00:29:41 | DEBUG    |   Step: Branch casing
+2026-06-27 00:29:41 | DEBUG    | branch casing applied.
+2026-06-27 00:29:41 | DEBUG    |   Step: Institute type casing
+2026-06-27 00:29:41 | DEBUG    | institute_type casing applied.
+2026-06-27 00:29:41 | DEBUG    |   Step: Category normalisation
+2026-06-27 00:29:41 | DEBUG    | category normalised to UPPER with punctuation stripped.
+2026-06-27 00:29:41 | DEBUG    |   Step: Stage normalisation
+2026-06-27 00:29:41 | DEBUG    | stage: 2 unique → 2 unique after normalisation.
+2026-06-27 00:29:41 | DEBUG    |   Step: Numeric coercion
+2026-06-27 00:29:41 | WARNING  | 229 percentile value(s) could not be coerced to float → set to NaN.
+2026-06-27 00:29:41 | DEBUG    | rank → Int64, percentile → float64.
+2026-06-27 00:29:41 | DEBUG    |   Step: Range validation
+2026-06-27 00:29:41 | DEBUG    | Range validation done.
+2026-06-27 00:29:41 | DEBUG    |   Step: College code padding
+2026-06-27 00:29:41 | DEBUG    | college_code zero-padded to 4 digits.
+2026-06-27 00:29:41 | DEBUG    |   Step: Choice code padding
+2026-06-27 00:29:41 | DEBUG    | choice_code zero-padded to 9 digits.
+2026-06-27 00:29:41 | DEBUG    |   Step: Round / year validation
+2026-06-27 00:29:41 | DEBUG    | round / academic_year validated.
+2026-06-27 00:29:41 | DEBUG    |   Step: Duplicate removal
+2026-06-27 00:29:41 | DEBUG    | No duplicate rows found.
+2026-06-27 00:29:41 | DEBUG    |   Step: Missing-value audit
+2026-06-27 00:29:41 | INFO     | Missing-value audit:
+2026-06-27 00:29:41 | INFO     |   percentile            229 NaN  (32.81%)
+2026-06-27 00:29:41 | DEBUG    |   Step: Sort
+2026-06-27 00:29:41 | DEBUG    | DataFrame sorted by: ['college_code', 'choice_code', 'category', 'stage']
+2026-06-27 00:29:41 | INFO     |   Written 698 rows → clean_cap_round_2.csv  (dropped 0 rows total)
+2026-06-27 00:29:41 | INFO     | =================================================================
+2026-06-27 00:29:41 | INFO     | Cleaning complete in 0.1 s
+2026-06-27 00:29:41 | INFO     |   Success : 2  |  Failed : 0
+2026-06-27 00:29:41 | INFO     | 
+2026-06-27 00:29:41 | INFO     |   File                                  Rows in  Rows out   Dropped
+2026-06-27 00:29:41 | INFO     |   ---------------------------------------------------------------
+2026-06-27 00:29:41 | INFO     |   cap_round_1.csv                           376       376         0
+2026-06-27 00:29:41 | INFO     |   cap_round_2.csv                           698       698         0
+2026-06-27 00:29:41 | INFO     | =================================================================

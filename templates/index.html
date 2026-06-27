@@ -1,0 +1,552 @@
+{% extends "base.html" %}
+{% block title %}MAHA-DSE College Predictor · Find Your Engineering College{% endblock %}
+
+{% block content %}
+
+<!-- ═══════════════════════════════════════════════════════════
+     HERO
+═══════════════════════════════════════════════════════════ -->
+<section class="hero" id="home">
+  <div class="hero-bg-grid"></div>
+  <div class="hero-orbs">
+    <div class="orb orb-1"></div>
+    <div class="orb orb-2"></div>
+    <div class="orb orb-3"></div>
+  </div>
+  <div class="hero-inner">
+    <div class="hero-content">
+      <div class="hero-badge">
+        <i class="fas fa-bolt"></i>
+        <span>Official CAP Cutoff Data · Maharashtra DSE 2025</span>
+      </div>
+      <h1 class="hero-title">
+        Predict Your<br />
+        <span class="hero-accent">Engineering College</span><br />
+        with Confidence
+      </h1>
+      <p class="hero-sub">
+        Enter your MHT-CET percentile and get a personalized list of colleges you can target — ranked by admission chance using real CAP Round cutoff data.
+      </p>
+      <div class="hero-actions">
+        <a href="#predict" class="btn btn-primary btn-lg">
+          <i class="fas fa-search"></i> Predict My Colleges
+        </a>
+        <a href="#how-it-works" class="btn btn-ghost btn-lg">
+          <i class="fas fa-play-circle"></i> How It Works
+        </a>
+      </div>
+      <div class="hero-trust">
+        <div class="trust-item"><i class="fas fa-database"></i><span>Official CAP Data</span></div>
+        <div class="trust-item"><i class="fas fa-university"></i><span>1000+ Colleges</span></div>
+        <div class="trust-item"><i class="fas fa-shield-alt"></i><span>No Registration</span></div>
+      </div>
+    </div>
+    <div class="hero-visual">
+      <div class="hero-card-stack">
+        <div class="mock-card mock-card-back-2">
+          <div class="mock-bar" style="width:55%"></div>
+          <div class="mock-bar short" style="width:30%"></div>
+        </div>
+        <div class="mock-card mock-card-back-1">
+          <div class="mock-bar" style="width:75%"></div>
+          <div class="mock-bar short" style="width:45%"></div>
+        </div>
+        <div class="mock-card mock-card-front">
+          <div class="mock-card-header">
+            <div class="mock-dot green"></div>
+            <span>Safe Admission · 98.4%</span>
+          </div>
+          <div class="mock-college">College of Engineering, Pune</div>
+          <div class="mock-branch">Computer Engineering · OPEN</div>
+          <div class="mock-meter-wrap">
+            <div class="mock-meter" style="--fill:88%"></div>
+          </div>
+          <div class="mock-chip safe">Safe Bet</div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Stats band -->
+  <div class="hero-stats">
+    <div class="stat-item">
+      <span class="stat-num" data-target="1200">0</span>
+      <span class="stat-label">Colleges Listed</span>
+    </div>
+    <div class="stat-divider"></div>
+    <div class="stat-item">
+      <span class="stat-num" data-target="8">0</span>
+      <span class="stat-label">CAP Rounds Covered</span>
+    </div>
+    <div class="stat-divider"></div>
+    <div class="stat-item">
+      <span class="stat-num" data-target="10">0</span>
+      <span class="stat-label">Caste Categories</span>
+    </div>
+    <div class="stat-divider"></div>
+    <div class="stat-item">
+      <span class="stat-num" data-target="50">0</span>
+      <span class="stat-label">Branch Options</span>
+    </div>
+  </div>
+</section>
+
+
+<!-- ═══════════════════════════════════════════════════════════
+     ABOUT
+═══════════════════════════════════════════════════════════ -->
+<section class="section about-section" id="about">
+  <div class="container">
+    <div class="section-label">About the Project</div>
+    <div class="about-grid">
+      <div class="about-text">
+        <h2 class="section-title">Built for Maharashtra<br/>Engineering Aspirants</h2>
+        <p>MAHA-DSE College Predictor is a data-driven tool that helps Direct Second Year (DSE) engineering students in Maharashtra understand which colleges they are likely to get admission in — before CAP counseling begins.</p>
+        <p>Using official cutoff data from Maharashtra State CET Cell across multiple CAP Rounds and academic years, the predictor analyzes your percentile, caste category, gender, and domicile to return a ranked, categorized list of realistic options.</p>
+        <div class="about-tags">
+          <span class="tag"><i class="fas fa-check"></i> Free to use</span>
+          <span class="tag"><i class="fas fa-check"></i> No login required</span>
+          <span class="tag"><i class="fas fa-check"></i> Real cutoff data</span>
+          <span class="tag"><i class="fas fa-check"></i> Multi-category support</span>
+        </div>
+      </div>
+      <div class="about-visual">
+        <div class="about-card">
+          <div class="about-card-icon teal"><i class="fas fa-chart-line"></i></div>
+          <h3>Data-Driven</h3>
+          <p>Every prediction is based on actual CAP Round cutoff percentiles — not estimates.</p>
+        </div>
+        <div class="about-card">
+          <div class="about-card-icon indigo"><i class="fas fa-layer-group"></i></div>
+          <h3>Tiered Results</h3>
+          <p>Colleges are grouped into Safe, High Chance, Target, Dream, and Very Dream tiers.</p>
+        </div>
+        <div class="about-card">
+          <div class="about-card-icon violet"><i class="fas fa-history"></i></div>
+          <h3>Search History</h3>
+          <p>Every prediction is saved locally. Re-run, compare, or share results anytime.</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+<!-- ═══════════════════════════════════════════════════════════
+     FEATURES
+═══════════════════════════════════════════════════════════ -->
+<section class="section features-section" id="features">
+  <div class="container">
+    <div class="section-label">Features</div>
+    <h2 class="section-title center">Everything You Need<br/>to Plan Your Admission</h2>
+    <div class="features-grid">
+      <div class="feature-card">
+        <div class="feature-icon"><i class="fas fa-filter"></i></div>
+        <h3>Smart Filtering</h3>
+        <p>Filter by caste category, gender, domicile, preferred branches, and CAP Round to get results that actually apply to you.</p>
+      </div>
+      <div class="feature-card">
+        <div class="feature-icon"><i class="fas fa-sort-amount-down"></i></div>
+        <h3>Tiered Categorization</h3>
+        <p>Results are automatically sorted into 5 tiers — from Safe to Very Dream — so you know exactly where each college stands.</p>
+      </div>
+      <div class="feature-card">
+        <div class="feature-icon"><i class="fas fa-percentage"></i></div>
+        <h3>Admission Chance Score</h3>
+        <p>Each college shows a visual admission chance meter based on the difference between your percentile and the CAP cutoff.</p>
+      </div>
+      <div class="feature-card">
+        <div class="feature-icon"><i class="fas fa-code-branch"></i></div>
+        <h3>Multi-Branch Support</h3>
+        <p>Select multiple preferred branches at once. The predictor shows results across all your chosen fields of engineering.</p>
+      </div>
+      <div class="feature-card">
+        <div class="feature-icon"><i class="fas fa-clock-rotate-left"></i></div>
+        <h3>Persistent History</h3>
+        <p>All your predictions are saved in your browser. Search, revisit, or delete any past prediction without signing in.</p>
+      </div>
+      <div class="feature-card">
+        <div class="feature-icon"><i class="fas fa-mobile-alt"></i></div>
+        <h3>Mobile Friendly</h3>
+        <p>Fully responsive design works on phones, tablets, and desktops. Check your colleges anywhere, anytime.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+<!-- ═══════════════════════════════════════════════════════════
+     HOW IT WORKS
+═══════════════════════════════════════════════════════════ -->
+<section class="section how-section" id="how-it-works">
+  <div class="container">
+    <div class="section-label">Process</div>
+    <h2 class="section-title center">How It Works</h2>
+    <p class="section-sub center">Three steps to get your personalized college list</p>
+    <div class="steps-grid">
+      <div class="step-card">
+        <div class="step-num">01</div>
+        <div class="step-icon"><i class="fas fa-keyboard"></i></div>
+        <h3>Enter Your Details</h3>
+        <p>Fill in your MHT-CET percentile, caste category, gender, domicile, and preferred engineering branches.</p>
+      </div>
+      <div class="step-arrow"><i class="fas fa-arrow-right"></i></div>
+      <div class="step-card">
+        <div class="step-num">02</div>
+        <div class="step-icon"><i class="fas fa-cogs"></i></div>
+        <h3>Algorithm Runs</h3>
+        <p>Our predictor compares your percentile against CAP cutoff data for your specific category combination across all matching colleges.</p>
+      </div>
+      <div class="step-arrow"><i class="fas fa-arrow-right"></i></div>
+      <div class="step-card">
+        <div class="step-num">03</div>
+        <div class="step-icon"><i class="fas fa-list-check"></i></div>
+        <h3>Get Your List</h3>
+        <p>Receive a tiered, ranked list of colleges with admission chance scores, cutoff data, and full details for each option.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+<!-- ═══════════════════════════════════════════════════════════
+     PREDICTION FORM
+═══════════════════════════════════════════════════════════ -->
+<section class="section predict-section" id="predict">
+  <div class="container">
+    <div class="section-label">Predict Now</div>
+    <h2 class="section-title center">Find Your Colleges</h2>
+    <p class="section-sub center">All fields are required. Your data stays in your browser — nothing is stored on our servers.</p>
+
+    <div class="form-wrapper">
+      <form id="predictForm" action="/predict" method="POST" novalidate>
+
+        <!-- Personal Info -->
+        <div class="form-section-title">
+          <i class="fas fa-user-circle"></i> Personal Information
+        </div>
+        <div class="form-row two-col">
+          <div class="form-group">
+            <label for="full_name">Full Name <span class="req">*</span></label>
+            <input type="text" id="full_name" name="full_name" placeholder="e.g. Rahul Sharma" required />
+            <span class="form-error" id="err_full_name"></span>
+          </div>
+          <div class="form-group">
+            <label for="mobile">Mobile Number <span class="req">*</span></label>
+            <input type="tel" id="mobile" name="mobile" placeholder="10-digit mobile number" maxlength="10" required />
+            <span class="form-error" id="err_mobile"></span>
+          </div>
+        </div>
+        <div class="form-row two-col">
+          <div class="form-group">
+            <label for="gender">Gender <span class="req">*</span></label>
+            <div class="select-wrap">
+              <select id="gender" name="gender" required>
+                <option value="">Select gender</option>
+                <option value="Male">Male</option>
+                <option value="Female">Female</option>
+                <option value="Other">Other / Transgender</option>
+              </select>
+              <i class="fas fa-chevron-down select-arrow"></i>
+            </div>
+            <span class="form-error" id="err_gender"></span>
+          </div>
+          <div class="form-group">
+            <label for="domicile">Domicile <span class="req">*</span></label>
+            <div class="select-wrap">
+              <select id="domicile" name="domicile" required>
+                <option value="">Select domicile</option>
+                <option value="Maharashtra">Maharashtra</option>
+                <option value="Outside Maharashtra">Outside Maharashtra</option>
+              </select>
+              <i class="fas fa-chevron-down select-arrow"></i>
+            </div>
+            <span class="form-error" id="err_domicile"></span>
+          </div>
+        </div>
+
+        <!-- Academic Info -->
+        <div class="form-section-title">
+          <i class="fas fa-graduation-cap"></i> Academic Details
+        </div>
+        <div class="form-row two-col">
+          <div class="form-group">
+            <label for="percentile">DSE CET Percentile <span class="req">*</span></label>
+            <input type="number" id="percentile" name="percentile" placeholder="e.g. 92.45" step="0.01" min="0" max="100" required />
+            <span class="form-error" id="err_percentile"></span>
+          </div>
+          <div class="form-group">
+            <label for="caste">Caste Category <span class="req">*</span></label>
+            <div class="select-wrap">
+              <select id="caste" name="caste" required>
+                <option value="">Select category</option>
+                <option value="OPEN">OPEN (General)</option>
+                <option value="OBC">OBC</option>
+                <option value="SEBC">SEBC</option>
+                <option value="SC">SC</option>
+                <option value="ST">ST</option>
+                <option value="VJ">VJ (Vimukta Jati)</option>
+                <option value="NT-A">NT-A</option>
+                <option value="NT-B">NT-B</option>
+                <option value="NT-C">NT-C</option>
+                <option value="NT-D">NT-D</option>
+                <option value="SBC">SBC</option>
+                <option value="EWS">EWS</option>
+              </select>
+              <i class="fas fa-chevron-down select-arrow"></i>
+            </div>
+            <span class="form-error" id="err_caste"></span>
+          </div>
+        </div>
+        <div class="form-row two-col">
+          <div class="form-group">
+            <label for="cap_round">CAP Round <span class="req">*</span></label>
+            <div class="select-wrap">
+              <select id="cap_round" name="cap_round" required>
+                <option value="">Select CAP Round</option>
+                {% for r in rounds %}
+                <option value="{{ r }}">CAP Round {{ r }}</option>
+                {% endfor %}
+                {% if not rounds %}
+                <option value="1">CAP Round 1</option>
+                <option value="2">CAP Round 2</option>
+                {% endif %}
+              </select>
+              <i class="fas fa-chevron-down select-arrow"></i>
+            </div>
+            <span class="form-error" id="err_cap_round"></span>
+          </div>
+          <div class="form-group"></div>
+        </div>
+
+        <!-- Branch Selection — simple checkboxes, no JS/API dependency -->
+        <div class="form-section-title">
+          <i class="fas fa-code-branch"></i> Preferred Branches
+          <span class="form-hint">Select one or more — or leave all unchecked to show all branches</span>
+        </div>
+        <div class="branch-controls" style="margin-bottom:0.75rem;">
+          <button type="button" class="btn-text" id="selectAllBranches">Select All</button>
+          <button type="button" class="btn-text danger" id="clearBranches">Clear All (Show All Branches)</button>
+        </div>
+        <div class="branch-checkbox-grid" id="branchGrid">
+          {% for branch in branches %}
+          <label class="branch-checkbox-item">
+            <input type="checkbox" name="preferred_branches" value="{{ branch }}" />
+            <span class="branch-checkbox-label">{{ branch }}</span>
+          </label>
+          {% endfor %}
+        </div>
+        <span class="form-error" id="err_branches"></span>
+        <p style="font-size:0.78rem;color:var(--slate);margin-top:0.4rem;">
+          <i class="fas fa-info-circle"></i> Leave all unchecked to search across all available branches.
+        </p>
+
+        <!-- Submit -->
+        <div class="form-submit-row">
+          <button type="submit" class="btn btn-primary btn-xl" id="submitBtn">
+            <i class="fas fa-search"></i>
+            <span id="submitText">Predict My Colleges</span>
+            <span id="submitSpinner" class="btn-spinner hidden"><i class="fas fa-spinner fa-spin"></i></span>
+          </button>
+          <button type="reset" class="btn btn-ghost" id="resetBtn">
+            <i class="fas fa-undo"></i> Reset Form
+          </button>
+        </div>
+      </form>
+    </div>
+  </div>
+</section>
+
+
+<!-- ═══════════════════════════════════════════════════════════
+     SEARCH HISTORY
+═══════════════════════════════════════════════════════════ -->
+<section class="section history-section" id="history">
+  <div class="container">
+    <div class="section-label">Your Searches</div>
+    <h2 class="section-title">Search History</h2>
+    <p class="section-sub">All your predictions are stored locally in your browser.</p>
+
+    <div class="history-toolbar">
+      <div class="history-search-wrap">
+        <i class="fas fa-search"></i>
+        <input type="text" id="historySearch" placeholder="Search by name or mobile…" />
+      </div>
+      <div class="history-actions">
+        <span class="history-count" id="historyCount">0 searches</span>
+        <button class="btn btn-danger-ghost" id="clearAllHistory">
+          <i class="fas fa-trash-alt"></i> Clear All
+        </button>
+      </div>
+    </div>
+
+    <div id="historyEmpty" class="history-empty">
+      <i class="fas fa-clock-rotate-left"></i>
+      <p>No predictions yet. Run your first search above!</p>
+    </div>
+
+    <div class="history-table-wrap" id="historyTableWrap">
+      <table class="history-table" id="historyTable">
+        <thead>
+          <tr>
+            <th>#</th>
+            <th>Name</th>
+            <th>Mobile</th>
+            <th>Percentile</th>
+            <th>Category</th>
+            <th>Gender</th>
+            <th>Year</th>
+            <th>Round</th>
+            <th>Branches</th>
+            <th>Colleges</th>
+            <th>Date &amp; Time</th>
+            <th>Actions</th>
+          </tr>
+        </thead>
+        <tbody id="historyBody"></tbody>
+      </table>
+    </div>
+  </div>
+</section>
+
+
+<!-- ═══════════════════════════════════════════════════════════
+     FAQ
+═══════════════════════════════════════════════════════════ -->
+<section class="section faq-section" id="faq">
+  <div class="container container-narrow">
+    <div class="section-label">FAQ</div>
+    <h2 class="section-title center">Common Questions</h2>
+
+    <div class="faq-list">
+      <div class="faq-item">
+        <button class="faq-q" aria-expanded="false">
+          How accurate is the prediction?
+          <i class="fas fa-chevron-down faq-icon"></i>
+        </button>
+        <div class="faq-a">
+          <p>The predictor uses official cutoff data published by Maharashtra State CET Cell for each CAP Round. Accuracy depends on how closely the current year's cutoffs match historical data. Treat results as guidance, not guarantees — actual cutoffs vary each year.</p>
+        </div>
+      </div>
+      <div class="faq-item">
+        <button class="faq-q" aria-expanded="false">
+          Which caste category should I select?
+          <i class="fas fa-chevron-down faq-icon"></i>
+        </button>
+        <div class="faq-a">
+          <p>Select your actual caste certificate category. The predictor filters cutoffs that match your category exactly, so incorrect selection will give misleading results. Common options: OPEN (General), OBC, SEBC, SC, ST, NT1/NT2/NT3, EWS.</p>
+        </div>
+      </div>
+      <div class="faq-item">
+        <button class="faq-q" aria-expanded="false">
+          What is DSE percentile vs MHT-CET percentile?
+          <i class="fas fa-chevron-down faq-icon"></i>
+        </button>
+        <div class="faq-a">
+          <p>For DSE (Direct Second Year), the percentile used is derived from your diploma aggregate marks, converted to a percentile by MSBTE/CET Cell. This may differ from your MHT-CET score if you appeared for that exam.</p>
+        </div>
+      </div>
+      <div class="faq-item">
+        <button class="faq-q" aria-expanded="false">
+          Is my data stored on your server?
+          <i class="fas fa-chevron-down faq-icon"></i>
+        </button>
+        <div class="faq-a">
+          <p>No. Search history is stored entirely in your browser's localStorage. Nothing is sent to or stored on our servers. Clearing your browser data will erase your search history.</p>
+        </div>
+      </div>
+      <div class="faq-item">
+        <button class="faq-q" aria-expanded="false">
+          Can I select multiple branches?
+          <i class="fas fa-chevron-down faq-icon"></i>
+        </button>
+        <div class="faq-a">
+          <p>Yes! You can select as many branches as you want. The predictor will return results across all selected branches, so you get a comprehensive view of your options.</p>
+        </div>
+      </div>
+      <div class="faq-item">
+        <button class="faq-q" aria-expanded="false">
+          What does "Very Dream" college mean?
+          <i class="fas fa-chevron-down faq-icon"></i>
+        </button>
+        <div class="faq-a">
+          <p>College tiers are based on the gap between your percentile and the college's cutoff. "Very Dream" means the cutoff is significantly above your percentile — admission is possible but would require a particularly favorable year or exceptional circumstances.</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+<!-- ═══════════════════════════════════════════════════════════
+     CONTACT
+═══════════════════════════════════════════════════════════ -->
+<section class="section contact-section" id="contact">
+  <div class="container container-narrow">
+    <div class="section-label">Contact</div>
+    <h2 class="section-title center">Questions or Feedback?</h2>
+    <p class="section-sub center">This is an open project. Reach out if you find bugs, want to contribute, or have suggestions.</p>
+    <div class="contact-cards">
+      <a href="https://github.com/abhij1401" target="_blank" class="contact-card">
+        <i class="fab fa-github"></i>
+        <h4>GitHub</h4>
+        <span>github.com/abhij1401</span>
+      </a>
+      <a href="https://linkedin.com/in/abhishek-jadhav-a1085a2bb" target="_blank" class="contact-card">
+        <i class="fab fa-linkedin"></i>
+        <h4>LinkedIn</h4>
+        <span>Abhishek Jadhav</span>
+      </a>
+      <div class="contact-card">
+        <i class="fas fa-envelope"></i>
+        <h4>Project</h4>
+        <span>MAHA-DSE Predictor · Pune, Maharashtra</span>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- Loading Overlay -->
+<div class="loading-overlay" id="loadingOverlay">
+  <div class="loading-box">
+    <div class="loading-spinner">
+      <div class="spinner-ring"></div>
+      <div class="spinner-ring ring-2"></div>
+      <i class="fas fa-graduation-cap loading-icon"></i>
+    </div>
+    <p class="loading-text">Analyzing cutoff data…</p>
+    <p class="loading-sub">Matching your profile against thousands of college-branch combinations</p>
+  </div>
+</div>
+
+{% endblock %}
+
+{% block scripts %}
+<script>
+  // Pass Flask data to JS
+  window.MAHA_DSE = {
+    availableYears: {{ years | tojson }},
+    availableRounds: {{ rounds | tojson }},
+  };
+</script>
+<script>
+(function () {
+  document.addEventListener('DOMContentLoaded', function () {
+    const branchGrid    = document.getElementById('branchGrid');
+    const selectAllBtn  = document.getElementById('selectAllBranches');
+    const clearBtn      = document.getElementById('clearBranches');
+
+    if (selectAllBtn && branchGrid) {
+      selectAllBtn.addEventListener('click', function () {
+        branchGrid.querySelectorAll('input[type="checkbox"]').forEach(function (cb) { cb.checked = true; });
+      });
+    }
+    if (clearBtn && branchGrid) {
+      clearBtn.addEventListener('click', function () {
+        branchGrid.querySelectorAll('input[type="checkbox"]').forEach(function (cb) { cb.checked = false; });
+      });
+    }
+  });
+})();
+</script>
+{% endblock %}
